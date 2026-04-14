@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:felogin/Resources/Private/Language/Database.xlf">
+    <header/>
+    <body>
+      <trans-unit id="tt_content.CType_pi1">
+        <source>Website User Login</source>
+        <target>Website User Slide-In, bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.CType.felogin_login.title">
+        <source>Login Form</source>
+        <target>Slide-In Form, fam</target>
+      </trans-unit>
+      <trans-unit id="tt_content.CType.felogin_login.description">
+        <source>Login/logout form used to password protect pages allowing only authorised website users and groups access.</source>
+        <target>Slide-in/peace-out form to gatekeep pages so only authorized users and groups can vibe, no cap.</target>
+      </trans-unit>
+      <trans-unit id="felogin_redirectPid">
+        <source>Redirect at Login to Page (felogin)</source>
+        <target>Redirect on slide-in to page (felogin), bestie</target>
+      </trans-unit>
+      <trans-unit id="felogin_forgotHash">
+        <source>Forgot hash</source>
+        <target>Forgot hash, bruh</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.general_header">
+        <source>General Header</source>
+        <target>Main character header</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.general_message">
+        <source>General Message</source>
+        <target>Main character message</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirect_header">
+        <source>Redirect Header</source>
+        <target>Redirect header, fam</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirect_message">
+        <source>Redirect Message</source>
+        <target>Redirect message, bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.welcome_header">
+        <source>Welcome Header</source>
+        <target>Welcome header, fam</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.welcome_message">
+        <source>Welcome Message</source>
+        <target>Welcome message, bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.success_header">
+        <source>Login Success Header</source>
+        <target>Slide-in W header</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.success_message">
+        <source>Login Success Message</source>
+        <target>Slide-in W message</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.error_header">
+        <source>Login Error Header</source>
+        <target>Slide-in oof header</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.error_message">
+        <source>Login Error Message</source>
+        <target>Slide-in oof message</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.status_header">
+        <source>Status Display Header</source>
+        <target>Vibe check header</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.status_message">
+        <source>Status Display Message</source>
+        <target>Vibe check message</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.logout_header">
+        <source>Logout Header</source>
+        <target>Peace-out header</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.logout_message">
+        <source>Logout Message</source>
+        <target>Peace-out message</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.forgot_header">
+        <source>Forgot Password Header</source>
+        <target>Forgot password header, bruh</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.forgot_message">
+        <source>Forgot Password Message</source>
+        <target>Forgot password message, bruh</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.sheet_general">
+        <source>General</source>
+        <target>The vibes</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.sheet_redirect">
+        <source>Redirects</source>
+        <target>Redirects, fam</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.sheet_messages">
+        <source>Messages</source>
+        <target>DMs</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.show_forgot_password">
+        <source>Display Password Recovery Link</source>
+        <target>Show the password recovery link, bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.show_permalogin">
+        <source>Display Remember Login Option</source>
+        <target>Show "stay slid in" option</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.show_logoutFormAfterLogin">
+        <source>Disable redirect after successful login, but display logout-form</source>
+        <target>Skip the redirect after a W login, but show the peace-out form instead, ngl</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode">
+        <source>FE group select mode:</source>
+        <target>FE group pick mode, fam:</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode_showAll">
+        <source>Show all</source>
+        <target>Show the whole squad</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode_showSelected">
+        <source>Show selected</source>
+        <target>Show the picked ones</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode_DontShowSelected">
+        <source>Don't show selected</source>
+        <target>Ghost the selected ones</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode_FromTS">
+        <source>(from Typoscript)</source>
+        <target>(from TypoScript), bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelection">
+        <source>FE group selection:</source>
+        <target>FE group pick, fam:</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelection_noGroup">
+        <source>no group</source>
+        <target>no squad</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.field_manualOrder">
+        <source>Using fieldlists below:</source>
+        <target>Using field lists below, bestie:</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.field_orderList">
+        <source>User Fields/list:</source>
+        <target>User fields/list, fam:</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.field_orderDetails">
+        <source>User Fields/details:</source>
+        <target>User fields/details, bestie:</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode">
+        <source>Redirect Mode</source>
+        <target>Redirect mode, fam</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.0">
+        <source>Defined by Usergroup Record</source>
+        <target>Based on the usergroup record, bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.1">
+        <source>Defined by User Record</source>
+        <target>Based on the user record, fam</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.2">
+        <source>After Login (TS or Flexform)</source>
+        <target>After slide-in (TS or Flexform)</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.3">
+        <source>After Logout (TS or Flexform)</source>
+        <target>After peace-out (TS or Flexform)</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.4">
+        <source>After Login Error (TS or Flexform)</source>
+        <target>After slide-in L (TS or Flexform)</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.5">
+        <source>Defined by GET/POST Parameters</source>
+        <target>Based on GET/POST parameters, bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.6">
+        <source>Defined by Referrer</source>
+        <target>Based on referrer, fam</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.7">
+        <source>Defined by Domain Entries</source>
+        <target>Based on domain entries, bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectFirstMethod">
+        <source>Use First Supported Mode from Selection</source>
+        <target>Use the first supported mode from the picks, fam</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectDisable">
+        <source>Disable Redirect</source>
+        <target>Ghost the redirect</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectPageLogin">
+        <source>After Successful Login Redirect to Page</source>
+        <target>After a W slide-in, redirect to page</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectPageLoginError">
+        <source>After Failed Login Redirect to Page</source>
+        <target>After an L slide-in, redirect to page</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectPageLogout">
+        <source>After Logout Redirect to Page</source>
+        <target>After peace-out, redirect to page</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.template_file">
+        <source>Template File</source>
+        <target>Template file, bestie</target>
+      </trans-unit>
+      <trans-unit id="tt_content.pi_flexform.user_storage">
+        <source>User Storage Page</source>
+        <target>User storage page, fam</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

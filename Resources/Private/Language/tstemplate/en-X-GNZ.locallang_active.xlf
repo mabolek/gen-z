@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:tstemplate/Resources/Private/Language/locallang_active.xlf">
+    <header/>
+    <body>
+      <trans-unit id="submodule.title"><source>Active TypoScript</source><target>Active TypoScript, bestie</target></trans-unit>
+      <trans-unit id="submodule.titleWithRecord"><source>Active TypoScript for record "%s"</source><target>Active TypoScript for record "%s", fam</target></trans-unit>
+      <trans-unit id="submodule.description"><source>Overview of the current TypoScript configuration of the system, divided into constants and setup parts. Optionally, the constant values can be displayed directly in the setup. A targeted search for values and TypoScript names is possible. The list of results can also be filtered according to TypoScript conditions.</source><target>Overview of the current TypoScript config, split into constants and setup. You can optionally show constant values directly in setup. Stalk for values and TypoScript names. Results can be filtered by TypoScript conditions.</target></trans-unit>
+      <trans-unit id="infobox.message.noTypoScriptFound"><source>No TypoScript found.</source><target>No TypoScript found, oof.</target></trans-unit>
+      <trans-unit id="options.displayComments"><source>Display comments</source><target>Show comments</target></trans-unit>
+      <trans-unit id="options.displayConstantSubstitutions"><source>Substitute constants in setup</source><target>Swap constants in setup</target></trans-unit>
+      <trans-unit id="options.selectedRecord"><source>Selected record</source><target>The chosen record</target></trans-unit>
+      <trans-unit id="options.sortAlphabetically"><source>Sort keys alphabetically</source><target>Sort keys A to Z</target></trans-unit>
+      <trans-unit id="sectionHeadline.constants"><source>Constants</source><target>The constants</target></trans-unit>
+      <trans-unit id="sectionHeadline.setup"><source>Setup</source><target>The setup</target></trans-unit>
+      <trans-unit id="panel.header.conditions"><source>Conditions</source><target>The conditions</target></trans-unit>
+      <trans-unit id="panel.header.configuration"><source>Configuration</source><target>Config vibes</target></trans-unit>
+      <trans-unit id="panel.header.numberOfSearchMatches"><source>%s search match(es)</source><target>%s stalk match(es)</target></trans-unit>
+      <trans-unit id="panel.info.conditionActiveCount.multiple"><source>%s active conditions</source><target>%s active conditions, no cap</target></trans-unit>
+      <trans-unit id="panel.info.conditionActiveCount.single"><source>%s active condition</source><target>%s active condition, bestie</target></trans-unit>
+      <trans-unit id="panel.info.conditionWithConstant"><source>Constant usage: [%s]</source><target>Constant usage: [%s], fam</target></trans-unit>
+      <trans-unit id="tree.valueWithConstant"><source>Constant usage: %s</source><target>Constant usage: %s, ngl</target></trans-unit>
+      <trans-unit id="editAction.submodule.title"><source>Edit single property</source><target>Glow up single property</target></trans-unit>
+      <trans-unit id="editAction.submodule.titleWithTemplate"><source>Edit single property in TypoScript record "%s"</source><target>Glow up single property in TypoScript record "%s"</target></trans-unit>
+      <trans-unit id="editAction.infobox.title.noTypoScriptTemplateOnCurrentPage"><source>No TypoScript record on the current page</source><target>No TypoScript record on this page, oof</target></trans-unit>
+      <trans-unit id="editAction.infobox.message.noTypoScriptTemplateOnCurrentPage"><source>You cannot edit properties and values if there is no current TypoScript record in which the configuration can be stored. Please create an extension TypoScript record in "Edit TypoScript Record" first.</source><target>Can't glow up properties and values without a TypoScript record to store the config in. Drop an extension TypoScript record in "Glow up TypoScript Record" first.</target></trans-unit>
+      <trans-unit id="editAction.addProperty.headline"><source>Add or override child property</source><target>Drop or override child property, fam</target></trans-unit>
+      <trans-unit id="editAction.addProperty.btn"><source>Add</source><target>Drop it</target></trans-unit>
+      <trans-unit id="editAction.editProperty.headline"><source>Edit current value</source><target>Glow up current value</target></trans-unit>
+      <trans-unit id="editAction.editProperty.btn"><source>Update</source><target>Refresh it</target></trans-unit>
+      <trans-unit id="editAction.clearObject.headline"><source>Clear the object</source><target>Wipe the object</target></trans-unit>
+      <trans-unit id="editAction.clearObject.infotextWithProperty"><source>The object will be cleared via the statement:</source><target>The object will get wiped via the statement:</target></trans-unit>
+      <trans-unit id="editAction.clearObject.btn"><source>Clear now</source><target>Wipe it now</target></trans-unit>
+      <trans-unit id="updateAction.lineAdded"><source>Line added to current TypoScript record</source><target>Line dropped into the current TypoScript record</target></trans-unit>
+      <trans-unit id="updateAction.lineNotAdded"><source>No line added to current TypoScript record</source><target>No line dropped into the current TypoScript record</target></trans-unit>
+      <trans-unit id="updateAction.noSpaces"><source>You must enter a property with characters "a-z", "A-Z", "0-9", or ".". Dots will be quoted. No spaces or special chars.</source><target>You gotta enter a property with characters "a-z", "A-Z", "0-9", or ".". Dots get quoted. No spaces or special chars, bestie.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

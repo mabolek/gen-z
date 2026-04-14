@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_core.xlf">
+    <header/>
+    <body>
+      <trans-unit id="labels.datepicker.label">
+        <source>Open date picker</source>
+        <target>Pull up date picker</target>
+      </trans-unit>
+      <trans-unit id="labels.openInNewWindow">
+        <source>Open in new window</source>
+        <target>Pull up in a new window</target>
+      </trans-unit>
+      <trans-unit id="labels.goBack">
+        <source>Go back</source>
+        <target>Go back fam</target>
+      </trans-unit>
+      <trans-unit id="labels.makeShortcut">
+        <source>Create a shortcut to this page?</source>
+        <target>Drop a shortcut to this page?</target>
+      </trans-unit>
+      <trans-unit id="labels.makeBookmark">
+        <source>Create a bookmark to this record</source>
+        <target>Let this record live rent free in your bookmarks</target>
+      </trans-unit>
+      <trans-unit id="labels.alreadyBookmarked">
+        <source>This record is already bookmarked</source>
+        <target>This record is already living rent free bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.copyCurrentUrl">
+        <source>Copy URL of this record</source>
+        <target>Yoink the URL of this record</target>
+      </trans-unit>
+      <trans-unit id="labels.lockedRecord">
+        <source>The user '%s' began to edit this record %s ago.</source>
+        <target>The homie '%s' started glowing up this record %s ago.</target>
+      </trans-unit>
+      <trans-unit id="labels.lockedRecord_content">
+        <source>The user '%s' began to edit content on this page %s ago.</source>
+        <target>The homie '%s' started glowing up content on this page %s ago.</target>
+      </trans-unit>
+      <trans-unit id="labels.lockedRecordUser">
+        <source>The %s '%s' began to edit this record %s ago.</source>
+        <target>The %s '%s' started glowing up this record %s ago.</target>
+      </trans-unit>
+      <trans-unit id="labels.lockedRecordUser_content">
+        <source>The %s '%s' began to edit content on this page %s ago.</source>
+        <target>The %s '%s' started glowing up content on this page %s ago.</target>
+      </trans-unit>
+      <trans-unit id="labels.color">
+        <source>Color</source>
+        <target>Color bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.user">
+        <source>User</source>
+        <target>Bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.beUser">
+        <source>BE-User</source>
+        <target>Backend Homie</target>
+      </trans-unit>
+      <trans-unit id="labels.feUser">
+        <source>FE-User</source>
+        <target>Frontend Homie</target>
+      </trans-unit>
+      <trans-unit id="labels.unknownUser">
+        <source>-Unknown-</source>
+        <target>-Who even are you-</target>
+      </trans-unit>
+      <trans-unit id="labels.showRecords">
+        <source>Show records</source>
+        <target>Show the receipts</target>
+      </trans-unit>
+      <trans-unit id="labels.path">
+        <source>Path</source>
+        <target>The path, bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.resetFilter">
+        <source>Reset Filter</source>
+        <target>Reset filter, clean slate</target>
+      </trans-unit>
+      <trans-unit id="labels.table">
+        <source>Table</source>
+        <target>The table</target>
+      </trans-unit>
+      <trans-unit id="labels.upOneLevel">
+        <source>Up one level</source>
+        <target>Level up</target>
+      </trans-unit>
+      <trans-unit id="labels.expandTable">
+        <source>Expand table</source>
+        <target>Unpack the table</target>
+      </trans-unit>
+      <trans-unit id="labels.collapseTable">
+        <source>Collapse table</source>
+        <target>Pack it up</target>
+      </trans-unit>
+      <trans-unit id="labels.enterSearchString">
+        <source>Enter search term</source>
+        <target>Drop your search term</target>
+      </trans-unit>
+      <trans-unit id="labels.enterSearchLevels">
+        <source>This page|1 level down|2 levels down|3 levels down|4 levels down</source>
+        <target>This page|1 level deep|2 levels deep|3 levels deep|4 levels deep</target>
+      </trans-unit>
+      <trans-unit id="labels.searchLevel.0">
+        <source>This page</source>
+        <target>This page rn</target>
+      </trans-unit>
+      <trans-unit id="labels.searchLevel.1">
+        <source>1 level down</source>
+        <target>1 level deep</target>
+      </trans-unit>
+      <trans-unit id="labels.searchLevel.2">
+        <source>2 levels down</source>
+        <target>2 levels deep</target>
+      </trans-unit>
+      <trans-unit id="labels.searchLevel.3">
+        <source>3 levels down</source>
+        <target>3 levels deep</target>
+      </trans-unit>
+      <trans-unit id="labels.searchLevel.4">
+        <source>4 levels down</source>
+        <target>4 levels deep</target>
+      </trans-unit>
+      <trans-unit id="labels.searchLevel.infinite">
+        <source>Infinite levels</source>
+        <target>Infinite levels no cap</target>
+      </trans-unit>
+      <trans-unit id="labels.noEditPermission">
+        <source>Sorry, you didn't have proper permissions to perform this change.</source>
+        <target>Red flag! You're gatekept fam. No permissions to make this change.</target>
+      </trans-unit>
+      <trans-unit id="labels.fieldsMissing.title">
+        <source>Alert</source>
+        <target>Ayo heads up!</target>
+      </trans-unit>
+      <trans-unit id="labels.fieldsMissing">
+        <source>The fields marked with an exclamation mark are not yet correctly filled in. Please complete them properly.</source>
+        <target>The fields with the exclamation mark aren't filled in right yet bestie. Please complete them properly.</target>
+      </trans-unit>
+      <trans-unit id="labels.fieldsChanged">
+        <source>Important: There are unsaved changes in the form. Continuing without saving will discard your changes. Continue?</source>
+        <target>Ngl you got unsaved changes! If you keep going without saving they're gone fr fr. Continue?</target>
+      </trans-unit>
+      <trans-unit id="labels.remainingCharacters">
+        <source>Remaining characters: {0}</source>
+        <target>Characters left: {0}</target>
+      </trans-unit>
+      <trans-unit id="labels.minCharactersLeft">
+        <source>Characters missing: {0}</source>
+        <target>You need {0} more characters fam</target>
+      </trans-unit>
+      <trans-unit id="labels.maxItemsAllowed">
+        <source>A maximum of {0} child records are allowed.</source>
+        <target>Max {0} child records allowed, no cap.</target>
+      </trans-unit>
+      <trans-unit id="labels.noRTEfound">
+        <source>Notice: This field can only be edited with a Rich Text Editor. No editor is currently available or enabled.</source>
+        <target>Heads up: This field only works with a Rich Text Editor. None available or enabled rn bestie.</target>
+      </trans-unit>
+      <trans-unit id="labels.recordInformation">
+        <source>Record information</source>
+        <target>Record deets</target>
+      </trans-unit>
+      <trans-unit id="labels.disableRTE">
+        <source>Disable Rich Text Editor (RTE)</source>
+        <target>Ghost the Rich Text Editor (RTE)</target>
+      </trans-unit>
+      <trans-unit id="labels._CONTROL_">
+        <source>Control</source>
+        <target>The controls</target>
+      </trans-unit>
+      <trans-unit id="labels._PATH_">
+        <source>Path</source>
+        <target>The path, bestie</target>
+      </trans-unit>
+      <trans-unit id="labels._LOCALIZATION_">
+        <source>Localization</source>
+        <target>Translation vibes</target>
+      </trans-unit>
+      <trans-unit id="labels._REF_">
+        <source>References</source>
+        <target>References fam</target>
+      </trans-unit>
+      <trans-unit id="labels.uid">
+        <source>Unique ID</source>
+        <target>One-of-a-kind ID</target>
+      </trans-unit>
+      <trans-unit id="labels.pid">
+        <source>Parent page ID</source>
+        <target>Mama page ID</target>
+      </trans-unit>
+      <trans-unit id="labels.tstamp">
+        <source>Last modified</source>
+        <target>Last glowed up</target>
+      </trans-unit>
+      <trans-unit id="labels.crdate">
+        <source>Creation date</source>
+        <target>Birthday</target>
+      </trans-unit>
+      <trans-unit id="labels.cruser_id">
+        <source>Created by</source>
+        <target>Dropped by</target>
+      </trans-unit>
+      <trans-unit id="labels.sorting">
+        <source>Sorting</source>
+        <target>The lineup order</target>
+      </trans-unit>
+      <trans-unit id="labels.sorting.asc">
+        <source>Sort ascending</source>
+        <target>Sort going up</target>
+      </trans-unit>
+      <trans-unit id="labels.sorting.desc">
+        <source>Sort descending</source>
+        <target>Sort going down</target>
+      </trans-unit>
+      <trans-unit id="labels.t3ver_state">
+        <source>Workspace status</source>
+        <target>Workspace vibes</target>
+      </trans-unit>
+      <trans-unit id="labels.t3ver_wsid">
+        <source>Workspace ID</source>
+        <target>Workspace ID, fam</target>
+      </trans-unit>
+      <trans-unit id="labels.t3ver_oid">
+        <source>Live record ID</source>
+        <target>Live record ID, no cap</target>
+      </trans-unit>
+      <trans-unit id="labels.setFields">
+        <source>Set fields</source>
+        <target>Set fields fam</target>
+      </trans-unit>
+      <trans-unit id="labels.search">
+        <source>Search</source>
+        <target>Stalk</target>
+      </trans-unit>
+      <trans-unit id="labels.author">
+        <source>Author</source>
+        <target>Who wrote this</target>
+      </trans-unit>
+      <trans-unit id="labels.note">
+        <source>Note</source>
+        <target>Side note</target>
+      </trans-unit>
+      <trans-unit id="labels.category">
+        <source>Category</source>
+        <target>Vibe category</target>
+      </trans-unit>
+      <trans-unit id="labels.reload">
+        <source>Reload</source>
+        <target>Reload fam</target>
+      </trans-unit>
+      <trans-unit id="labels.language">
+        <source>Language</source>
+        <target>Tongue</target>
+      </trans-unit>
+      <trans-unit id="labels.languages">
+        <source>Languages</source>
+        <target>Tongues</target>
+      </trans-unit>
+      <trans-unit id="labels.view">
+        <source>View</source>
+        <target>Peep this</target>
+      </trans-unit>
+      <trans-unit id="labels.view.layout">
+        <source>Layout</source>
+        <target>Layout vibes</target>
+      </trans-unit>
+      <trans-unit id="labels.view.language_comparison">
+        <source>Language Comparison</source>
+        <target>Language showdown</target>
+      </trans-unit>
+      <trans-unit id="labels.view.list">
+        <source>List</source>
+        <target>The lineup</target>
+      </trans-unit>
+      <trans-unit id="labels.view.tiles">
+        <source>Tiles</source>
+        <target>Tile aesthetic</target>
+      </trans-unit>
+      <trans-unit id="labels.view.showThumbnails">
+        <source>Show thumbnails</source>
+        <target>Show the mini pics</target>
+      </trans-unit>
+      <trans-unit id="labels.view.showClipboard">
+        <source>Show clipboard</source>
+        <target>Show the clipboard bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.view.showSearch">
+        <source>Show search</source>
+        <target>Show the stalk bar</target>
+      </trans-unit>
+      <trans-unit id="labels.view.selectColumns">
+        <source>Select columns</source>
+        <target>Pick columns</target>
+      </trans-unit>
+      <trans-unit id="labels.share">
+        <source>Share</source>
+        <target>Share it bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.csv">
+        <source>Download CSV file</source>
+        <target>Snag CSV file</target>
+      </trans-unit>
+      <trans-unit id="labels.clear_cache">
+        <source>Clear cache for this page</source>
+        <target>Yeet cache for this page</target>
+      </trans-unit>
+      <trans-unit id="labels.no_title">
+        <source>No title</source>
+        <target>No title, lowkey anonymous</target>
+      </trans-unit>
+      <trans-unit id="labels.cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.deactivate">
+        <source>Deactivate</source>
+        <target>Ghost it</target>
+      </trans-unit>
+      <trans-unit id="labels.hidden">
+        <source>Hidden</source>
+        <target>Ghosted</target>
+      </trans-unit>
+      <trans-unit id="labels.starttime">
+        <source>Start</source>
+        <target>Let's gooo</target>
+      </trans-unit>
+      <trans-unit id="labels.endtime">
+        <source>End</source>
+        <target>It's over fam</target>
+      </trans-unit>
+      <trans-unit id="labels.minutesHoursDaysYears">
+        <source>min|hrs|days|yrs|min|hour|day|year</source>
+        <target>min|hrs|days|yrs|min|hour|day|year fr</target>
+      </trans-unit>
+      <trans-unit id="labels.menu">
+        <source>Menu</source>
+        <target>The menu</target>
+      </trans-unit>
+      <trans-unit id="labels.showPage">
+        <source>View webpage</source>
+        <target>Peep the webpage</target>
+      </trans-unit>
+      <trans-unit id="labels.showList">
+        <source>Show record list</source>
+        <target>Show the record lineup</target>
+      </trans-unit>
+      <trans-unit id="labels.ws.deletedElement">
+        <source>Deleted element</source>
+        <target>Yeeted element</target>
+      </trans-unit>
+      <trans-unit id="labels.ws.newLocation">
+        <source>New location (Move-to Pointer) WSID#%s</source>
+        <target>Fresh location (Move-to Pointer) WSID#%s</target>
+      </trans-unit>
+      <trans-unit id="labels.ws.newElement">
+        <source>New element</source>
+        <target>Fresh element</target>
+      </trans-unit>
+      <trans-unit id="labels.days">
+        <source>days</source>
+        <target>days fr</target>
+      </trans-unit>
+      <trans-unit id="labels.depth_0">
+        <source>This page</source>
+        <target>This page rn</target>
+      </trans-unit>
+      <trans-unit id="labels.depth_1">
+        <source>1 level</source>
+        <target>1 level deep</target>
+      </trans-unit>
+      <trans-unit id="labels.depth_2">
+        <source>2 levels</source>
+        <target>2 levels deep</target>
+      </trans-unit>
+      <trans-unit id="labels.depth_3">
+        <source>3 levels</source>
+        <target>3 levels deep</target>
+      </trans-unit>
+      <trans-unit id="labels.depth_4">
+        <source>4 levels</source>
+        <target>4 levels deep</target>
+      </trans-unit>
+      <trans-unit id="labels.depth_infi">
+        <source>Infinite</source>
+        <target>Infinite no cap</target>
+      </trans-unit>
+      <trans-unit id="labels.allow">
+        <source>Allow</source>
+        <target>Let them cook</target>
+      </trans-unit>
+      <trans-unit id="labels.deny">
+        <source>Deny</source>
+        <target>Nah fam</target>
+      </trans-unit>
+      <trans-unit id="labels.automatic">
+        <source>Auto</source>
+        <target>Auto pilot</target>
+      </trans-unit>
+      <trans-unit id="labels.enabled">
+        <source>Enabled</source>
+        <target>It's giving active</target>
+      </trans-unit>
+      <trans-unit id="labels.show">
+        <source>Show</source>
+        <target>Show it fam</target>
+      </trans-unit>
+      <trans-unit id="labels.openTreeOptionsMenu">
+        <source>Open tree options menu</source>
+        <target>Pull up tree options</target>
+      </trans-unit>
+      <trans-unit id="labels.openPageTreeOptionsMenu">
+        <source>Open page tree options menu</source>
+        <target>Pull up page tree options</target>
+      </trans-unit>
+      <trans-unit id="labels.refresh">
+        <source>Reload the tree from server</source>
+        <target>Reload the tree from server fam</target>
+      </trans-unit>
+      <trans-unit id="labels.collapse">
+        <source>Collapse all tree items</source>
+        <target>Pack up all tree items</target>
+      </trans-unit>
+      <trans-unit id="labels.temporaryPageTreeEntryPoints">
+        <source>Cancel temporary Page Tree Entry Points</source>
+        <target>Nvm the temporary Page Tree spawn points</target>
+      </trans-unit>
+      <trans-unit id="labels.refreshList">
+        <source>Reload list from server</source>
+        <target>Reload list from server bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.close">
+        <source>Close</source>
+        <target>Peace out</target>
+      </trans-unit>
+      <trans-unit id="labels.tableWizard">
+        <source>Table Wizard</source>
+        <target>Table Wizard bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.new">
+        <source>New</source>
+        <target>Fresh</target>
+      </trans-unit>
+      <trans-unit id="labels.list">
+        <source>List</source>
+        <target>The lineup</target>
+      </trans-unit>
+      <trans-unit id="labels.link">
+        <source>Link</source>
+        <target>The link</target>
+      </trans-unit>
+      <trans-unit id="labels.edit">
+        <source>Edit</source>
+        <target>Glow up</target>
+      </trans-unit>
+      <trans-unit id="labels.createNew">
+        <source>Create new</source>
+        <target>Drop a fresh one</target>
+      </trans-unit>
+      <trans-unit id="labels.createNewPage">
+        <source>Create new %s</source>
+        <target>Drop a fresh %s</target>
+      </trans-unit>
+      <trans-unit id="labels.createNewRecord">
+        <source>Create new %s on page "%s"</source>
+        <target>Drop a fresh %s on page "%s"</target>
+      </trans-unit>
+      <trans-unit id="labels.createNewTranslation">
+        <source>Create a %s translation</source>
+        <target>Drop a %s translation</target>
+      </trans-unit>
+      <trans-unit id="labels.createNewRecordRootLevel">
+        <source>Create new %s on root level</source>
+        <target>Drop a fresh %s on root level</target>
+      </trans-unit>
+      <trans-unit id="labels.editPage">
+        <source>Edit %s "%s"</source>
+        <target>Glow up %s "%s"</target>
+      </trans-unit>
+      <trans-unit id="labels.editRecord">
+        <source>Edit %s "%s" on page "%s"</source>
+        <target>Glow up %s "%s" on page "%s"</target>
+      </trans-unit>
+      <trans-unit id="labels.editRecordNoTitle">
+        <source>Edit %s on page "%s"</source>
+        <target>Glow up %s on page "%s"</target>
+      </trans-unit>
+      <trans-unit id="labels.editRecordRootLevel">
+        <source>Edit %s "%s" on root level</source>
+        <target>Glow up %s "%s" on root level</target>
+      </trans-unit>
+      <trans-unit id="labels.editMultiple">
+        <source>Edit multiple</source>
+        <target>Glow up multiple</target>
+      </trans-unit>
+      <trans-unit id="labels.editMultiplePages">
+        <source>Edit multiple pages</source>
+        <target>Glow up multiple pages</target>
+      </trans-unit>
+      <trans-unit id="labels.editMultipleRecords">
+        <source>Edit multiple "%s" records on page "%s"</source>
+        <target>Glow up multiple "%s" records on page "%s"</target>
+      </trans-unit>
+      <trans-unit id="labels.editMultipleRecordsRootLevel">
+        <source>Edit multiple "%s" records on root level</source>
+        <target>Glow up multiple "%s" records on root level</target>
+      </trans-unit>
+      <trans-unit id="labels.records">
+        <source>{count, plural, one {# record} other {# records}}</source>
+        <target>{count, plural, one {# record} other {# records}} fr</target>
+      </trans-unit>
+      <trans-unit id="labels.rootLevel">
+        <source>Root level</source>
+        <target>Root level (the OG)</target>
+      </trans-unit>
+      <trans-unit id="labels.addnew">
+        <source>Add new</source>
+        <target>Drop a new one</target>
+      </trans-unit>
+      <trans-unit id="labels.toggleall">
+        <source>Toggle all</source>
+        <target>Flip all fam</target>
+      </trans-unit>
+      <trans-unit id="labels.toggleSelection">
+        <source>Toggle selection</source>
+        <target>Flip the selection</target>
+      </trans-unit>
+      <trans-unit id="labels.selected">
+        <source>Selected Items</source>
+        <target>Selected things</target>
+      </trans-unit>
+      <trans-unit id="labels.items">
+        <source>Available Items</source>
+        <target>Available things</target>
+      </trans-unit>
+      <trans-unit id="labels.remove_selected">
+        <source>Remove selected items</source>
+        <target>Yeet selected items</target>
+      </trans-unit>
+      <trans-unit id="labels.move_to_top">
+        <source>Move selected items to top</source>
+        <target>Slide selected items to the top</target>
+      </trans-unit>
+      <trans-unit id="labels.move_up">
+        <source>Move selected items upwards</source>
+        <target>Slide selected items up</target>
+      </trans-unit>
+      <trans-unit id="labels.move_down">
+        <source>Move selected items downwards</source>
+        <target>Slide selected items down</target>
+      </trans-unit>
+      <trans-unit id="labels.move_to_bottom">
+        <source>Move selected items to bottom</source>
+        <target>Slide selected items to the bottom</target>
+      </trans-unit>
+      <trans-unit id="labels.move">
+        <source>Move this item</source>
+        <target>Slide this over</target>
+      </trans-unit>
+      <trans-unit id="labels.browse_elements">
+        <source>Browse for elements</source>
+        <target>Browse for elements bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.browse_folder">
+        <source>Browse for folders</source>
+        <target>Browse for folders fam</target>
+      </trans-unit>
+      <trans-unit id="labels.browse_db">
+        <source>Browse for records</source>
+        <target>Browse for records bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.clipInsert_file">
+        <source>Insert %s file(s) from the clipboard</source>
+        <target>Drop %s file(s) from the clipboard</target>
+      </trans-unit>
+      <trans-unit id="labels.clipInsert_db">
+        <source>Insert %s record(s) from the clipboard</source>
+        <target>Drop %s record(s) from the clipboard</target>
+      </trans-unit>
+      <trans-unit id="labels.generalOptions">
+        <source>General options</source>
+        <target>General vibes</target>
+      </trans-unit>
+      <trans-unit id="labels.generalOptions_more">
+        <source>General options (continued)</source>
+        <target>General vibes (continued)</target>
+      </trans-unit>
+      <trans-unit id="labels.allTables">
+        <source>[All tables]</source>
+        <target>[All the tables]</target>
+      </trans-unit>
+      <trans-unit id="labels.noMatchingValue">
+        <source>Invalid value ("%s")</source>
+        <target>Sus value ("%s"), delulu!</target>
+      </trans-unit>
+      <trans-unit id="labels.typeNotAllowedInColumn">
+        <source>This element of type "%s" is not allowed in this column.</source>
+        <target>This element of type "%s" is gatekept in this column fam.</target>
+      </trans-unit>
+      <trans-unit id="labels.noMatchingLabel">
+        <source>Missing label ("%s")</source>
+        <target>Missing label ("%s"), it's giving nothing</target>
+      </trans-unit>
+      <trans-unit id="labels.thumbmode_clip">
+        <source>Show Thumbnails on ClipBoard</source>
+        <target>Show thumbnails on clipboard</target>
+      </trans-unit>
+      <trans-unit id="labels.copymode">
+        <source>Copy items instead of moving them</source>
+        <target>Yoink items instead of sliding them</target>
+      </trans-unit>
+      <trans-unit id="labels.normal">
+        <source>Normal (single record mode)</source>
+        <target>NPC mode (single record)</target>
+      </trans-unit>
+      <trans-unit id="labels.normal-description">
+        <source>"Normal" clipboard allows to copy/move one record at time.</source>
+        <target>"NPC" clipboard lets you yoink/slide one record at a time.</target>
+      </trans-unit>
+      <trans-unit id="labels.cliptabs">
+        <source>Clipboard #</source>
+        <target>Clipboard #, bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.cliptabs-name">
+        <source>Clipboard #%s (multi-selection mode)</source>
+        <target>Clipboard #%s (multi-selection mode), fam</target>
+      </trans-unit>
+      <trans-unit id="labels.cliptabs-description">
+        <source>This clipboard allows to select and edit/copy/move multiple records at once. Choose it to show a checkbox by each record.</source>
+        <target>This clipboard lets you select and glow up/yoink/slide multiple records at once. Pick it to show checkboxes by each record bestie.</target>
+      </trans-unit>
+      <trans-unit id="labels.clipboard.delete_elements">
+        <source>Delete elements</source>
+        <target>Yeet elements</target>
+      </trans-unit>
+      <trans-unit id="labels.clipboard.clear_clipboard">
+        <source>Clear clipboard</source>
+        <target>Yeet the clipboard</target>
+      </trans-unit>
+      <trans-unit id="labels.removeItem">
+        <source>Remove element</source>
+        <target>Yeet element</target>
+      </trans-unit>
+      <trans-unit id="labels.holdDownCTRL">
+        <source>Important: Hold down the CTRL key while toggling elements in this list.</source>
+        <target>Important: Hold down CTRL while toggling elements bestie.</target>
+      </trans-unit>
+      <trans-unit id="labels.revertSelection">
+        <source>Revert selection</source>
+        <target>Undo selection bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.setAllCheckboxes">
+        <source>Select All Checkboxes</source>
+        <target>Check all the boxes</target>
+      </trans-unit>
+      <trans-unit id="labels.openSelectionOptions">
+        <source>Open selection options</source>
+        <target>Pull up selection options</target>
+      </trans-unit>
+      <trans-unit id="labels.checkAll">
+        <source>Check all</source>
+        <target>Check all fam</target>
+      </trans-unit>
+      <trans-unit id="labels.uncheckAll">
+        <source>Uncheck all</source>
+        <target>Uncheck all fam</target>
+      </trans-unit>
+      <trans-unit id="labels.selectAllLanguages">
+        <source>Select all available languages</source>
+        <target>Pick all available languages</target>
+      </trans-unit>
+      <trans-unit id="labels.deselectAllLanguages">
+        <source>Deselect all languages except default</source>
+        <target>Deselect all tongues except the mid default</target>
+      </trans-unit>
+      <trans-unit id="labels.defaultLanguageAlwaysShown">
+        <source>Default language is always shown</source>
+        <target>Default language always shows up no cap</target>
+      </trans-unit>
+      <trans-unit id="labels.createTranslationFor">
+        <source>Create %s translation of this page</source>
+        <target>Drop a %s translation of this page</target>
+      </trans-unit>
+      <trans-unit id="labels.selection">
+        <source>Selection:</source>
+        <target>The selection:</target>
+      </trans-unit>
+      <trans-unit id="labels.noActionAvailable">
+        <source>No action available</source>
+        <target>No actions available rn</target>
+      </trans-unit>
+      <trans-unit id="labels.placeholder.override">
+        <source>Set element specific value (Default: "%s")</source>
+        <target>Set element specific value (Mid default: "%s")</target>
+      </trans-unit>
+      <trans-unit id="labels.placeholder.override_not_available">
+        <source>Set element specific value (No default)</source>
+        <target>Set element specific value (no default, nada)</target>
+      </trans-unit>
+      <trans-unit id="labels.nullCheckbox">
+        <source>Set value</source>
+        <target>Set the value</target>
+      </trans-unit>
+      <trans-unit id="labels.changeInOrig">
+        <source>Changed in original translation</source>
+        <target>Changed in OG translation</target>
+      </trans-unit>
+      <trans-unit id="labels.expandAll">
+        <source>Expand all</source>
+        <target>Expand all fam</target>
+      </trans-unit>
+      <trans-unit id="labels.generatePassword">
+        <source>Generate password</source>
+        <target>Generate secret sauce</target>
+      </trans-unit>
+      <trans-unit id="labels.generatePassword.failed">
+        <source>A password could not be generated</source>
+        <target>Secret sauce couldn't be generated, aura -500</target>
+      </trans-unit>
+      <trans-unit id="labels.new_section">
+        <source>Create new</source>
+        <target>Drop a fresh one</target>
+      </trans-unit>
+      <trans-unit id="labels.count">
+        <source>Quantity</source>
+        <target>How many</target>
+      </trans-unit>
+      <trans-unit id="labels.title.searchIcon">
+        <source>Toggle search toolbar</source>
+        <target>Toggle search bar</target>
+      </trans-unit>
+      <trans-unit id="labels.title.searchString">
+        <source>Search term</source>
+        <target>Stalk term</target>
+      </trans-unit>
+      <trans-unit id="labels.title.limit">
+        <source>Limit</source>
+        <target>The Limit</target>
+      </trans-unit>
+      <trans-unit id="labels.title.search">
+        <source>Search</source>
+        <target>Stalk</target>
+      </trans-unit>
+      <trans-unit id="labels.title.search_levels">
+        <source>Search levels</source>
+        <target>Stalk levels</target>
+      </trans-unit>
+      <trans-unit id="labels.label.searchString">
+        <source>Search term</source>
+        <target>Stalk term</target>
+      </trans-unit>
+      <trans-unit id="labels.label.limit">
+        <source>Limit</source>
+        <target>The Limit</target>
+      </trans-unit>
+      <trans-unit id="labels.label.search_levels">
+        <source>Search levels</source>
+        <target>Stalk levels</target>
+      </trans-unit>
+      <trans-unit id="labels.active">
+        <source>Active</source>
+        <target>Active rn</target>
+      </trans-unit>
+      <trans-unit id="labels.locked">
+        <source>Locked</source>
+        <target>Gatekept bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.mfa.enabled">
+        <source>MFA enabled</source>
+        <target>MFA on, green flag!</target>
+      </trans-unit>
+      <trans-unit id="labels.mfa.disabled">
+        <source>MFA disabled</source>
+        <target>MFA off, red flag!</target>
+      </trans-unit>
+      <trans-unit id="labels.recordReadonly">
+        <source>The table is defined as readonly and can't be edited.</source>
+        <target>This table is read-only, you can only lurk fam.</target>
+      </trans-unit>
+      <trans-unit id="labels.inconsistentLanguageWarning">
+        <source>No translation parent assigned</source>
+        <target>No translation parent assigned, sus!</target>
+      </trans-unit>
+      <trans-unit id="labels.notEditableInWorkspace">
+        <source>Not editable in this workspace without "Live" edit permissions.</source>
+        <target>Gatekept in this workspace without "Live" edit permissions.</target>
+      </trans-unit>
+      <trans-unit id="labels.editingLiveRecordsWarning">
+        <source>Caution: These records are not versioned, you will edit the live records.</source>
+        <target>Ngl these records aren't versioned - you're glowing up the LIVE records fr fr! Sigma move or big L?</target>
+      </trans-unit>
+      <trans-unit id="labels.th.name">
+        <source>Name</source>
+        <target>What's your name bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.module_actions">
+        <source>Module actions</source>
+        <target>Module moves</target>
+      </trans-unit>
+      <trans-unit id="labels.new_page_translation">
+        <source>Create new translation</source>
+        <target>Drop a fresh translation</target>
+      </trans-unit>
+      <trans-unit id="insert_after">
+        <source>Insert after</source>
+        <target>Drop after</target>
+      </trans-unit>
+      <trans-unit id="insert_inside">
+        <source>Insert inside</source>
+        <target>Drop inside</target>
+      </trans-unit>
+      <trans-unit id="insert_page">
+        <source>Insert page</source>
+        <target>Drop page</target>
+      </trans-unit>
+      <trans-unit id="insert_subpage">
+        <source>Insert subpage</source>
+        <target>Drop subpage</target>
+      </trans-unit>
+      <trans-unit id="alttext.suggestSearching">
+        <source>Searching...</source>
+        <target>Stalking...</target>
+      </trans-unit>
+      <trans-unit id="ver.online">
+        <source>Online</source>
+        <target>Online rn</target>
+      </trans-unit>
+      <trans-unit id="ver.mgm">
+        <source>Version Management</source>
+        <target>Version Management, fam</target>
+      </trans-unit>
+      <trans-unit id="ver.selVer">
+        <source>Select version</source>
+        <target>Pick a version</target>
+      </trans-unit>
+      <trans-unit id="ver.swap">
+        <source>Swap/Publish</source>
+        <target>Swap/Drop</target>
+      </trans-unit>
+      <trans-unit id="ver.swapPage">
+        <source>Publish this version of the page including content</source>
+        <target>Drop this version of the page including content</target>
+      </trans-unit>
+      <trans-unit id="TYPO3_Element_Browser">
+        <source>TYPO3 Element Browser</source>
+        <target>TYPO3 Element Browser, bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.referencesToRecord">
+        <source>There are %s reference(s) to this record</source>
+        <target>There are %s reference(s) to this record, fam</target>
+      </trans-unit>
+      <trans-unit id="labels.referencesToFile">
+        <source>There are %s reference(s) to this file</source>
+        <target>There are %s reference(s) to this file, bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.translationsOfRecord">
+        <source>This record has %s translation(s) which will be deleted, too.</source>
+        <target>This record has %s translation(s) that'll get yeeted too.</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.viewItem">
+        <source>View Item</source>
+        <target>Peep this item</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.fieldValues">
+        <source>Field values</source>
+        <target>Field values, bestie</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.general">
+        <source>General</source>
+        <target>Main vibes</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.references">
+        <source>References</source>
+        <target>The References</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.referencesToThisItem">
+        <source>References to this item</source>
+        <target>References to this item, fam</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.referencesFromThisItem">
+        <source>References from this item</source>
+        <target>References from this item, bestie</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.file">
+        <source>File</source>
+        <target>The File</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.dimensions">
+        <source>Dimensions</source>
+        <target>The Dimensions</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.filesize">
+        <source>Size</source>
+        <target>How big</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.pixels">
+        <source>Pixels</source>
+        <target>The Pixels</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.files">
+        <source>files</source>
+        <target>the files</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.cannotDisplayArchive">
+        <source>TYPO3_CONF_VARS[BE][disable_exec_function] is enabled, so the content of the archive file cannot be displayed.</source>
+        <target>TYPO3_CONF_VARS[BE][disable_exec_function] is enabled, so the archive content can't be shown fam.</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.table">
+        <source>Table</source>
+        <target>The Table</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.uid">
+        <source>Uid</source>
+        <target>The Uid</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.title">
+        <source>Title</source>
+        <target>The Title</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.field">
+        <source>Field</source>
+        <target>The Field</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.flexpointer">
+        <source>Flexpointer</source>
+        <target>Flexpointer, bestie</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.softrefKey">
+        <source>Softref Key</source>
+        <target>Softref Key, fam</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.sorting">
+        <source>Sorting</source>
+        <target>The Lineup Order</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.refTable">
+        <source>Ref Table</source>
+        <target>Ref Table, ngl</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.refUid">
+        <source>Ref Uid</source>
+        <target>Ref Uid, bestie</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.refString">
+        <source>Ref String</source>
+        <target>Ref String, fam</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.ftp_area">
+        <source>FTP Area</source>
+        <target>FTP Area, ngl</target>
+      </trans-unit>
+      <trans-unit id="show_item.php.missing_record">
+        <source>Record is missing</source>
+        <target>Record ghosted us, caught in 4K</target>
+      </trans-unit>
+      <trans-unit id="db_new.php.pagetitle">
+        <source>New record</source>
+        <target>Fresh record</target>
+      </trans-unit>
+      <trans-unit id="db_new.php.after">
+        <source>after</source>
+        <target>after, fam</target>
+      </trans-unit>
+      <trans-unit id="db_new.php.inside">
+        <source>inside</source>
+        <target>inside, bestie</target>
+      </trans-unit>
+      <trans-unit id="file_upload.php.pagetitle">
+        <source>Upload files</source>
+        <target>Drop files</target>
+      </trans-unit>
+      <trans-unit id="file_upload.php.submit">
+        <source>Upload files</source>
+        <target>Drop files</target>
+      </trans-unit>
+      <trans-unit id="file_upload.dropzonehint.title">
+        <source>Drag &amp; drop to upload files</source>
+        <target>Drag &amp; drop to upload files bestie</target>
+      </trans-unit>
+      <trans-unit id="file_upload.dropzonehint.message">
+        <source>Drop your files here, or &lt;u&gt;click, browse &amp; choose files&lt;/u&gt;</source>
+        <target>Drop your files here, or &lt;u&gt;click and pick files&lt;/u&gt;</target>
+      </trans-unit>
+      <trans-unit id="file_upload.dropzone.close">
+        <source>Close file upload area</source>
+        <target>Peace out of upload area</target>
+      </trans-unit>
+      <trans-unit id="file_upload.select-and-submit">
+        <source>Select &amp; upload files</source>
+        <target>Pick &amp; drop files</target>
+      </trans-unit>
+      <trans-unit id="file_upload.maxFileSizeExceeded">
+        <source>File "{0}" exceeds maximum file size of {1}</source>
+        <target>Red flag! File "{0}" is too thicc! Max size is {1}</target>
+      </trans-unit>
+      <trans-unit id="file_upload.fileNotAllowed">
+        <source>Filename "{0}" is not allowed</source>
+        <target>Filename "{0}" is gatekept bestie</target>
+      </trans-unit>
+      <trans-unit id="file_upload.fileExtensionExpected">
+        <source>Upload failed. A file with "{0}" extension is expected.</source>
+        <target>Upload flopped, L. Expected a file with "{0}" extension.</target>
+      </trans-unit>
+      <trans-unit id="file_upload.fileExtensionDisallowed">
+        <source>Upload failed. The file extension "{0}" is not allowed.</source>
+        <target>Upload flopped, L. File extension "{0}" is gatekept.</target>
+      </trans-unit>
+      <trans-unit id="file_upload.uploadFailed">
+        <source>Upload failed for "{0}"</source>
+        <target>Upload for "{0}" flopped, L</target>
+      </trans-unit>
+      <trans-unit id="file_upload.uploadSucceeded">
+        <source>File has been uploaded.</source>
+        <target>File has been dropped, aura +100!</target>
+      </trans-unit>
+      <trans-unit id="file_upload.upload-in-progress">
+        <source>File upload in progress...</source>
+        <target>File uploading bestie, hold on...</target>
+      </trans-unit>
+      <trans-unit id="file_upload.upload-progress-info">
+        <source>Uploading file {0} out of {1} files.</source>
+        <target>Dropping file {0} of {1} files.</target>
+      </trans-unit>
+      <trans-unit id="file_upload.upload-finished">
+        <source>Upload complete. Media module reloading...</source>
+        <target>Upload complete, W! Media module reloading...</target>
+      </trans-unit>
+      <trans-unit id="file_upload.overwriteExistingFiles">
+        <source>Shall existing files be overwritten?</source>
+        <target>Should existing files be overwritten?</target>
+      </trans-unit>
+      <trans-unit id="file_upload.header.originalFile">
+        <source>Original file</source>
+        <target>OG file</target>
+      </trans-unit>
+      <trans-unit id="file_upload.header.uploadedFile">
+        <source>Uploaded file</source>
+        <target>Dropped file</target>
+      </trans-unit>
+      <trans-unit id="file_upload.header.action">
+        <source>Action</source>
+        <target>The Move</target>
+      </trans-unit>
+      <trans-unit id="file_upload.existingfiles.title">
+        <source>Some files exist already</source>
+        <target>Some files already exist bestie</target>
+      </trans-unit>
+      <trans-unit id="file_upload.existingfiles.description">
+        <source>Some files you wanted to upload exist already on the system. Please select what you want to do with each file.</source>
+        <target>Some files you wanted to drop already exist. Tell us what to do with each one fam.</target>
+      </trans-unit>
+      <trans-unit id="file_upload.actions.skip">
+        <source>Skip the file</source>
+        <target>Skip it</target>
+      </trans-unit>
+      <trans-unit id="file_upload.actions.rename">
+        <source>Rename</source>
+        <target>Rename it</target>
+      </trans-unit>
+      <trans-unit id="file_upload.actions.override">
+        <source>Overwrite</source>
+        <target>Overwrite it</target>
+      </trans-unit>
+      <trans-unit id="file_upload.actions.use_existing">
+        <source>Use existing file</source>
+        <target>Use existing file, fam</target>
+      </trans-unit>
+      <trans-unit id="file_upload.actions.all.label">
+        <source>Alternatively, choose a mass action</source>
+        <target>Or pick a mass action bestie</target>
+      </trans-unit>
+      <trans-unit id="file_upload.actions.all.empty">
+        <source>Please choose</source>
+        <target>Please pick</target>
+      </trans-unit>
+      <trans-unit id="file_upload.actions.all.skip">
+        <source>Skip all files</source>
+        <target>Skip all files, bestie</target>
+      </trans-unit>
+      <trans-unit id="file_upload.actions.all.rename">
+        <source>Rename all files</source>
+        <target>Rename all files, fam</target>
+      </trans-unit>
+      <trans-unit id="file_upload.actions.all.override">
+        <source>Overwrite all files</source>
+        <target>Overwrite all files, no cap</target>
+      </trans-unit>
+      <trans-unit id="file_upload.actions.all.use_existing">
+        <source>Use existing files</source>
+        <target>Use existing files, ngl</target>
+      </trans-unit>
+      <trans-unit id="file_upload.button.cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="file_upload.button.continue">
+        <source>Continue with selected actions</source>
+        <target>Continue with selected actions, let's go</target>
+      </trans-unit>
+      <trans-unit id="file_upload.reload.filelist">
+        <source>Reload filelist</source>
+        <target>Reload the filelist</target>
+      </trans-unit>
+      <trans-unit id="file_upload.reload.filelist.message">
+        <source>To enable the controls, the filelist has to be reloaded.</source>
+        <target>Filelist needs to reload for the controls to work fam.</target>
+      </trans-unit>
+      <trans-unit id="file_upload.reload.filelist.actions.dismiss">
+        <source>Dismiss</source>
+        <target>Whatever</target>
+      </trans-unit>
+      <trans-unit id="file_upload.reload.filelist.actions.reload">
+        <source>Reload</source>
+        <target>Reload, fam</target>
+      </trans-unit>
+      <trans-unit id="file_download.prepare">
+        <source>File download is being prepared</source>
+        <target>Download getting ready bestie</target>
+      </trans-unit>
+      <trans-unit id="file_download.invalidSelection">
+        <source>The selected elements can not be downloaded</source>
+        <target>The selected elements can't be snagged</target>
+      </trans-unit>
+      <trans-unit id="file_download.success">
+        <source>File download successfully prepared</source>
+        <target>Download is ready, snatched!</target>
+      </trans-unit>
+      <trans-unit id="file_download.error">
+        <source>Could not prepare files for download</source>
+        <target>Couldn't prep files for download, L</target>
+      </trans-unit>
+      <trans-unit id="file_download.noFiles">
+        <source>Could not find any allowed file</source>
+        <target>Couldn't find any allowed file</target>
+      </trans-unit>
+      <trans-unit id="file_download.noFiles.message">
+        <source>Please check your selection, since there might be file extension limitations, defined by your administrator.</source>
+        <target>Check your selection bestie, there might be file extension limits set by your Sigma Admin.</target>
+      </trans-unit>
+      <trans-unit id="file_rename.title">
+        <source>Rename</source>
+        <target>Rename it</target>
+      </trans-unit>
+      <trans-unit id="file_rename.label">
+        <source>New filename</source>
+        <target>Fresh filename</target>
+      </trans-unit>
+      <trans-unit id="file_rename.button.cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="file_rename.button.rename">
+        <source>Rename</source>
+        <target>Rename it</target>
+      </trans-unit>
+      <trans-unit id="folder_rename.label">
+        <source>New folder name</source>
+        <target>Fresh folder name</target>
+      </trans-unit>
+      <trans-unit id="online_media.new_media">
+        <source>Add new media asset</source>
+        <target>Drop a fresh media asset</target>
+      </trans-unit>
+      <trans-unit id="online_media.new_media.label">
+        <source>URL of remote source</source>
+        <target>URL of remote source, bestie</target>
+      </trans-unit>
+      <trans-unit id="online_media.new_media.allowedProviders">
+        <source>Allowed media providers</source>
+        <target>Allowed media providers, fam</target>
+      </trans-unit>
+      <trans-unit id="online_media.new_media.button">
+        <source>Add media by URL</source>
+        <target>Drop media by URL</target>
+      </trans-unit>
+      <trans-unit id="online_media.new_media.submit">
+        <source>Add media</source>
+        <target>Drop the media</target>
+      </trans-unit>
+      <trans-unit id="online_media.new_media.added">
+        <source>Added media</source>
+        <target>Media manifested, aura +100!</target>
+      </trans-unit>
+      <trans-unit id="online_media.new_media.placeholder">
+        <source>Paste media URL here...</source>
+        <target>Paste media URL here bestie...</target>
+      </trans-unit>
+      <trans-unit id="online_media.error.new_media.failed">
+        <source>Adding media failed</source>
+        <target>Adding media flopped, L</target>
+      </trans-unit>
+      <trans-unit id="online_media.error.invalid_url">
+        <source>Unknown/not allowed URL</source>
+        <target>Unknown/gatekept URL, caught in 4K!</target>
+      </trans-unit>
+      <trans-unit id="online_media.error.already_exists">
+        <source>Online media "%s" does already exist in this folder.</source>
+        <target>Online media "%s" already exists in this folder fam.</target>
+      </trans-unit>
+      <trans-unit id="online_media.update.success">
+        <source>Successfully updated online media</source>
+        <target>Online media glowed up successfully!</target>
+      </trans-unit>
+      <trans-unit id="online_media.update.error">
+        <source>Error on updating online media</source>
+        <target>Oof error glowing up online media</target>
+      </trans-unit>
+      <trans-unit id="file_clipupload.php.warning_head">
+        <source>Upload path error</source>
+        <target>Upload path error oof</target>
+      </trans-unit>
+      <trans-unit id="file_clipupload.php.warning">
+        <source>No upload-folder is found. You should create a TEMP-folder ("_temp_") in the root of one of your mounts first</source>
+        <target>No upload folder found fam. Create a TEMP folder ("_temp_") in the root of one of your mounts first</target>
+      </trans-unit>
+      <trans-unit id="mess.redraw">
+        <source>Redrawing the page will discard the current data. Do you want to continue?</source>
+        <target>Redrawing the page will yeet the current data. Continue fr fr?</target>
+      </trans-unit>
+      <trans-unit id="mess.delete">
+        <source>Are you sure you want to delete '%s'?</source>
+        <target>Fr fr you wanna yeet '%s'?</target>
+      </trans-unit>
+      <trans-unit id="mess.delete.title">
+        <source>Delete this record?</source>
+        <target>Yeet this record?</target>
+      </trans-unit>
+      <trans-unit id="mess.deleteClip">
+        <source>Are you sure you want to delete ALL referenced elements (%s) on the clipboard?</source>
+        <target>Fr fr you wanna yeet ALL referenced elements (%s) on the clipboard?</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_login">
+        <source>Your login has probably expired. Do you want to refresh it now?</source>
+        <target>Your login probably expired fam. Wanna refresh it rn?</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_login_refresh_button">
+        <source>Stay logged in</source>
+        <target>Stay slid in</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_direct_logout_button">
+        <source>No, log out.</source>
+        <target>Nah, peace out.</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_login_logging_in">
+        <source>Logging in...</source>
+        <target>Sliding in...</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_login_failed">
+        <source>Login failed</source>
+        <target>Slide in flopped, aura -500</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_login_failed_message">
+        <source>Password not correct.</source>
+        <target>Secret sauce wrong bestie.</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_login_title">
+        <source>Refresh Login to TYPO3 (User: %s)</source>
+        <target>Refresh slide in to TYPO3 (Homie: %s)</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_login_username">
+        <source>Username</source>
+        <target>Gamertag</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_login_password">
+        <source>Password</source>
+        <target>Secret sauce</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_login_button">
+        <source>Login</source>
+        <target>Slide in</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_exit_button">
+        <source>Exit</source>
+        <target>Dip out</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_login_emptyPassword">
+        <source>Empty password is not allowed</source>
+        <target>Empty secret sauce? Delulu! Red flag!</target>
+      </trans-unit>
+      <trans-unit id="mess.please_wait">
+        <source>Please wait ...</source>
+        <target>Hold on bestie ...</target>
+      </trans-unit>
+      <trans-unit id="mess.be_locked">
+        <source>The TYPO3 backend is currently locked for maintenance. Leave this browser window open and the backend will automatically become available again once maintenance is complete.</source>
+        <target>The TYPO3 backend is locked for maintenance rn fam. Leave this window open and it'll come back once maintenance is done. Touch some grass while you wait.</target>
+      </trans-unit>
+      <trans-unit id="mess.login_about_to_expire">
+        <source>Your TYPO3 login is about to expire. Please confirm that you want to stay logged in.</source>
+        <target>Your TYPO3 login is about to expire bestie. Confirm you wanna stay slid in.</target>
+      </trans-unit>
+      <trans-unit id="mess.refresh_login_logout_button">
+        <source>Log me out</source>
+        <target>Peace me out</target>
+      </trans-unit>
+      <trans-unit id="mess.login_refresh_about_to_expire">
+        <source>Your TYPO3 login is about to expire. Please confirm that you want to be logged out.</source>
+        <target>Your TYPO3 login is about to expire. Confirm you wanna peace out.</target>
+      </trans-unit>
+      <trans-unit id="mess.login_about_to_expire_title">
+        <source>TYPO3 login expiration notice</source>
+        <target>TYPO3 login expiring fam</target>
+      </trans-unit>
+      <trans-unit id="mess.login_expired">
+        <source>Your TYPO3 login has expired. You need to login again if you want to continue. Otherwise you can close the current browser window.</source>
+        <target>Your TYPO3 login expired fam. You gotta slide in again to continue. Otherwise just close the browser window.</target>
+      </trans-unit>
+      <trans-unit id="mess.noSelItemForEdit">
+        <source>Please select one or more items in the list before you can edit.</source>
+        <target>Pick one or more items from the list before you can glow them up bestie.</target>
+      </trans-unit>
+      <trans-unit id="mess.refreshRequired.title">
+        <source>Refresh required</source>
+        <target>Refresh needed</target>
+      </trans-unit>
+      <trans-unit id="mess.refreshRequired.content">
+        <source>This change will affect which fields are available in the form. Would you like to save now in order to refresh the display?</source>
+        <target>This change affects which fields show up in the form. Wanna save rn to refresh the display?</target>
+      </trans-unit>
+      <trans-unit id="mess.refreshRequired.cancel">
+        <source>Keep editing</source>
+        <target>Keep glowing up</target>
+      </trans-unit>
+      <trans-unit id="mess.refreshRequired.confirm">
+        <source>Save and refresh</source>
+        <target>Save fr fr and refresh</target>
+      </trans-unit>
+      <trans-unit id="mess.move_into">
+        <source>Move "%s" into "%s"?</source>
+        <target>Slide "%s" into "%s"?</target>
+      </trans-unit>
+      <trans-unit id="mess.move_before">
+        <source>Move "%s" to before "%s"?</source>
+        <target>Slide "%s" before "%s"?</target>
+      </trans-unit>
+      <trans-unit id="mess.move_after">
+        <source>Move "%s" to after "%s"?</source>
+        <target>Slide "%s" after "%s"?</target>
+      </trans-unit>
+      <trans-unit id="mess.copy_into">
+        <source>Copy "%s" into "%s"?</source>
+        <target>Yoink "%s" into "%s"?</target>
+      </trans-unit>
+      <trans-unit id="mess.copy_after">
+        <source>Copy "%s" to after "%s"?</source>
+        <target>Yoink "%s" after "%s"?</target>
+      </trans-unit>
+      <trans-unit id="mess.copycb_into">
+        <source>Copy all elements (%s) from the clipboard into "%s"?</source>
+        <target>Yoink all elements (%s) from clipboard into "%s"?</target>
+      </trans-unit>
+      <trans-unit id="mess.copycb_after">
+        <source>Copy all elements (%s) from the clipboard to the position after "%s"?</source>
+        <target>Yoink all elements (%s) from clipboard after "%s"?</target>
+      </trans-unit>
+      <trans-unit id="mess.movecb_into">
+        <source>Move all elements (%s) from the clipboard into "%s"?</source>
+        <target>Slide all elements (%s) from clipboard into "%s"?</target>
+      </trans-unit>
+      <trans-unit id="mess.movecb_after">
+        <source>Move all elements (%s) from the clipboard to the position after "%s"?</source>
+        <target>Slide all elements (%s) from clipboard after "%s"?</target>
+      </trans-unit>
+      <trans-unit id="rm.menu">
+        <source>[menu]</source>
+        <target>[the menu]</target>
+      </trans-unit>
+      <trans-unit id="rm.saveDoc">
+        <source>Save</source>
+        <target>Save fr fr</target>
+      </trans-unit>
+      <trans-unit id="rm.viewDoc">
+        <source>View</source>
+        <target>Peep this</target>
+      </trans-unit>
+      <trans-unit id="rm.saveDocShow">
+        <source>Save and view page</source>
+        <target>Save fr fr and peep the page</target>
+      </trans-unit>
+      <trans-unit id="rm.saveCloseDoc">
+        <source>Save and close</source>
+        <target>Save fr fr and peace out</target>
+      </trans-unit>
+      <trans-unit id="rm.saveCloseAllDocs">
+        <source>Save and close all</source>
+        <target>Save fr fr and peace out of everything</target>
+      </trans-unit>
+      <trans-unit id="rm.saveNewDoc">
+        <source>Save and create a new one</source>
+        <target>Save fr fr and drop a fresh one</target>
+      </trans-unit>
+      <trans-unit id="rm.newDoc">
+        <source>New</source>
+        <target>Fresh</target>
+      </trans-unit>
+      <trans-unit id="rm.duplicateDoc">
+        <source>Duplicate</source>
+        <target>Clone it</target>
+      </trans-unit>
+      <trans-unit id="labels.recordDuplicated">
+        <source>The record has been duplicated.</source>
+        <target>Record cloned, W!</target>
+      </trans-unit>
+      <trans-unit id="labels.recordDuplicationFailed">
+        <source>The record could not be duplicated.</source>
+        <target>Record couldn't be cloned, L.</target>
+      </trans-unit>
+      <trans-unit id="rm.closeDoc">
+        <source>Close</source>
+        <target>Peace out</target>
+      </trans-unit>
+      <trans-unit id="rm.clearCache_thisPage">
+        <source>This page</source>
+        <target>This page rn</target>
+      </trans-unit>
+      <trans-unit id="rm.clearCache_all">
+        <source>Clear FE cache</source>
+        <target>Yeet FE cache</target>
+      </trans-unit>
+      <trans-unit id="rm.clearCache_pages">
+        <source>Clear Page Cache</source>
+        <target>Yeet Page Cache</target>
+      </trans-unit>
+      <trans-unit id="rm.clearCache_allTypo3Conf">
+        <source>Clear cache in typo3conf/</source>
+        <target>Yeet cache in typo3conf/</target>
+      </trans-unit>
+      <trans-unit id="rm.clearCacheMenu_all">
+        <source>Clear all caches</source>
+        <target>Yeet all caches</target>
+      </trans-unit>
+      <trans-unit id="rm.clearCacheMenu_pages">
+        <source>Clear page content cache</source>
+        <target>Yeet page content cache</target>
+      </trans-unit>
+      <trans-unit id="rm.clearCacheMenu_allTypo3Conf">
+        <source>Clear configuration cache</source>
+        <target>Yeet config cache</target>
+      </trans-unit>
+      <trans-unit id="flushPageCachesTitle">
+        <source>Flush frontend caches</source>
+        <target>Yeet frontend caches</target>
+      </trans-unit>
+      <trans-unit id="flushPageCachesDescription">
+        <source>Clear frontend and page-related caches.</source>
+        <target>Yeet frontend and page caches.</target>
+      </trans-unit>
+      <trans-unit id="flushAllCachesTitle2">
+        <source>Flush all caches</source>
+        <target>Yeet all caches</target>
+      </trans-unit>
+      <trans-unit id="flushAllCachesDescription2">
+        <source>Clear frontend and page-related caches, all system-related caches, including localization, extension configuration, file and opcode caches. Rebuilding these caches may take some time.</source>
+        <target>Yeet all caches: frontend, page, system, localization, extension config, file and opcode. Rebuilding might take a sec bestie.</target>
+      </trans-unit>
+      <trans-unit id="flushCaches.error">
+        <source>An error occurred</source>
+        <target>Oof an error happened</target>
+      </trans-unit>
+      <trans-unit id="flushCaches.error.description">
+        <source>An error occurred while clearing the cache. Some caches may not have been cleared successfully.</source>
+        <target>Something flopped while yeeting the caches. Some might not have been cleared.</target>
+      </trans-unit>
+      <trans-unit id="rm.adminFunctions">
+        <source>Admin functions</source>
+        <target>Sigma functions</target>
+      </trans-unit>
+      <trans-unit id="rm.edit">
+        <source>Edit</source>
+        <target>Glow up</target>
+      </trans-unit>
+      <trans-unit id="rm.export">
+        <source>Export</source>
+        <target>Ship it out</target>
+      </trans-unit>
+      <trans-unit id="rm.delete">
+        <source>Delete</source>
+        <target>Yeet it</target>
+      </trans-unit>
+      <trans-unit id="message.header.fileNotDeletedHasReferences">
+        <source>File not deleted</source>
+        <target>File not yeeted</target>
+      </trans-unit>
+      <trans-unit id="message.description.fileNotDeletedHasReferences">
+        <source>The file "%s" cannot be deleted since it is still used at the following places</source>
+        <target>File "%s" can't be yeeted cuz it's still being used at these spots</target>
+      </trans-unit>
+      <trans-unit id="message.header.folderNotDeletedHasFilesWithReferences">
+        <source>Folder not deleted</source>
+        <target>Folder not yeeted</target>
+      </trans-unit>
+      <trans-unit id="message.description.folderNotDeletedHasFilesWithReferences">
+        <source>The folder cannot be deleted since it still contains files in use.</source>
+        <target>Folder can't be yeeted cuz it still has files being used.</target>
+      </trans-unit>
+      <trans-unit id="message.header.fileHasBrokenReferences">
+        <source>File has broken references</source>
+        <target>File has broken references, sus</target>
+      </trans-unit>
+      <trans-unit id="message.description.fileHasBrokenReferences">
+        <source>The file has %s broken reference(s) but it will be deleted regardless.</source>
+        <target>File has %s broken reference(s) but it'll get yeeted anyway.</target>
+      </trans-unit>
+      <trans-unit id="message.header.fileNotFound">
+        <source>File not found</source>
+        <target>File ghosted us</target>
+      </trans-unit>
+      <trans-unit id="message.description.fileNotFound">
+        <source>The file %s is not found, possible already removed.</source>
+        <target>File %s not found, probably already yeeted.</target>
+      </trans-unit>
+      <trans-unit id="message.header.fileDeleted">
+        <source>File deleted</source>
+        <target>File yeeted</target>
+      </trans-unit>
+      <trans-unit id="message.description.fileDeleted">
+        <source>The file "%s" was successfully deleted.</source>
+        <target>File "%s" was yeeted successfully, W!</target>
+      </trans-unit>
+      <trans-unit id="message.header.folderDeleted">
+        <source>Folder deleted</source>
+        <target>Folder yeeted</target>
+      </trans-unit>
+      <trans-unit id="message.description.folderDeleted">
+        <source>The folder "%s" was successfully deleted.</source>
+        <target>Folder "%s" was yeeted successfully, W!</target>
+      </trans-unit>
+      <trans-unit id="buttons.exit">
+        <source>Exit</source>
+        <target>Dip out</target>
+      </trans-unit>
+      <trans-unit id="buttons.selMenu_modules">
+        <source>Modules</source>
+        <target>The Modules</target>
+      </trans-unit>
+      <trans-unit id="buttons.clear">
+        <source>Clear</source>
+        <target>Wipe it</target>
+      </trans-unit>
+      <trans-unit id="buttons.clipboard">
+        <source>Clipboard</source>
+        <target>The Clipboard</target>
+      </trans-unit>
+      <trans-unit id="buttons.removeAll">
+        <source>Remove all</source>
+        <target>Yeet all</target>
+      </trans-unit>
+      <trans-unit id="buttons.toggleLinkExplanation">
+        <source>Toggle link explanation</source>
+        <target>Toggle link explanation, bestie</target>
+      </trans-unit>
+      <trans-unit id="buttons.toggleSlugExplanation">
+        <source>Toggle manual URL segment</source>
+        <target>Toggle manual URL segment, fam</target>
+      </trans-unit>
+      <trans-unit id="buttons.recreateSlugExplanation">
+        <source>Recalculate URL segment from page title</source>
+        <target>Recalculate URL segment from page title, ngl</target>
+      </trans-unit>
+      <trans-unit id="buttons.deactivateMfa">
+        <source>Deactivate multi-factor authentication</source>
+        <target>Ghost multi-factor authentication</target>
+      </trans-unit>
+      <trans-unit id="buttons.deactivateMfaProvider">
+        <source>Deactivate %s</source>
+        <target>Ghost %s</target>
+      </trans-unit>
+      <trans-unit id="buttons.deactivateMfa.confirmation.text">
+        <source>Deactivate all active providers? This action cannot be undone. Caution: This will affect all users and decrease the security of the system.</source>
+        <target>Ghost all active providers? No take-backs fam. Red flag: This affects all besties and makes the system less secure.</target>
+      </trans-unit>
+      <trans-unit id="buttons.deactivateMfaProvider.confirmation.text">
+        <source>Deactivate %s? This action cannot be undone. Caution: This will affect all users and decrease the security of the system.</source>
+        <target>Ghost %s? No take-backs fam. Red flag: This affects all besties and makes the system less secure.</target>
+      </trans-unit>
+      <trans-unit id="slugCreation.success.page">
+        <source>This page will be reachable via %s</source>
+        <target>This page will be reachable via %s, no cap</target>
+      </trans-unit>
+      <trans-unit id="slugCreation.success.record">
+        <source>The URL part of this record will be %s</source>
+        <target>The URL part of this record will be %s, fam</target>
+      </trans-unit>
+      <trans-unit id="slugCreation.error">
+        <source>The requested URL is already in use, but %s will be used instead</source>
+        <target>The requested URL is already taken, but %s will be used instead</target>
+      </trans-unit>
+      <trans-unit id="cm.copy">
+        <source>Copy</source>
+        <target>Yoink</target>
+      </trans-unit>
+      <trans-unit id="cm.copyrelease">
+        <source>Copy release</source>
+        <target>Done yoinking</target>
+      </trans-unit>
+      <trans-unit id="cm.cut">
+        <source>Cut</source>
+        <target>Snip it</target>
+      </trans-unit>
+      <trans-unit id="cm.cutrelease">
+        <source>Cut release</source>
+        <target>Done cutting</target>
+      </trans-unit>
+      <trans-unit id="cm.view">
+        <source>Show</source>
+        <target>Peep it</target>
+      </trans-unit>
+      <trans-unit id="cm.edit">
+        <source>Edit</source>
+        <target>Glow up</target>
+      </trans-unit>
+      <trans-unit id="cm.editcontent">
+        <source>Edit content</source>
+        <target>Glow up content</target>
+      </trans-unit>
+      <trans-unit id="cm.editMetadata">
+        <source>Edit Metadata of this file</source>
+        <target>Glow up metadata of this file</target>
+      </trans-unit>
+      <trans-unit id="cm.editColumns">
+        <source>Edit columns</source>
+        <target>Glow up columns</target>
+      </trans-unit>
+      <trans-unit id="cm.new">
+        <source>New</source>
+        <target>Fresh</target>
+      </trans-unit>
+      <trans-unit id="cm.newSubpage">
+        <source>New subpage</source>
+        <target>Fresh subpage</target>
+      </trans-unit>
+      <trans-unit id="cm.newFilemount">
+        <source>New file mount</source>
+        <target>Fresh file mount</target>
+      </trans-unit>
+      <trans-unit id="cm.pasteinto">
+        <source>Paste into</source>
+        <target>Drop into</target>
+      </trans-unit>
+      <trans-unit id="cm.pasteafter">
+        <source>Paste after</source>
+        <target>Drop after</target>
+      </trans-unit>
+      <trans-unit id="cm.select">
+        <source>Select</source>
+        <target>Pick it</target>
+      </trans-unit>
+      <trans-unit id="cm.selectFile">
+        <source>Select %s</source>
+        <target>Pick %s</target>
+      </trans-unit>
+      <trans-unit id="cm.deselect">
+        <source>Deselect</source>
+        <target>Un-pick</target>
+      </trans-unit>
+      <trans-unit id="cm.selectto">
+        <source>Select to</source>
+        <target>Pick to</target>
+      </trans-unit>
+      <trans-unit id="cm.deselectto">
+        <source>Deselect to</source>
+        <target>Un-pick to</target>
+      </trans-unit>
+      <trans-unit id="cm.delete">
+        <source>Delete</source>
+        <target>Yeet it</target>
+      </trans-unit>
+      <trans-unit id="cm.hide">
+        <source>Hide</source>
+        <target>Ghost it</target>
+      </trans-unit>
+      <trans-unit id="cm.unhide">
+        <source>Unhide</source>
+        <target>Un-ghost</target>
+      </trans-unit>
+      <trans-unit id="cm.online">
+        <source>Turn online</source>
+        <target>Go live, fam</target>
+      </trans-unit>
+      <trans-unit id="cm.offline">
+        <source>Turn offline</source>
+        <target>Take offline</target>
+      </trans-unit>
+      <trans-unit id="cm.upload">
+        <source>Upload Files</source>
+        <target>Drop Files</target>
+      </trans-unit>
+      <trans-unit id="cm.rename">
+        <source>Rename</source>
+        <target>Rename it</target>
+      </trans-unit>
+      <trans-unit id="cm.replace">
+        <source>Replace</source>
+        <target>Swap out</target>
+      </trans-unit>
+      <trans-unit id="cm.open">
+        <source>Open</source>
+        <target>Pull up</target>
+      </trans-unit>
+      <trans-unit id="cm.save">
+        <source>Save</source>
+        <target>Save fr fr</target>
+      </trans-unit>
+      <trans-unit id="cm.unzip">
+        <source>Unzip</source>
+        <target>Unzip it</target>
+      </trans-unit>
+      <trans-unit id="cm.info">
+        <source>Info</source>
+        <target>The Tea</target>
+      </trans-unit>
+      <trans-unit id="cm.createnew">
+        <source>Create new</source>
+        <target>Drop a fresh one</target>
+      </trans-unit>
+      <trans-unit id="cm.createnew.link">
+        <source>Create new %s</source>
+        <target>Drop a fresh %s</target>
+      </trans-unit>
+      <trans-unit id="cm.tempMountPoint">
+        <source>Mount as treeroot</source>
+        <target>Mount as tree root</target>
+      </trans-unit>
+      <trans-unit id="cm.copyPage_into">
+        <source>Copy page into</source>
+        <target>Yoink page into</target>
+      </trans-unit>
+      <trans-unit id="cm.copyPage_after">
+        <source>Copy page after</source>
+        <target>Yoink page after</target>
+      </trans-unit>
+      <trans-unit id="cm.movePage_into">
+        <source>Move page into</source>
+        <target>Slide page into</target>
+      </trans-unit>
+      <trans-unit id="cm.movePage_after">
+        <source>Move page after</source>
+        <target>Slide page after</target>
+      </trans-unit>
+      <trans-unit id="cm.copyFolder_into">
+        <source>Copy folder into</source>
+        <target>Yoink folder into</target>
+      </trans-unit>
+      <trans-unit id="cm.moveFolder_into">
+        <source>Move folder into</source>
+        <target>Slide folder into</target>
+      </trans-unit>
+      <trans-unit id="cm.createNewRelation">
+        <source>Create new relation</source>
+        <target>Drop a fresh relation</target>
+      </trans-unit>
+      <trans-unit id="cm.branchActions">
+        <source>Branch Actions</source>
+        <target>Branch Moves</target>
+      </trans-unit>
+      <trans-unit id="cm.copyPasteActions">
+        <source>Page Actions</source>
+        <target>Page Moves</target>
+      </trans-unit>
+      <trans-unit id="cm.collapseBranch">
+        <source>Collapse Branch</source>
+        <target>Collapse the Branch</target>
+      </trans-unit>
+      <trans-unit id="cm.expandBranch">
+        <source>Expand Branch</source>
+        <target>Expand the Branch</target>
+      </trans-unit>
+      <trans-unit id="cm.more">
+        <source>More options...</source>
+        <target>Give me more options bestie...</target>
+      </trans-unit>
+      <trans-unit id="cm.allowedFileExtensions">
+        <source>Allowed file extensions</source>
+        <target>Allowed file extensions, fam</target>
+      </trans-unit>
+      <trans-unit id="cm.disallowedFileExtensions">
+        <source>Disallowed file extensions</source>
+        <target>Gatekept file extensions</target>
+      </trans-unit>
+      <trans-unit id="cm.allowedEditableTextFileExtensions">
+        <source>Allowed editable text file extensions</source>
+        <target>Allowed editable text file extensions, bestie</target>
+      </trans-unit>
+      <trans-unit id="cm.allowEmbedSources">
+        <source>Allowed media sources</source>
+        <target>Allowed media sources, fam</target>
+      </trans-unit>
+      <trans-unit id="cm.allowedRelations">
+        <source>Allowed relations</source>
+        <target>Allowed relations, ngl</target>
+      </trans-unit>
+      <trans-unit id="cm.history">
+        <source>History/Undo</source>
+        <target>Caught in 4K / Undo</target>
+      </trans-unit>
+      <trans-unit id="cm.transferToClipboard">
+        <source>Transfer to clipboard</source>
+        <target>Yoink to clipboard</target>
+      </trans-unit>
+      <trans-unit id="cm.removeFromClipboard">
+        <source>Remove from clipboard</source>
+        <target>Yeet from clipboard</target>
+      </trans-unit>
+      <trans-unit id="sortable.dragmove">
+        <source>Drag to move</source>
+        <target>Drag to slide over</target>
+      </trans-unit>
+      <trans-unit id="tree.search_in_translated_pages">
+        <source>Search in translated pages</source>
+        <target>Stalk in translated pages</target>
+      </trans-unit>
+      <trans-unit id="tree.search_by_frontend_uri">
+        <source>Search by website address (URL)</source>
+        <target>Stalk by website address (URL)</target>
+      </trans-unit>
+      <trans-unit id="tree.searchTermInfo">
+        <source>Enter search term</source>
+        <target>Drop your search term</target>
+      </trans-unit>
+      <trans-unit id="tree.searchPageTree">
+        <source>Search page tree</source>
+        <target>Stalk page tree</target>
+      </trans-unit>
+      <trans-unit id="tree.searchFolderTree">
+        <source>Search folder tree</source>
+        <target>Stalk folder tree</target>
+      </trans-unit>
+      <trans-unit id="warning.file_deny_pattern">
+        <source>The value of fileDenyPattern is not set to its default:%s If TYPO3 is running on Apache, a customized value might enable backend or frontend users to execute malicious php scripts.</source>
+        <target>fileDenyPattern isn't set to default:%s If TYPO3 is on Apache, a custom value might let besties execute sus PHP scripts.</target>
+      </trans-unit>
+      <trans-unit id="warning.file_deny_pattern_partsNotPresent">
+        <source>Security risk: The new value of fileDenyPattern misses parts of its default: %s. If TYPO3 is running on Apache, a customized value might enable backend or frontend users to execute malicious PHP scripts.</source>
+        <target>Red flag security risk: fileDenyPattern is missing parts of default: %s. On Apache, besties might execute sus PHP scripts.</target>
+      </trans-unit>
+      <trans-unit id="warning.file_deny_htaccess">
+        <source>The current value of fileDenyPattern allows to upload/create files with the name ".htaccess". If TYPO3 is running on Apache, this enables backend or frontend users to create and execute php scripts. Please reset the value of fileDenyPattern to its default.</source>
+        <target>fileDenyPattern currently allows uploading ".htaccess" files. On Apache, this lets besties create and execute PHP scripts, highkey sus! Reset fileDenyPattern to default.</target>
+      </trans-unit>
+      <trans-unit id="warning.install_enabled">
+        <source>The Install Tool is permanently enabled. Delete the file "%s" when you have finished setting up TYPO3.</source>
+        <target>Install Tool is permanently on fam. Yeet the file "%s" when you're done setting up TYPO3.</target>
+      </trans-unit>
+      <trans-unit id="warning.install_enabled_cmd">
+        <source>Click to remove the file now</source>
+        <target>Click to yeet the file now</target>
+      </trans-unit>
+      <trans-unit id="warning.install_trustedhosts">
+        <source>The trusted hosts pattern check is disabled. Please define the allowed hosts in the [SYS][trustedHostsPattern] section of the Install Tool.</source>
+        <target>Trusted hosts pattern check is off. Define allowed hosts in [SYS][trustedHostsPattern] in the Install Tool fam.</target>
+      </trans-unit>
+      <trans-unit id="warning.install_update">
+        <source>This installation is not configured for the TYPO3 version it is running. If you did so intentionally, this message can be safely ignored. If you are unsure, visit the Upgrade Wizard section of the %sInstall Tool%s to see how TYPO3 would change.</source>
+        <target>This installation isn't configured for the TYPO3 version it's running. If you did this on purpose, ignore this. If unsure, peep the Upgrade Wizard in %sInstall Tool%s to see what would change.</target>
+      </trans-unit>
+      <trans-unit id="warning.header">
+        <source>Important Notice</source>
+        <target>Important notice fam</target>
+      </trans-unit>
+      <trans-unit id="warning.backend_reference_index">
+        <source>The Reference Index is empty (table sys_refindex), which may occur after upgrades or maintenance operations. The last update found on TYPO3 Registry was on %3$s. Please rebuild it via %1$sSystem → Maintenance → Check and Update Reference Index%2$s.</source>
+        <target>The Reference Index is empty (table sys_refindex), which can happen after upgrades or maintenance. Last update in TYPO3 Registry was %3$s. Rebuild it via %1$sSystem → Maintenance → Check and Update Reference Index%2$s.</target>
+      </trans-unit>
+      <trans-unit id="warning.memcache_not_usable">
+        <source>Memcache is configured, but connection to memcached failed with these configuration(s)</source>
+        <target>Memcache is configured but connection to memcached flopped with these config(s)</target>
+      </trans-unit>
+      <trans-unit id="warning.file_missing">
+        <source>File is missing</source>
+        <target>File ghosted us</target>
+      </trans-unit>
+      <trans-unit id="warning.file_missing_text">
+        <source>This file is marked as missing</source>
+        <target>This file is marked as ghosted</target>
+      </trans-unit>
+      <trans-unit id="warning.header.storage_is_no_public">
+        <source>Storage is not public</source>
+        <target>Storage is not public, gatekept</target>
+      </trans-unit>
+      <trans-unit id="warning.message.storage_is_no_public">
+        <source>The storage has been marked to be "publicly available" but is not detected as such by the driver. The setting has been reverted.</source>
+        <target>The storage was marked as "publicly available" but the driver disagrees. Setting got reverted.</target>
+      </trans-unit>
+      <trans-unit id="warning.inline_use_combination">
+        <source>This record will be modified globally.</source>
+        <target>This record gets modified globally fam.</target>
+      </trans-unit>
+      <trans-unit id="warning.tableDisplayOrder.message">
+        <source>The TSconfig setting for "mod.web_list.tableDisplayOrder" contains a circular dependency and cannot be resolved.</source>
+        <target>TSconfig for "mod.web_list.tableDisplayOrder" has a circular dependency and can't be resolved, sus.</target>
+      </trans-unit>
+      <trans-unit id="warning.tableDisplayOrder.title">
+        <source>Circular table ordering detected</source>
+        <target>Circular table ordering detected, sus</target>
+      </trans-unit>
+      <trans-unit id="error.formProtection.tokenInvalid">
+        <source>Validating the security token of this form has failed. Please reload the form and submit it again.</source>
+        <target>Security token validation flopped. Reload the form and submit again bestie.</target>
+      </trans-unit>
+      <trans-unit id="extension.not.installed">
+        <source>Extension "%s" is not installed.</source>
+        <target>Extension "%s" is not installed, bestie.</target>
+      </trans-unit>
+      <trans-unit id="link.to.filefile.correctly">
+        <source>Please, do not link to this page.</source>
+        <target>Please don't link to this page bestie.</target>
+      </trans-unit>
+      <trans-unit id="error.database_schema_mismatch">
+        <source>A SQL error occurred. This may indicate a schema mismatch between TCA and the database. Try running database compare in the Install Tool.</source>
+        <target>SQL error oof. Might be a schema mismatch between TCA and the database. Try database compare in the Install Tool.</target>
+      </trans-unit>
+      <trans-unit id="error.database_schema_mismatch_title">
+        <source>Database Error</source>
+        <target>Database error, L</target>
+      </trans-unit>
+      <trans-unit id="error.items_proc_func_error">
+        <source>An error occurred trying to process items for field "%1$s" (%2$s).</source>
+        <target>Oof error processing items for field "%1$s" (%2$s).</target>
+      </trans-unit>
+      <trans-unit id="error.invalidEmail">
+        <source>"%s" is not a valid e-mail address.</source>
+        <target>"%s" is not a valid email address bestie.</target>
+      </trans-unit>
+      <trans-unit id="error.adminCanNotChangeSystemMaintainer">
+        <source>Non system maintainers cannot change details of system maintainers. The values have not been updated.</source>
+        <target>Non system maintainers can't change system maintainer deets. Values not updated.</target>
+      </trans-unit>
+      <trans-unit id="formEngine.beUser.information.adminCanNotChangeSystemMaintainer">
+        <source>This user is a system maintainer. Changing details of system maintainers is not allowed.</source>
+        <target>This bestie is a system maintainer. Can't change system maintainer deets.</target>
+      </trans-unit>
+      <trans-unit id="formEngine.beUser.admin.information.userIsSystemMaintainer">
+        <source>This user is a system maintainer</source>
+        <target>This bestie is a system maintainer</target>
+      </trans-unit>
+      <trans-unit id="formEngine.beUser.admin.information.userWillBecomeSystemMaintainer">
+        <source>This user is in the list of allowed system maintainers and will gain system level access if enabling admin access.</source>
+        <target>This bestie is in the allowed system maintainers list and will get system level access if admin access is enabled.</target>
+      </trans-unit>
+      <trans-unit id="formEngine.pages.backendLayout.information.inheritFromParentPage">
+        <source>This page will most likely use backend layout "%s", inherited from a parent page.</source>
+        <target>This page will probably use backend layout "%s", inherited from a parent page.</target>
+      </trans-unit>
+      <trans-unit id="formEngine.pages.backendLayout.information.inheritedFromParentPage">
+        <source>This page is currently using backend layout "%s", inherited from a parent page.</source>
+        <target>This page is using backend layout "%s" rn, inherited from a parent page.</target>
+      </trans-unit>
+      <trans-unit id="error.backendUserGroupListTypeError.header">
+        <source>Possible misconfiguration detected</source>
+        <target>Possible misconfiguration detected, sus</target>
+      </trans-unit>
+      <trans-unit id="error.backendUserGroupListTypeError.message">
+        <source>Editing of at least one plugin was enabled but editing the page content type "Insert Plugin" is still disallowed. Group members won't be able to edit plugins unless you activate editing for the content type.</source>
+        <target>Plugin editing is enabled but "Insert Plugin" content type is still gatekept. Group members can't glow up plugins unless you activate the content type fam.</target>
+      </trans-unit>
+      <trans-unit id="error.missingLanguageIsocode">
+        <source>Missing ISO code for language "%s" (UID %d), please edit the language record and set it.</source>
+        <target>Missing ISO code for language "%s" (UID %d), please glow up the language record and set it.</target>
+      </trans-unit>
+      <trans-unit id="error.misconfiguredPasswordRules">
+        <source>No password could be generated due to misconfigured password rules.</source>
+        <target>Couldn't generate a secret sauce due to misconfigured rules, L.</target>
+      </trans-unit>
+      <trans-unit id="labels.deleteTitle">
+        <source>Revert to default Constant</source>
+        <target>Revert to mid default Constant</target>
+      </trans-unit>
+      <trans-unit id="labels.editTitle">
+        <source>Edit this Constant</source>
+        <target>Glow up this Constant</target>
+      </trans-unit>
+      <trans-unit id="pageTranslation">
+        <source>Page Translation</source>
+        <target>Page Translation, bestie</target>
+      </trans-unit>
+      <trans-unit id="filestorage.invalidpathexception.title">
+        <source>Error in Path</source>
+        <target>Path error oof</target>
+      </trans-unit>
+      <trans-unit id="filestorage.invalidpathexception.message">
+        <source>You entered an invalid path for this File Storage. Note that "../" and "//" are not allowed when using an absolute path.</source>
+        <target>You entered a sus path for this File Storage. "../" and "//" aren't allowed with absolute paths bestie.</target>
+      </trans-unit>
+      <trans-unit id="iframe.listFrame">
+        <source>List frame (content area) to create and modify pages, content and records</source>
+        <target>List frame (content area) to create and glow up pages, content and records</target>
+      </trans-unit>
+      <trans-unit id="message.confirmation">
+        <source>Are you sure?</source>
+        <target>Fr fr are you sure bestie?</target>
+      </trans-unit>
+      <trans-unit id="labels.datepicker.today">
+        <source>Today</source>
+        <target>Today, bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.inputfield.clearButton.title">
+        <source>Clear input</source>
+        <target>Wipe the input</target>
+      </trans-unit>
+      <trans-unit id="labels.contextMenu.open">
+        <source>Open context menu</source>
+        <target>Pull up context menu</target>
+      </trans-unit>
+      <trans-unit id="labels.contextMenu.open.recordLabel">
+        <source>Open context menu for record: %s</source>
+        <target>Pull up context menu for record: %s</target>
+      </trans-unit>
+      <trans-unit id="error.site.invalidSetDependencies">
+        <source>This site depends on invalid site sets</source>
+        <target>This site depends on sus site sets</target>
+      </trans-unit>
+      <trans-unit id="error.siteSet.notFound">
+        <source>Site set '%1$s' not found (referenced by '%2$s')</source>
+        <target>Site set '%1$s' ghosted us (referenced by '%2$s')</target>
+      </trans-unit>
+      <trans-unit id="error.siteSet.missingDependency">
+        <source>Site set '%1$s' is disabled: Missing dependency '%2$s'</source>
+        <target>Site set '%1$s' is ghosted: Missing dependency '%2$s'</target>
+      </trans-unit>
+      <trans-unit id="error.siteSet.invalidSettingsDefinitions">
+        <source>Site set '%1$s' is disabled due to invalid settings definitions: %2$s</source>
+        <target>Site set '%1$s' is ghosted due to sus settings definitions: %2$s</target>
+      </trans-unit>
+      <trans-unit id="error.siteSet.invalidCategoryDefinitions">
+        <source>Site set '%1$s' is disabled due to invalid category definitions: %2$s</source>
+        <target>Site set '%1$s' is ghosted due to sus category definitions: %2$s</target>
+      </trans-unit>
+      <trans-unit id="error.siteSet.invalidSettings">
+        <source>Site set '%1$s' is disabled due to invalid settings: %2$s</source>
+        <target>Site set '%1$s' is ghosted due to sus settings: %2$s</target>
+      </trans-unit>
+      <trans-unit id="error.siteSet.invalidRouteEnhancers">
+        <source>Site set '%1$s' is disabled due to invalid route enhancers: %2$s</source>
+        <target>Site set '%1$s' is ghosted due to sus route enhancers: %2$s</target>
+      </trans-unit>
+      <trans-unit id="error.siteSet.invalidSet">
+        <source>Invalid site set '%1$s': %2$s</source>
+        <target>Sus site set '%1$s': %2$s</target>
+      </trans-unit>
+      <trans-unit id="countries.default">
+        <source>Default countries</source>
+        <target>Mid (default) countries</target>
+      </trans-unit>
+      <trans-unit id="countries.prioritized">
+        <source>Prioritized countries</source>
+        <target>Main character countries</target>
+      </trans-unit>
+      <trans-unit id="notifications.button.clearAll">
+        <source>Clear all</source>
+        <target>Yeet all</target>
+      </trans-unit>
+      <trans-unit id="labels.noSelectableItemsAvailable">
+        <source>No selectable items available. Check TCA, related records and TSconfig.</source>
+        <target>No selectable items available bestie. Check TCA, related records and TSconfig.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

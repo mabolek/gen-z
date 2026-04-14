@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:indexed_search/Resources/Private/Language/locallang_db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="index_config">
+        <source>Indexing Configuration</source>
+        <target>Indexing config, fam</target>
+      </trans-unit>
+      <trans-unit id="index_config.title">
+        <source>Title</source>
+        <target>The title</target>
+      </trans-unit>
+      <trans-unit id="index_config.description">
+        <source>Description</source>
+        <target>What's the tea</target>
+      </trans-unit>
+      <trans-unit id="index_config.type.I.0" translate="no">
+        <source>-</source>
+        <target>-</target>
+      </trans-unit>
+      <trans-unit id="index_config.type.I.1">
+        <source>Database Records</source>
+        <target>Database records</target>
+      </trans-unit>
+      <trans-unit id="index_config.type.I.2">
+        <source>Filepath on server</source>
+        <target>Filepath on server, no cap</target>
+      </trans-unit>
+      <trans-unit id="index_config.type.I.3">
+        <source>External URL</source>
+        <target>External URL, fam</target>
+      </trans-unit>
+      <trans-unit id="index_config.type.I.4">
+        <source>Page tree</source>
+        <target>The page tree</target>
+      </trans-unit>
+      <trans-unit id="index_config.type.I.5">
+        <source>Meta configuration</source>
+        <target>Meta config</target>
+      </trans-unit>
+      <trans-unit id="index_config.type">
+        <source>Type</source>
+        <target>The vibe</target>
+      </trans-unit>
+      <trans-unit id="index_config.depth">
+        <source>Depth</source>
+        <target>How deep tho</target>
+      </trans-unit>
+      <trans-unit id="index_config.table2index">
+        <source>Table to index</source>
+        <target>Table to index, bestie</target>
+      </trans-unit>
+      <trans-unit id="index_config.table2index.I.0" translate="no">
+        <source>-</source>
+        <target>-</target>
+      </trans-unit>
+      <trans-unit id="index_config.alternative_source_pid">
+        <source>Alternative Source Page</source>
+        <target>Alt source page</target>
+      </trans-unit>
+      <trans-unit id="index_config.get_params">
+        <source>GET parameter string (with ###UID### substitution)</source>
+        <target>GET params (with ###UID### substitution), fam</target>
+      </trans-unit>
+      <trans-unit id="index_config.fields">
+        <source>Fields (first is title)</source>
+        <target>Fields (first one is the title)</target>
+      </trans-unit>
+      <trans-unit id="index_config.externalUrl">
+        <source>External URL (eg. "http://www.domain.org/")</source>
+        <target>External URL (e.g. "http://www.domain.org/")</target>
+      </trans-unit>
+      <trans-unit id="index_config.filepath">
+        <source>Filepath</source>
+        <target>The filepath, bestie</target>
+      </trans-unit>
+      <trans-unit id="index_config.extensions">
+        <source>Limit to extensions (commalist)</source>
+        <target>Only these extensions (comma-separated)</target>
+      </trans-unit>
+      <trans-unit id="index_config.url_deny">
+        <source>Enter sub-URLs in which not to decend</source>
+        <target>Enter sub-URLs to not crawl into, bestie</target>
+      </trans-unit>
+      <trans-unit id="index_config.records_indexonchange">
+        <source>Index Records immediately when saved?</source>
+        <target>Index records immediately when saved fr fr?</target>
+      </trans-unit>
+      <trans-unit id="index_config.timer_next_indexing">
+        <source>Next indexing is scheduled (if empty, then immediately)</source>
+        <target>Next indexing dropping (if empty, runs immediately fr)</target>
+      </trans-unit>
+      <trans-unit id="index_config.timer_offset">
+        <source>Timing offset from midnight</source>
+        <target>Time offset from midnight, bestie</target>
+      </trans-unit>
+      <trans-unit id="index_config.timer_frequency">
+        <source>How often would you like a re-index?</source>
+        <target>How often you want a re-index, fam?</target>
+      </trans-unit>
+      <trans-unit id="index_config.timer_frequency.I.0">
+        <source>Every hour</source>
+        <target>Every single hour</target>
+      </trans-unit>
+      <trans-unit id="index_config.timer_frequency.I.1">
+        <source>Every day (24 hours)</source>
+        <target>Daily (24 hours)</target>
+      </trans-unit>
+      <trans-unit id="index_config.timer_frequency.I.2">
+        <source>Every week</source>
+        <target>Once a week fr</target>
+      </trans-unit>
+      <trans-unit id="index_config.recordsbatch">
+        <source>How many records to index a minute (default is 100)</source>
+        <target>How many records to index per minute (default is 100)</target>
+      </trans-unit>
+      <trans-unit id="index_config.set_id">
+        <source>Session ID (if &gt; zero, then indexing job is running)</source>
+        <target>Session ID (if &gt; zero, indexing job is running)</target>
+      </trans-unit>
+      <trans-unit id="index_config.indexcfgs">
+        <source>Indexing configurations</source>
+        <target>Indexing configs, fr fr</target>
+      </trans-unit>
+      <trans-unit id="index_config.parameterCfgs">
+        <source>Parameter combination configuration ([tablename]:&amp;[param]=###UID###)</source>
+        <target>Parameter combo config ([tablename]:&amp;[param]=###UID###)</target>
+      </trans-unit>
+      <trans-unit id="index_config.rootpage">
+        <source>Root page</source>
+        <target>The root page</target>
+      </trans-unit>
+      <trans-unit id="plugin_title">
+        <source>Indexed Search</source>
+        <target>Indexed stalk</target>
+      </trans-unit>
+      <trans-unit id="plugin_description">
+        <source>Search based on a database stored index.</source>
+        <target>Stalk based on a database-stored index, no cap.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

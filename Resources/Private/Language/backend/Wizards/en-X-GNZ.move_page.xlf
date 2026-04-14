@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/Wizards/move_page.xlf">
+    <header/>
+    <body>
+      <trans-unit id="headline"><source>Move page "%1$s" [%2$d]</source><target>Slide page "%1$s" [%2$d] over</target></trans-unit>
+      <trans-unit id="currentPath"><source>Current path</source><target>Current path</target></trans-unit>
+      <trans-unit id="makeCopy"><source>Copy page instead of moving page</source><target>Yoink page instead of sliding it</target></trans-unit>
+      <trans-unit id="samePageConflict"><source>The page "%1$s" [%2$d] cannot get moved into itself.</source><target>The page "%1$s" [%2$d] can't slide into itself bestie. That would be a paradox.</target></trans-unit>
+      <trans-unit id="action.pasteAbove"><source>Paste above</source><target>Drop it above</target></trans-unit>
+      <trans-unit id="action.pasteBelow"><source>Paste below</source><target>Drop it below</target></trans-unit>
+      <trans-unit id="action.pasteInto"><source>Paste into</source><target>Drop it in</target></trans-unit>
+      <trans-unit id="movePage.notification.pageMoved.title"><source>Page successfully moved</source><target>Page slid over successfully, slay!</target></trans-unit>
+      <trans-unit id="movePage.notification.pageMoved.message"><source>The page "%s" has been successfully moved.</source><target>The page "%s" got slid over successfully.</target></trans-unit>
+      <trans-unit id="movePage.notification.pageCopied.title"><source>Page successfully copied</source><target>Page yoinked successfully!</target></trans-unit>
+      <trans-unit id="movePage.notification.pageCopied.message"><source>The page "%s" has been successfully copied.</source><target>The page "%s" got yoinked successfully.</target></trans-unit>
+      <trans-unit id="movePage.notification.pagePasted.action.dismiss"><source>Dismiss</source><target>Nvm</target></trans-unit>
+      <trans-unit id="movePage.notification.pagePasted.action.open"><source>Open "%s"</source><target>Pull up "%s"</target></trans-unit>
+    </body>
+  </file>
+</xliff>

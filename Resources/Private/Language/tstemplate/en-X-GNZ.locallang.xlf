@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:tstemplate/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="module.typoscript.title"><source>TypoScript</source><target>TypoScript vibes</target></trans-unit>
+      <trans-unit id="module.typoscript.shortDescription"><source>TypoScript tools</source><target>TypoScript tools, bestie</target></trans-unit>
+      <trans-unit id="module.typoscript.description"><source>Here you manage the TypoScript records which are in charge of the look of your website on the frontend. The module provides specialized features like a TypoScript tree, a constant editor and raw editing facilities.</source><target>Here you manage the TypoScript records that control your website's drip on the frontend. The module has specialized features like a TypoScript tree, constant editor, and raw editing.</target></trans-unit>
+      <trans-unit id="submodules.option.constantEditor"><source>Constant Editor</source><target>Constant editor, fam</target></trans-unit>
+      <trans-unit id="submodules.option.infoModify"><source>Edit TypoScript Record</source><target>Glow up TypoScript record</target></trans-unit>
+      <trans-unit id="submodules.option.active"><source>Active TypoScript</source><target>Active TypoScript, bestie</target></trans-unit>
+      <trans-unit id="submodules.option.templateAnalyzer"><source>Included TypoScript</source><target>Pulled-in TypoScript</target></trans-unit>
+      <trans-unit id="submodules.option.typoscriptOverview"><source>TypoScript Overview</source><target>TypoScript overview</target></trans-unit>
+      <trans-unit id="noRecordFound.infobox.title"><source>No TypoScript record on the current page</source><target>No TypoScript record on this page, oof</target></trans-unit>
+      <trans-unit id="noRecordFound.infobox.message"><source>You need to create a TypoScript record in order to edit your configuration.</source><target>You need to drop a TypoScript record to glow up your configuration, bro.</target></trans-unit>
+      <trans-unit id="noRecordFound.goToClosestRecord.description"><source>The closest TypoScript record is located on page '%s' (uid %s).</source><target>The closest TypoScript record is on page '%s' (uid %s).</target></trans-unit>
+      <trans-unit id="noRecordFound.goToClosestRecord.link.title"><source>Select this TypoScript record</source><target>Pick this TypoScript record</target></trans-unit>
+      <trans-unit id="noRecordFound.createRootTypoScriptRecord.headline"><source>Root TypoScript record</source><target>Root TypoScript record, fam</target></trans-unit>
+      <trans-unit id="noRecordFound.createRootTypoScriptRecord.description"><source>Choose this option if you want this page to be the root of a new site.</source><target>Pick this if you want this page to be the root of a new site.</target></trans-unit>
+      <trans-unit id="noRecordFound.createRootTypoScriptRecord.link.title"><source>Create a root TypoScript record</source><target>Drop a root TypoScript record</target></trans-unit>
+      <trans-unit id="noRecordFound.createRootTypoScriptRecord.title.placeholder"><source>NEW SITE</source><target>FRESH SITE</target></trans-unit>
+      <trans-unit id="noRecordFound.createAdditionalTypoScriptRecord.headline"><source>Additional TypoScript record</source><target>Extra TypoScript record</target></trans-unit>
+      <trans-unit id="noRecordFound.createAdditionalTypoScriptRecord.description"><source>An additional TypoScript record allows you to enter TypoScript values that will affect only this page and subpages.</source><target>An additional TypoScript record lets you enter TypoScript values that only affect this page and subpages.</target></trans-unit>
+      <trans-unit id="noRecordFound.createAdditionalTypoScriptRecord.link.title"><source>Create an additional TypoScript record</source><target>Drop an additional TypoScript record</target></trans-unit>
+    </body>
+  </file>
+</xliff>

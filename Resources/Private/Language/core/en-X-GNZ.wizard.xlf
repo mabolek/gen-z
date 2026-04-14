@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:core/Resources/Private/Language/wizard.xlf">
+    <header/>
+    <body>
+      <trans-unit id="wizard.button.next">
+        <source>Next</source>
+        <target>Next up fam</target>
+      </trans-unit>
+      <trans-unit id="wizard.button.prev">
+        <source>Previous</source>
+        <target>Go back bestie</target>
+      </trans-unit>
+      <trans-unit id="wizard.button.cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="wizard.progress">
+        <source>Step {0} of {1}</source>
+        <target>Step {0} of {1} bestie</target>
+      </trans-unit>
+      <trans-unit id="wizard.progressStep.configure">
+        <source>Configure</source>
+        <target>Set up the vibes</target>
+      </trans-unit>
+      <trans-unit id="wizard.progressStep.finish">
+        <source>Finish</source>
+        <target>Slay, done!</target>
+      </trans-unit>
+      <trans-unit id="wizard.processing.title">
+        <source>Processing...</source>
+        <target>Processing bestie, hold on...</target>
+      </trans-unit>
+      <trans-unit id="wizard.step.required">
+        <source>Required fields</source>
+        <target>Required fields, no cap</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

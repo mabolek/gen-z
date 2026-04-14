@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:webhooks/Resources/Private/Language/locallang_db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="webhooks"><source>Webhooks</source><target>Webhooks, fam</target></trans-unit>
+      <trans-unit id="sys_webhook"><source>System webhooks</source><target>System webhooks, bestie</target></trans-unit>
+      <trans-unit id="sys_webhook.name"><source>Name</source><target>The name</target></trans-unit>
+      <trans-unit id="sys_webhook.name.description"><source>Meaningful name of the webhook</source><target>Give this webhook a name that slaps, bestie</target></trans-unit>
+      <trans-unit id="sys_webhook.url"><source>URL</source><target>The URL</target></trans-unit>
+      <trans-unit id="sys_webhook.url.description"><source>Target URL that should be called.</source><target>Target URL to slide into.</target></trans-unit>
+      <trans-unit id="sys_webhook.method"><source>HTTP Method</source><target>HTTP method</target></trans-unit>
+      <trans-unit id="sys_webhook.verify_ssl"><source>Verify SSL</source><target>Verify SSL, bestie</target></trans-unit>
+      <trans-unit id="sys_webhook.verify_ssl.description"><source>Verify that the connection is secure and valid, this setting should only be disabled in case a verification is not possible.</source><target>Verify the connection is secure and valid. Only disable this if verification isn't possible, no cap.</target></trans-unit>
+      <trans-unit id="sys_webhook.additional_headers"><source>Additional Headers</source><target>Additional headers</target></trans-unit>
+      <trans-unit id="sys_webhook.additional_headers.description"><source>Additional headers that should be added to the HTTP request. Data must be provided as valid JSON string.</source><target>Extra headers for the HTTP request. Data must be valid JSON string.</target></trans-unit>
+      <trans-unit id="sys_webhook.identifier"><source>Identifier</source><target>The ID tag</target></trans-unit>
+      <trans-unit id="sys_webhook.identifier.description"><source>This is your unique webhook identifier</source><target>This is your unique webhook ID tag, no cap</target></trans-unit>
+      <trans-unit id="sys_webhook.webhook_type"><source>Webhook Trigger</source><target>Webhook trigger</target></trans-unit>
+      <trans-unit id="sys_webhook.secret"><source>Secret</source><target>The secret</target></trans-unit>
+      <trans-unit id="sys_webhook.secret.description"><source>The secret is mandatory to create a hash that is sent with the request. The secret can be used to verify the payload has not been modified, see the documentation for more details.</source><target>The secret is mandatory fr fr to create a hash sent with the request. It verifies the payload hasn't been tampered with. Peep the docs for more deets.</target></trans-unit>
+      <trans-unit id="sys_webhook.secret.passwordGenerator"><source>Generate secret</source><target>Generate a secret, bestie</target></trans-unit>
+      <trans-unit id="sys_webhook.webhook_type.description"><source>Trigger the webhook, ...</source><target>Slide into DMs when ...</target></trans-unit>
+      <trans-unit id="sys_webhook.webhook_type.select"><source>Select a trigger</source><target>Pick a trigger</target></trans-unit>
+      <trans-unit id="sys_webhook.webhook_type.typo3-content-page-modification"><source>... when a page is added or changed</source><target>... when a page gets dropped or changed</target></trans-unit>
+      <trans-unit id="sys_webhook.webhook_type.typo3-login-error"><source>... when an error occurs on log in</source><target>... when login throws an oof</target></trans-unit>
+      <trans-unit id="sys_webhook.webhook_type.typo3-mfa-error"><source>... when an error occurs on multi-factor authentication</source><target>... when MFA throws an oof</target></trans-unit>
+      <trans-unit id="sys_webhook.webhook_type.typo3-file-added"><source>... when a file is added</source><target>... when a file gets dropped</target></trans-unit>
+      <trans-unit id="sys_webhook.webhook_type.typo3-file-removed"><source>... when a file is removed</source><target>... when a file gets yeeted</target></trans-unit>
+      <trans-unit id="sys_webhook.webhook_type.typo3-file-updated"><source>... when a file is updated</source><target>... when a file gets a glow up</target></trans-unit>
+      <trans-unit id="sys_webhook.storage_pid"><source>Storage PID</source><target>Storage PID, fam</target></trans-unit>
+      <trans-unit id="sys_webhook.storage_pid.description"><source>Select the page on which a new record is created on.</source><target>Pick the page where a new record gets dropped.</target></trans-unit>
+      <trans-unit id="palette.config"><source>Configuration</source><target>Config vibes</target></trans-unit>
+      <trans-unit id="palette.config.description"><source>General configuration of the webhook.</source><target>General webhook config.</target></trans-unit>
+      <trans-unit id="palette.http_settings"><source>HTTP Settings</source><target>HTTP settings</target></trans-unit>
+      <trans-unit id="palette.http_settings.description"><source>Advanced HTTP request settings.</source><target>Advanced HTTP request settings.</target></trans-unit>
+      <trans-unit id="palette.additional"><source>Additional configuration</source><target>Extra config</target></trans-unit>
+      <trans-unit id="palette.additional.description"><source>Specific configuration for the selected webhook type</source><target>Specific config for the selected webhook type</target></trans-unit>
+    </body>
+  </file>
+</xliff>

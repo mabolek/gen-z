@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:core/Resources/Private/Language/db/general.xlf">
+    <header/>
+    <body>
+      <trans-unit id="description">
+        <source>Description</source>
+        <target>The tea on this</target>
+      </trans-unit>
+      <trans-unit id="editlock">
+        <source>Editable for Admins Only</source>
+        <target>Only Sigma Admins can glow this up</target>
+      </trans-unit>
+      <trans-unit id="enabled">
+        <source>Enabled</source>
+        <target>It's giving active</target>
+      </trans-unit>
+      <trans-unit id="endtime">
+        <source>Expiration Date</source>
+        <target>Expiry date bestie</target>
+      </trans-unit>
+      <trans-unit id="fe_group">
+        <source>Frontend User Group Access Rights</source>
+        <target>Frontend Bestie Squad gatekeeping rights</target>
+      </trans-unit>
+      <trans-unit id="fe_group.hide_at_login">
+        <source>Hide at login</source>
+        <target>Ghost it when they slide in</target>
+      </trans-unit>
+      <trans-unit id="fe_group.any_login">
+        <source>Show at any login</source>
+        <target>Show at any slide in</target>
+      </trans-unit>
+      <trans-unit id="fe_group.usergroups">
+        <source>__Usergroups:__</source>
+        <target>__Squads:__</target>
+      </trans-unit>
+      <trans-unit id="l18n_parent">
+        <source>Transl.Orig</source>
+        <target>OG Translation</target>
+      </trans-unit>
+      <trans-unit id="language">
+        <source>Language</source>
+        <target>Language</target>
+      </trans-unit>
+      <trans-unit id="starttime">
+        <source>Publish Date</source>
+        <target>Drop date</target>
+      </trans-unit>
+      <trans-unit id="depth_0">
+        <source>This page</source>
+        <target>This page rn</target>
+      </trans-unit>
+      <trans-unit id="depth_1">
+        <source>1 level</source>
+        <target>1 level deep</target>
+      </trans-unit>
+      <trans-unit id="depth_2">
+        <source>2 levels</source>
+        <target>2 levels deep</target>
+      </trans-unit>
+      <trans-unit id="depth_3">
+        <source>3 levels</source>
+        <target>3 levels deep</target>
+      </trans-unit>
+      <trans-unit id="depth_4">
+        <source>4 levels</source>
+        <target>4 levels deep</target>
+      </trans-unit>
+      <trans-unit id="depth_infi">
+        <source>Infinite</source>
+        <target>Infinite no cap</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:viewpage/Resources/Private/Language/locallang_mod.xlf">
+    <header/>
+    <body>
+      <trans-unit id="mlang_labels_tablabel"><source>View page</source><target>Peep the page</target></trans-unit>
+      <trans-unit id="mlang_labels_tabdescr"><source>Shows the look of the current page and lets you edit the content directly.</source><target>Shows what the current page looks like and lets you glow up the content directly.</target></trans-unit>
+      <trans-unit id="mlang_tabs_tab"><source>View</source><target>Peep</target></trans-unit>
+    </body>
+  </file>
+</xliff>

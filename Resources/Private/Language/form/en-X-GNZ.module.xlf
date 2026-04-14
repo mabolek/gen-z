@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:form/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description">
+        <source>Build custom forms</source>
+        <target>Build custom forms, bestie</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>This module ships a flexible and user-friendly form editor. It allows you to build and create versatile forms for your frontend. Your forms can easily be added to any page by using the content element "Form". Within this element, finishers can be overridden.</source>
+        <target>This module comes with a lowkey bussin form editor, fam. Build all kinds of forms for your frontend. Drop them on any page with the "Form" content element. Finishers can be overridden too, no cap.</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Forms</source>
+        <target>Forms, fam</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

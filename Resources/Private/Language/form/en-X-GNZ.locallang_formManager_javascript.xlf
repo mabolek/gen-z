@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:form/Resources/Private/Language/locallang_formManager_javascript.xlf">
+    <header/>
+    <body>
+      <trans-unit id="formManager.form_name">
+        <source>Name</source>
+        <target>Name, bestie</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_name_description">
+        <source>Enter a meaningful and descriptive name for the form. The name is displayed only in the TYPO3 backend.</source>
+        <target>Give the form a bussin name, fam. It only shows in the TYPO3 backend, ngl.</target>
+      </trans-unit>
+      <trans-unit id="formManager.new_form_name">
+        <source>New form name</source>
+        <target>Fresh form name</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_save_path" x-unused-since="14.2">
+        <source>Storage</source>
+        <target>Storage, fam</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_save_path_description" x-unused-since="14.2">
+        <source>Select the storage where your form definition will be saved.</source>
+        <target>Pick the storage where your form definition gets saved, bestie.</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_storageLocation">
+        <source>Location</source>
+        <target>Location, fam</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_storageLocation_description">
+        <source>Select the location where the form will be saved.</source>
+        <target>Pick where the form gets saved, bestie.</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_prototype">
+        <source>Form prototype</source>
+        <target>Form prototype, fam</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_template">
+        <source>Template</source>
+        <target>Template, bestie</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_template_description">
+        <source>Select a template for building your new form.</source>
+        <target>Pick a template for your fresh form, fam.</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_headline_general">
+        <source>General</source>
+        <target>The vibes</target>
+      </trans-unit>
+      <trans-unit id="formManager.form_copied">
+        <source>Copied form</source>
+        <target>Cloned form, slay</target>
+      </trans-unit>
+      <trans-unit id="formManager.cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="formManager.remove_form">
+        <source>Delete</source>
+        <target>Yeet</target>
+      </trans-unit>
+      <trans-unit id="formManager.remove_form_title">
+        <source>Confirm deletion</source>
+        <target>Confirm the yeet</target>
+      </trans-unit>
+      <trans-unit id="formManager.remove_form_message">
+        <source>Permanently delete form "{0}"? You cannot undo this action.</source>
+        <target>Permanently yeet form "{0}"? No undo, this is fr fr, bestie!</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step1.title">
+        <source>Create new form</source>
+        <target>Drop a fresh form</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step.modes.summary.title">
+        <source>Mode</source>
+        <target>Mode, fam</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step1.progressLabel">
+        <source>Choose</source>
+        <target>Pick one, bestie</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step1.noStorages">
+        <source>You do not have permission to create forms. Please contact your administrator.</source>
+        <target>You don't have permission to create forms, bruh. Hit up your admin.</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step2.title">
+        <source>Settings</source>
+        <target>Settings, fam</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step3.title">
+        <source>Ready?</source>
+        <target>Ready, bestie?</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step3.progressLabel">
+        <source>Check</source>
+        <target>Vibe check</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step3.message">
+        <source>Just check and confirm the settings you have entered. Done? Then you are ready to go.</source>
+        <target>Just vibe check your settings and confirm. All good? Then let's go, fam!</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step3.check">
+        <source>Check and confirm</source>
+        <target>Vibe check and confirm</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step4.errorTitle">
+        <source>Create</source>
+        <target>Drop it</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step4.errorMessage">
+        <source>The form could not be saved</source>
+        <target>The form couldn't be saved, oof</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step.storages.title">
+        <source>Storage location</source>
+        <target>Storage location, bestie</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step.storages.description">
+        <source>Choose how the form should be saved:</source>
+        <target>Pick how the form should be saved, fam:</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step.storages.progressLabel">
+        <source>Storage</source>
+        <target>Storage, bestie</target>
+      </trans-unit>
+      <trans-unit id="formManager.newFormWizard.step.storages.summary.title">
+        <source>Storage</source>
+        <target>Storage, fam</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step1.title">
+        <source>Duplicate form "{0}"</source>
+        <target>Clone form "{0}"</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step2.title">
+        <source>Ready?</source>
+        <target>Ready, bestie?</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step2.progressLabel">
+        <source>Check</source>
+        <target>Vibe check</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step2.check">
+        <source>Check and confirm</source>
+        <target>Vibe check and confirm</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step2.message">
+        <source>Just check and confirm the settings you have entered. Done? Then you are ready to go.</source>
+        <target>Just vibe check your settings. All good? Then let's go, fam!</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step3.errorTitle">
+        <source>Duplicate</source>
+        <target>Clone, bestie</target>
+      </trans-unit>
+      <trans-unit id="formManager.duplicateFormWizard.step3.errorMessage">
+        <source>The form could not be saved</source>
+        <target>The form couldn't be saved, oof</target>
+      </trans-unit>
+      <trans-unit id="formManager.no_references">
+        <source>There are no references yet.</source>
+        <target>No references yet, ngl.</target>
+      </trans-unit>
+      <trans-unit id="formManager.table.field.control">
+        <source>Control</source>
+        <target>Controls, fam</target>
+      </trans-unit>
+      <trans-unit id="formManager.table.field.uid">
+        <source>Uid</source>
+        <target>UID, bestie</target>
+      </trans-unit>
+      <trans-unit id="formManager.table.field.title">
+        <source>Title</source>
+        <target>Title, fam</target>
+      </trans-unit>
+      <trans-unit id="formManager.btn.edit.title">
+        <source>Edit</source>
+        <target>Glow up</target>
+      </trans-unit>
+      <trans-unit id="formManager.references.title">
+        <source>Form: {0}</source>
+        <target>Form: {0}, bestie</target>
+      </trans-unit>
+      <trans-unit id="formManager.references.headline">
+        <source>References to this item</source>
+        <target>References to this thing, fam</target>
+      </trans-unit>
+      <trans-unit id="formManager.blankForm.label">
+        <source>Blank form</source>
+        <target>Blank form, bestie</target>
+      </trans-unit>
+      <trans-unit id="formManager.blankForm.subtitle">
+        <source>Start fresh</source>
+        <target>Start fresh, fam</target>
+      </trans-unit>
+      <trans-unit id="formManager.blankForm.description">
+        <source>Create a new form from scratch.</source>
+        <target>Build a fresh form from scratch, bestie.</target>
+      </trans-unit>
+      <trans-unit id="formManager.predefinedForm.label">
+        <source>Predefined form</source>
+        <target>Pre-built form, fam</target>
+      </trans-unit>
+      <trans-unit id="formManager.predefinedForm.subtitle">
+        <source>Use a form template</source>
+        <target>Use a template, bestie</target>
+      </trans-unit>
+      <trans-unit id="formManager.predefinedForm.description">
+        <source>Create a new form and use an existing form template for it.</source>
+        <target>Drop a fresh form using an existing template, fam.</target>
+      </trans-unit>
+      <trans-unit id="formManager.finisher.redirect.success.title">
+        <source>Form created</source>
+        <target>Form dropped, slay!</target>
+      </trans-unit>
+      <trans-unit id="formManager.finisher.redirect.success.description">
+        <source>The form has been successfully created. Click "Finish" to be redirected to the newly created form.</source>
+        <target>The form has been created, W! Click "Finish" to slide over to your fresh form, bestie.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

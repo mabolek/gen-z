@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:beuser/Resources/Private/Language/locallang_mod_permission.xlf">
+    <header/>
+    <body>
+      <trans-unit id="permissions">
+        <source>Permissions</source>
+        <target>Clout levels</target>
+      </trans-unit>
+      <trans-unit id="ch_permissions">
+        <source>Change permissions</source>
+        <target>Adjust the clout</target>
+      </trans-unit>
+      <trans-unit id="Legend">
+        <source>Legend</source>
+        <target>Legend, no cap</target>
+      </trans-unit>
+      <trans-unit id="Owner">
+        <source>Owner</source>
+        <target>Main character</target>
+      </trans-unit>
+      <trans-unit id="Group">
+        <source>Group</source>
+        <target>Squad</target>
+      </trans-unit>
+      <trans-unit id="Everybody">
+        <source>Everybody</source>
+        <target>Literally everyone</target>
+      </trans-unit>
+      <trans-unit id="EditLock_descr">
+        <source>Disable the »Admin-only« edit lock for this page. Currently this page and all content is locked for editing by all non-Admin users.</source>
+        <target>Turn off the sigma-only edit lock for this page. Rn this page and all content is locked for all non-sigma homies.</target>
+      </trans-unit>
+      <trans-unit id="EditLock_descr2">
+        <source>Enable the »Admin-only« edit lock for this page</source>
+        <target>Turn on sigma-only edit lock for this page</target>
+      </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+        <target>Save fr fr</target>
+      </trans-unit>
+      <trans-unit id="Abort">
+        <source>Abort</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="Edit">
+        <source>EDIT</source>
+        <target>GLOW UP</target>
+      </trans-unit>
+      <trans-unit id="recursive">
+        <source>Set recursively</source>
+        <target>Set recursively, no cap</target>
+      </trans-unit>
+      <trans-unit id="page_affected">
+        <source>page affected</source>
+        <target>page caught in 4K</target>
+      </trans-unit>
+      <trans-unit id="pages_affected">
+        <source>pages affected</source>
+        <target>pages caught in 4K</target>
+      </trans-unit>
+      <trans-unit id="user_overview">
+        <source>User overview</source>
+        <target>Homie overview</target>
+      </trans-unit>
+      <trans-unit id="Mode">
+        <source>Mode</source>
+        <target>The mode</target>
+      </trans-unit>
+      <trans-unit id="Depth">
+        <source>Depth</source>
+        <target>How deep</target>
+      </trans-unit>
+      <trans-unit id="level">
+        <source>level</source>
+        <target>level deep</target>
+      </trans-unit>
+      <trans-unit id="levels">
+        <source>levels</source>
+        <target>levels, no cap</target>
+      </trans-unit>
+      <trans-unit id="User">
+        <source>User</source>
+        <target>Homie</target>
+      </trans-unit>
+      <trans-unit id="changeOwner">
+        <source>Change owner</source>
+        <target>Switch main character</target>
+      </trans-unit>
+      <trans-unit id="changeGroup">
+        <source>Change group</source>
+        <target>Switch squad</target>
+      </trans-unit>
+      <trans-unit id="def">
+        <source>Definition: 'content' is records from all tables on a page - except from records from the table 'pages' (Pages).</source>
+        <target>Definition: 'content' is records from all tables on a page - except from the 'pages' table itself, fam.</target>
+      </trans-unit>
+      <trans-unit id="A_Granted">
+        <source>Access Granted</source>
+        <target>Access granted, aura +100, W!</target>
+      </trans-unit>
+      <trans-unit id="A_Denied">
+        <source>Access Denied</source>
+        <target>Access denied, aura -500, red flag!</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Show page</source>
+        <target>Show page, fam</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Edit content</source>
+        <target>Glow up content</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Edit page</source>
+        <target>Glow up page</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Delete page</source>
+        <target>Yeet page</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>New pages</source>
+        <target>Fresh page drops</target>
+      </trans-unit>
+      <trans-unit id="1_t">
+        <source>Show/Copy page and content.</source>
+        <target>Show/copy page and content, bestie.</target>
+      </trans-unit>
+      <trans-unit id="16_t">
+        <source>Change/Add/Delete/Move content.</source>
+        <target>Glow up/drop/yeet/slide content.</target>
+      </trans-unit>
+      <trans-unit id="2_t">
+        <source>Change page eg. change pagetitle etc.</source>
+        <target>Glow up page, like change the title etc, fam.</target>
+      </trans-unit>
+      <trans-unit id="4_t">
+        <source>Delete/Move page and content.</source>
+        <target>Yeet/slide page and content.</target>
+      </trans-unit>
+      <trans-unit id="8_t">
+        <source>Create new pages under this page.</source>
+        <target>Spawn fresh pages under this page, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tablabel">
+        <source>Page editing permissions</source>
+        <target>Page glow up clout levels</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tabdescr">
+        <source>Setting of page permissions is vital for controlling backend user access to pages. You can assign a user and a group as owners of a page and set access permissions for each.</source>
+        <target>Setting clout levels for pages is highkey important for controlling who can access what. You can assign a homie and a squad as owners and set the clout for each.</target>
+      </trans-unit>
+      <trans-unit id="mlang_tabs_tab">
+        <source>Permissions</source>
+        <target>Clout levels</target>
+      </trans-unit>
+      <trans-unit id="WorkspaceWarning">
+        <source>Workspace Warning</source>
+        <target>Workspace red flag!</target>
+      </trans-unit>
+      <trans-unit id="WorkspaceWarningText">
+        <source>Permissions set in a workspace take effect only after the related elements are published. To apply permissions immediately, configure them in the Live workspace. (Permissions are always evaluated based on the Live workspace record or the placeholder of a draft version)</source>
+        <target>Clout set in a workspace only hits after the content is published. To apply clout immediately, set it up in the Live workspace, fam. (Clout is always evaluated based on the Live workspace record, no cap)</target>
+      </trans-unit>
+      <trans-unit id="notSet">
+        <source>not set</source>
+        <target>not set, ngl</target>
+      </trans-unit>
+      <trans-unit id="deleted">
+        <source>deleted</source>
+        <target>yeeted</target>
+      </trans-unit>
+      <trans-unit id="noGroups">
+        <source>No user groups exist.</source>
+        <target>No squads exist, bestie.</target>
+      </trans-unit>
+      <trans-unit id="selectNone">
+        <source>   - none -   </source>
+        <target>   - nah fam -   </target>
+      </trans-unit>
+      <trans-unit id="selectUnchanged">
+        <source>   - leave unchanged -   </source>
+        <target>   - leave it, bestie -   </target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

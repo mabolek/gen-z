@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:lowlevel/Resources/Private/Language/Modules/database_integrity.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Database</source>
+        <target>Database</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Database query tools</source>
+        <target>Database query tools, no cap</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Search and query the TYPO3 database using advanced tools.</source>
+        <target>Stalk and query the TYPO3 database using advanced tools, bestie.</target>
+      </trans-unit>
+      <trans-unit id="query_loaded">
+        <source>Query "%s" loaded</source>
+        <target>Query "%s" loaded, slay</target>
+      </trans-unit>
+      <trans-unit id="query_saved">
+        <source>Query saved</source>
+        <target>Query saved fr fr</target>
+      </trans-unit>
+      <trans-unit id="query_removed">
+        <source>"%s" query entry removed</source>
+        <target>"%s" query entry yeeted</target>
+      </trans-unit>
+      <trans-unit id="undelete_only">
+        <source>Undelete</source>
+        <target>Un-yeet</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

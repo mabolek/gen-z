@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:recycler/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title"><source>Recycler</source><target>The Recycler</target></trans-unit>
+      <trans-unit id="short_description"><source>Restore or permanently remove deleted records</source><target>Un-yeet or permanently yeet yeeted records</target></trans-unit>
+      <trans-unit id="description"><source>Allows you to restore deleted records or remove them permanently from the database. Supports single, multiple, and recursive actions, such as restoring a page with all its content elements. Filter by page or table to review deleted records before taking action.</source><target>Lets you un-yeet yeeted records or permanently remove them from the database. Supports single, multiple, and recursive actions. Filter by page or table to review yeeted records before making moves. Everyone deserves a second chance, ngl!</target></trans-unit>
+    </body>
+  </file>
+</xliff>

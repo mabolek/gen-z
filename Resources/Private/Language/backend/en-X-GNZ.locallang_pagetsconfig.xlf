@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_pagetsconfig.xlf">
+    <header/>
+    <body>
+      <trans-unit id="module.pagetsconfig.title">
+        <source>Page TSconfig</source>
+        <target>Page TSconfig, fam</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig.description">
+        <source>The page TSconfig module lets you manage configuration overrides for editors and option display throughout the Backend.</source>
+        <target>The Page TSconfig module lets you manage config overrides for editors and option display throughout the Backend fam.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig.shortDescription">
+        <source>Page TSconfig tools</source>
+        <target>Page TSconfig tools, bestie</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_pages">
+        <source>Pages containing page TSconfig</source>
+        <target>Pages with Page TSconfig vibes</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active">
+        <source>Active page TSconfig</source>
+        <target>Active Page TSconfig (what's popping)</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes">
+        <source>Included page TSconfig</source>
+        <target>Included Page TSconfig (the imports)</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig.noAccess">
+        <source>Access to this module denied.</source>
+        <target>Access to this module denied. You're getting gatekept bestie.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_pages.headline">
+        <source>Pages containing page TSconfig</source>
+        <target>Pages with Page TSconfig in them</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_pages.description">
+        <source>Global overview of all pages in the database containing page TSconfig.</source>
+        <target>Global overview of all pages in the database that got Page TSconfig fr fr.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_pages.noRecords">
+        <source>There are no pages containing page TSconfig settings in the page configuration.</source>
+        <target>Zero pages with Page TSconfig settings in the config, nada.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_pages.pagetitle">
+        <source>Page title</source>
+        <target>Page title, bestie</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_pages.written_tsconfig_lines">
+        <source>Number of lines of code in field "TSconfig"</source>
+        <target>How many lines of code in the "TSconfig" field</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.headline">
+        <source>Active page TSconfig of page "%s"</source>
+        <target>Active Page TSconfig for page "%s"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.description">
+        <source>Overview of the current page TSconfig of the system. A targeted search for values and names is possible. The list of results can also be filtered according to conditions.</source>
+        <target>Overview of the current Page TSconfig bestie. You can stalk specific values and names. Results can also be filtered by conditions, easy.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.displayConstantSubstitutions">
+        <source>Substitute constants in page TSconfig</source>
+        <target>Swap constants in Page TSconfig</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.displayComments">
+        <source>Display comments</source>
+        <target>Show comments</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.sortAlphabetically">
+        <source>Sort keys alphabetically</source>
+        <target>Sort keys A to Z</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.panel.header.conditions">
+        <source>Conditions</source>
+        <target>The conditions</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.panel.header.numberOfSearchMatches">
+        <source>%s search match(es)</source>
+        <target>%s stalk match(es)</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.panel.info.conditionActiveCount.multiple">
+        <source>%s active conditions</source>
+        <target>%s active conditions, no cap</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.panel.info.conditionActiveCount.single">
+        <source>%s active condition</source>
+        <target>%s active condition, bestie</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.panel.info.conditionWithConstant">
+        <source>Site settings usage: [%s]</source>
+        <target>Site settings usage: [%s], fam</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.panel.header.configuration">
+        <source>Configuration</source>
+        <target>Config Vibes</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.siteSettings">
+        <source>Constants from site settings</source>
+        <target>Constants from site settings, fam</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.activePageTsConfig">
+        <source>Page TSconfig</source>
+        <target>The Page TSconfig</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.noPageTSconfigAvailable">
+        <source>No suitable page TSconfig available.</source>
+        <target>No suitable Page TSconfig available, oof.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.tree.valueWithConstant">
+        <source>Constant usage: [%s]</source>
+        <target>Constant usage: [%s], ngl</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.headline">
+        <source>Included page TSconfig of page "%s"</source>
+        <target>Included Page TSconfig of page "%s"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.description">
+        <source>Overview of the included TypoScript and include order for the current page.</source>
+        <target>Overview of the included TypoScript and include order for the current page fam.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.siteSettings">
+        <source>Constants from site settings</source>
+        <target>Constants from site settings, bestie</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.pagetsconfig">
+        <source>Page TSconfig</source>
+        <target>Page TSconfig vibes</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.panel.header.configuration">
+        <source>Configuration</source>
+        <target>Config Vibes</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.panel.header.syntaxErrors">
+        <source>Syntax scanner warnings</source>
+        <target>Syntax scanner red flags</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.panel.info.syntaxErrorCount.single">
+        <source>%s syntax warning</source>
+        <target>%s syntax red flag</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.panel.info.syntaxErrorCount.multiple">
+        <source>%s syntax warnings</source>
+        <target>%s syntax red flags</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.syntaxError.sourceCode">
+        <source>Show affected code snippet</source>
+        <target>Show the affected code snippet</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.syntaxError.type.line.invalid">
+        <source>Invalid line in "%1$s", line number "%2$s"</source>
+        <target>Invalid line in "%1$s", line "%2$s" - that's not it</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.syntaxError.type.brace.excess">
+        <source>Brace in excess in "%1$s", line number "%2$s"</source>
+        <target>Extra brace in "%1$s", line "%2$s"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.syntaxError.type.brace.missing">
+        <source>Brace missing in "%1$s", line number "%2$s"</source>
+        <target>Brace missing in "%1$s", line "%2$s" bruh</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.syntaxError.type.import.empty">
+        <source>Import does not find a file in "%1$s", line number "%2$s"</source>
+        <target>Import can't find a file in "%1$s", line "%2$s" - file got ghosted</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.Segment">
+        <source>Code segment</source>
+        <target>Code segment, bestie</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.AtImport">
+        <source>Included via "@import"</source>
+        <target>Pulled in via "@import"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.Condition">
+        <source>Condition (then)</source>
+        <target>If vibes (then)</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.ConditionElse">
+        <source>Condition (else)</source>
+        <target>If vibes (else)</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.ConditionStop">
+        <source>Condition (end)</source>
+        <target>If vibes (end)</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.TsConfig">
+        <source>TSconfig</source>
+        <target>TSconfig vibes</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.Site">
+        <source>Site</source>
+        <target>The site</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.btn.sourceCode">
+        <source>Show code</source>
+        <target>Peep the code</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.btn.sourceCodeWithResolvedIncludes">
+        <source>Show code including possible includes/imports</source>
+        <target>Peep the code with all includes/imports resolved</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:tstemplate/Resources/Private/Language/locallang_overview.xlf">
+    <header/>
+    <body>
+      <trans-unit id="typoscriptRecords.title"><source>TypoScript Overview</source><target>TypoScript overview</target></trans-unit>
+      <trans-unit id="typoscriptRecords.description"><source>Global overview of all pages with active TypoScript definitions (database records and site sets).</source><target>Global overview of all pages with active TypoScript definitions (DB records and site sets).</target></trans-unit>
+      <trans-unit id="typoscriptRecords.noRecordsFound"><source>No TypoScript definitions found.</source><target>No TypoScript definitions found. It's giving empty.</target></trans-unit>
+      <trans-unit id="typoscriptRecords.table.column.pageTitle"><source>Page title</source><target>Page title, bestie</target></trans-unit>
+      <trans-unit id="typoscriptRecords.table.column.typoscriptRecords"><source>TypoScript definitions</source><target>TypoScript definitions, fam</target></trans-unit>
+      <trans-unit id="typoscriptRecords.table.column.site"><source>Site set</source><target>Site set, fam</target></trans-unit>
+      <trans-unit id="typoscriptRecords.table.column.root"><source>Marked as root</source><target>Marked as root, no cap</target></trans-unit>
+    </body>
+  </file>
+</xliff>

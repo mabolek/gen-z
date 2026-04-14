@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:tstemplate/Resources/Private/Language/locallang_info.xlf">
+    <header/>
+    <body>
+      <trans-unit id="submodule.title"><source>Edit TypoScript record</source><target>Glow up TypoScript record</target></trans-unit>
+      <trans-unit id="submodule.titleWithRecord"><source>Edit TypoScript record "%s"</source><target>Glow up TypoScript record "%s"</target></trans-unit>
+      <trans-unit id="submodule.description"><source>Modify the content of the selected TypoScript record of the current page. Modifications can be made either for configurations like TypoScript constants and setup or basics like the title and description of the TypoScript record itself.</source><target>Glow up the content of the selected TypoScript record on the current page. You can modify configs like TypoScript constants and setup, or basics like the title and description of the record itself.</target></trans-unit>
+      <trans-unit id="options.selectedRecord"><source>Selected record</source><target>Selected record, bestie</target></trans-unit>
+      <trans-unit id="table.column.constants"><source>Constants</source><target>The constants</target></trans-unit>
+      <trans-unit id="table.column.description"><source>Description</source><target>What's the tea, bestie</target></trans-unit>
+      <trans-unit id="table.column.lines"><source>%s lines</source><target>%s lines, fam</target></trans-unit>
+      <trans-unit id="table.column.setup"><source>Setup</source><target>The setup</target></trans-unit>
+      <trans-unit id="table.column.title"><source>Title</source><target>The title</target></trans-unit>
+      <trans-unit id="btn.editSiteConfiguration"><source>Edit site configuration</source><target>Glow up site configuration</target></trans-unit>
+      <trans-unit id="btn.editSiteSettings"><source>Edit site settings</source><target>Glow up site settings</target></trans-unit>
+      <trans-unit id="btn.editTypoScriptRecord"><source>Edit the whole TypoScript record</source><target>Glow up the whole TypoScript record</target></trans-unit>
+      <trans-unit id="infoTypoScriptRecordFromSite.title"><source>TypoScript settings have been implicitly generated from site sets includes</source><target>TypoScript settings were implicitly generated from site set includes</target></trans-unit>
+      <trans-unit id="infoTypoScriptRecordFromSite.message"><source>The site configuration '%s' has one or more dependencies on site sets. The sets can be configured in the 'Sites - Setup' backend module. The TypoScript definitions can be edited on the file system.</source><target>The site config '%s' has dependencies on site sets. Configure the sets in the 'Sites - Setup' backend module. The TypoScript definitions can be glowed up on the file system.</target></trans-unit>
+      <trans-unit id="noConstantsButSiteSettings.title"><source>Site Settings available</source><target>Site settings available</target></trans-unit>
+      <trans-unit id="noConstantsButSiteSettings.message"><source>Edit site settings via the 'Sites - Setup' backend module.</source><target>Glow up site settings via the 'Sites - Setup' backend module.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

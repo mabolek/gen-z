@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_column_selector.xlf">
+    <header/>
+    <body>
+      <trans-unit id="showColumns">
+        <source>Show columns</source>
+        <target>Show columns bestie</target>
+      </trans-unit>
+      <trans-unit id="showColumnsSelection">
+        <source>Show columns for %s</source>
+        <target>Show columns for %s</target>
+      </trans-unit>
+      <trans-unit id="updateColumnView">
+        <source>Update</source>
+        <target>Update</target>
+      </trans-unit>
+      <trans-unit id="updateColumnView.nothingUpdated">
+        <source>No columns were updated</source>
+        <target>No columns got updated, nothing happened</target>
+      </trans-unit>
+      <trans-unit id="updateColumnView.error">
+        <source>Could not update columns</source>
+        <target>Couldn't update columns, oof</target>
+      </trans-unit>
+      <trans-unit id="columnsFilter">
+        <source>Filter by:</source>
+        <target>Filter by:</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:lowlevel/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="module.configuration.title">
+        <source>Configuration</source>
+        <target>Config, bestie</target>
+      </trans-unit>
+      <trans-unit id="module.configuration.shortDescription">
+        <source>View configuration from localconf.php and tables.php</source>
+        <target>Peep the config from localconf.php and tables.php</target>
+      </trans-unit>
+      <trans-unit id="module.configuration.description">
+        <source>Allows you to browse the values of the $TCA array (table configuration) and $TYPO3_CONF_VARS. You cannot set any values, only browse them.</source>
+        <target>Lets you scroll through $TCA array and $TYPO3_CONF_VARS values. Look but don't touch, bestie!</target>
+      </trans-unit>
+      <trans-unit id="module.configuration.numberOfSearchMatches">
+        <source>%s search match(es)</source>
+        <target>%s stalk match(es)</target>
+      </trans-unit>
+      <trans-unit id="moduleMenu.dropdown.label">
+        <source>Configuration to show</source>
+        <target>Which config you wanna peep, fam</target>
+      </trans-unit>
+      <trans-unit id="configuration.headline">
+        <source>Configuration of "%1s"</source>
+        <target>Config of "%1s", no cap</target>
+      </trans-unit>
+      <trans-unit id="typo3ConfVars">
+        <source>$GLOBALS['TYPO3_CONF_VARS'] (Global Configuration)</source>
+        <target>$GLOBALS['TYPO3_CONF_VARS'] (Global Config)</target>
+      </trans-unit>
+      <trans-unit id="tca">
+        <source>$GLOBALS['TCA'] (Table configuration array)</source>
+        <target>$GLOBALS['TCA'] (Table config array)</target>
+      </trans-unit>
+      <trans-unit id="beUserTsConfig">
+        <source>$GLOBALS['BE_USER']-&gt;getTSConfig() (User TSconfig)</source>
+        <target>$GLOBALS['BE_USER']-&gt;getTSConfig() (User TSconfig, bestie)</target>
+      </trans-unit>
+      <trans-unit id="beUser">
+        <source>$GLOBALS['BE_USER']-&gt;uc (User Settings)</source>
+        <target>$GLOBALS['BE_USER']-&gt;uc (User Settings, fam)</target>
+      </trans-unit>
+      <trans-unit id="usersettings">
+        <source>$GLOBALS['TYPO3_USER_SETTINGS'] (User Settings Configuration)</source>
+        <target>$GLOBALS['TYPO3_USER_SETTINGS'] (User Settings Config)</target>
+      </trans-unit>
+      <trans-unit id="routes">
+        <source>Backend Routes</source>
+        <target>Backend Routes, bestie</target>
+      </trans-unit>
+      <trans-unit id="httpMiddlewareStacks">
+        <source>HTTP Middlewares (PSR-15)</source>
+        <target>HTTP Middlewares (PSR-15), fr fr</target>
+      </trans-unit>
+      <trans-unit id="contentSecurityPolicyMutations">
+        <source>Content Security Policy Mutations</source>
+        <target>Content Security Policy Mutations, no cap</target>
+      </trans-unit>
+      <trans-unit id="sitesTcaConfiguration">
+        <source>Sites: TCA configuration</source>
+        <target>Sites: TCA config, fam</target>
+      </trans-unit>
+      <trans-unit id="sitesYamlConfiguration">
+        <source>Sites: YAML configuration</source>
+        <target>Sites: YAML config, bestie</target>
+      </trans-unit>
+      <trans-unit id="eventListeners">
+        <source>Event Listeners (PSR-14)</source>
+        <target>Event Listeners (PSR-14), no cap</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders">
+        <source>MFA providers</source>
+        <target>MFA providers, bestie</target>
+      </trans-unit>
+      <trans-unit id="softReferenceParsers">
+        <source>Soft Reference Parsers</source>
+        <target>Soft Reference Parsers, fam</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems">
+        <source>Backend Toolbar Items</source>
+        <target>Backend Toolbar Items, no cap</target>
+      </trans-unit>
+      <trans-unit id="symfonyExpressionLanguage">
+        <source>Symfony Expression Language Providers</source>
+        <target>Symfony Expression Language Providers, fam</target>
+      </trans-unit>
+      <trans-unit id="translationDomainList">
+        <source>Translation Domain List</source>
+        <target>Translation Domain List, fr fr</target>
+      </trans-unit>
+      <trans-unit id="doctrineDbalDriverMiddlewares">
+        <source>Doctrine DBAL Driver Middlewares</source>
+        <target>Doctrine DBAL Driver Middlewares, no cap</target>
+      </trans-unit>
+      <trans-unit id="formYamlConfiguration">
+        <source>Form: YAML Configuration</source>
+        <target>Form: YAML Config, bestie</target>
+      </trans-unit>
+      <trans-unit id="t3services">
+        <source>$GLOBALS['T3_SERVICES'] (Registered Services)</source>
+        <target>$GLOBALS['T3_SERVICES'] (Registered Services, fam)</target>
+      </trans-unit>
+      <trans-unit id="backendModules">
+        <source>Backend Modules</source>
+        <target>Backend Modules, no cap</target>
+      </trans-unit>
+      <trans-unit id="pagesTypes">
+        <source>Table permissions per page type</source>
+        <target>Table permissions per page type, fr fr</target>
+      </trans-unit>
+      <trans-unit id="module.dbint.title">
+        <source>DB Check</source>
+        <target>DB Vibe Check</target>
+      </trans-unit>
+      <trans-unit id="module.dbint.shortDescription">
+        <source>Database integrity check</source>
+        <target>Database integrity vibes check</target>
+      </trans-unit>
+      <trans-unit id="module.dbint.description">
+        <source>Here you can check the integrity of the database tables configured by the $TCA. For instance all records must belong to a page record. You can also get a view of the total pagetree including deleted pages. Finally you've got access to a global database search facility.</source>
+        <target>Here you can vibe check the integrity of database tables from $TCA. Like, all records gotta belong to a page record. You can also peep the whole page tree including yeeted pages. Plus a global database stalk feature, slay!</target>
+      </trans-unit>
+      <trans-unit id="search.submit">
+        <source>Search All Records</source>
+        <target>Stalk All Records, fr fr</target>
+      </trans-unit>
+      <trans-unit id="search">
+        <source>Search</source>
+        <target>Stalk</target>
+      </trans-unit>
+      <trans-unit id="totalPageTree">
+        <source>Total Page Tree</source>
+        <target>Full Page Tree, no cap</target>
+      </trans-unit>
+      <trans-unit id="fullSearch">
+        <source>Full search</source>
+        <target>Full stalk</target>
+      </trans-unit>
+      <trans-unit id="findFilename">
+        <source>Find filename</source>
+        <target>Find filename, bestie</target>
+      </trans-unit>
+      <trans-unit id="rawSearch">
+        <source>Raw search in all fields</source>
+        <target>Raw stalk in all fields, fr fr</target>
+      </trans-unit>
+      <trans-unit id="advancedQuery">
+        <source>Advanced query</source>
+        <target>Advanced query, sigma mode</target>
+      </trans-unit>
+      <trans-unit id="selectRecords">
+        <source>Select records</source>
+        <target>Pick records</target>
+      </trans-unit>
+      <trans-unit id="countResults">
+        <source>Count results</source>
+        <target>Count results, fam</target>
+      </trans-unit>
+      <trans-unit id="explainQuery">
+        <source>Explain query</source>
+        <target>Explain query, bestie</target>
+      </trans-unit>
+      <trans-unit id="csvExport">
+        <source>CSV Export</source>
+        <target>CSV Export, no cap</target>
+      </trans-unit>
+      <trans-unit id="xmlExport">
+        <source>XML Export</source>
+        <target>XML Export, fr fr</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.flashMessage.noResultsFoundMessage">
+        <source>The query returned no results.</source>
+        <target>The query returned nothing, bruh.</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.section.queryOptions">
+        <source>Query options</source>
+        <target>Query options, no cap</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.section.querySQL">
+        <source>Full SQL query</source>
+        <target>Full SQL query, fr fr</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.section.querySQL.error">
+        <source>SQL error</source>
+        <target>SQL oof</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.section.querySettings">
+        <source>Query compilation</source>
+        <target>Query compilation, bestie</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.section.queryStorage">
+        <source>Load/save query</source>
+        <target>Load/save fr fr query</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.section.result">
+        <source>Result</source>
+        <target>Result, fam</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.type.count.resultsFound">
+        <source>records found.</source>
+        <target>records found, slay.</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.type.all.noResultsFound">
+        <source>No records found.</source>
+        <target>No records found, oof.</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.btn.delete.label">
+        <source>Delete</source>
+        <target>Yeet</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.btn.load.label">
+        <source>Load</source>
+        <target>Load it up</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.btn.save.label">
+        <source>Save</source>
+        <target>Save fr fr</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.groupBy.label">
+        <source>Group by</source>
+        <target>Group by, no cap</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.limit.label">
+        <source>Limit</source>
+        <target>The limit</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.makeQuery.label">
+        <source>Result type</source>
+        <target>Result type, fr fr</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.orderBy.label">
+        <source>Order by</source>
+        <target>Order by, no cap</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.orderBy.descending">
+        <source>Descending</source>
+        <target>Descending, bestie</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.searchType.label">
+        <source>Search type</source>
+        <target>Stalk type</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.query.label">
+        <source>Query</source>
+        <target>The query</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.queryFields.label">
+        <source>Fields</source>
+        <target>Fields, no cap</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.queryTable.label">
+        <source>Table</source>
+        <target>The table</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.queryStore.storage.label">
+        <source>Saved queries</source>
+        <target>Saved queries, bestie</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.queryStore.storage.0">
+        <source>[New]</source>
+        <target>[Fresh one]</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.queryStore.title.label">
+        <source>Title</source>
+        <target>The title</target>
+      </trans-unit>
+      <trans-unit id="fullSearch.form.field.queryConfig.comparison.negate">
+        <source>Negate</source>
+        <target>Negate, no cap</target>
+      </trans-unit>
+      <trans-unit id="showSQL">
+        <source>Show SQL parts</source>
+        <target>Show SQL parts, fam</target>
+      </trans-unit>
+      <trans-unit id="useFormattedStrings">
+        <source>Use formatted strings, labels and dates instead of original values for results</source>
+        <target>Use formatted strings, labels and dates instead of raw values for results, ngl</target>
+      </trans-unit>
+      <trans-unit id="dontUseOrigValues">
+        <source>Don't use original values in brackets as prefix for labeled results</source>
+        <target>Don't use original values in brackets as prefix for labeled results, bestie</target>
+      </trans-unit>
+      <trans-unit id="sortOptions">
+        <source>Sort selectbox-options for relations by label and not by value</source>
+        <target>Sort selectbox-options for relations by label not value, fr fr</target>
+      </trans-unit>
+      <trans-unit id="showDeleted">
+        <source>Show even deleted entries (with undelete buttons)</source>
+        <target>Show even yeeted entries (with un-yeet buttons)</target>
+      </trans-unit>
+      <trans-unit id="result">
+        <source>Result</source>
+        <target>Result, no cap</target>
+      </trans-unit>
+      <trans-unit id="no_results">
+        <source>No results found for "%s".</source>
+        <target>No results found for "%s", oof.</target>
+      </trans-unit>
+      <trans-unit id="no_sword">
+        <source>Enter a search term to search for records</source>
+        <target>Enter a search term to stalk for records, bestie</target>
+      </trans-unit>
+      <trans-unit id="tables">
+        <source>Tables</source>
+        <target>Tables, fam</target>
+      </trans-unit>
+      <trans-unit id="references">
+        <source>references</source>
+        <target>references, no cap</target>
+      </trans-unit>
+      <trans-unit id="isMissing">
+        <source>is missing!</source>
+        <target>is ghosted!</target>
+      </trans-unit>
+      <trans-unit id="referencedFrom">
+        <source>Referenced from</source>
+        <target>Referenced from, no cap</target>
+      </trans-unit>
+      <trans-unit id="enterRegexPattern">
+        <source>Enter regex pattern</source>
+        <target>Enter regex pattern, bestie</target>
+      </trans-unit>
+      <trans-unit id="searchButton">
+        <source>Search</source>
+        <target>Stalk</target>
+      </trans-unit>
+      <trans-unit id="pattern">
+        <source>Pattern</source>
+        <target>Pattern, fr fr</target>
+      </trans-unit>
+      <trans-unit id="beingChecked">
+        <source>being checked...</source>
+        <target>being vibe checked...</target>
+      </trans-unit>
+      <trans-unit id="directories">
+        <source>Dirs</source>
+        <target>Dirs, fam</target>
+      </trans-unit>
+      <trans-unit id="directoriesTooDeep">
+        <source>ERROR: Directories deeper than the following number of levels</source>
+        <target>OOF: Directories deeper than the following number of levels</target>
+      </trans-unit>
+      <trans-unit id="files">
+        <source>Files</source>
+        <target>Files, bestie</target>
+      </trans-unit>
+      <trans-unit id="matchingFiles">
+        <source>Matching files</source>
+        <target>Matching files, slay</target>
+      </trans-unit>
+      <trans-unit id="notChecked">
+        <source>not checked.</source>
+        <target>not vibe checked.</target>
+      </trans-unit>
+      <trans-unit id="searchingForFilenames">
+        <source>Searching for filenames</source>
+        <target>Stalking for filenames</target>
+      </trans-unit>
+      <trans-unit id="fixLostRecord">
+        <source>Click to move this lost record to rootlevel (pid=0)</source>
+        <target>Click to rescue this lost record to rootlevel (pid=0)</target>
+      </trans-unit>
+      <trans-unit id="doktype">
+        <source>Document types</source>
+        <target>Doc types, fam</target>
+      </trans-unit>
+      <trans-unit id="doktype_value">
+        <source>Document types (value)</source>
+        <target>Doc types (value), bestie</target>
+      </trans-unit>
+      <trans-unit id="pages">
+        <source>Pages</source>
+        <target>The pages</target>
+      </trans-unit>
+      <trans-unit id="total_pages">
+        <source>Total number of default language pages</source>
+        <target>Total default language pages, no cap</target>
+      </trans-unit>
+      <trans-unit id="translated_pages">
+        <source>Total number of translated pages</source>
+        <target>Total translated pages, fr fr</target>
+      </trans-unit>
+      <trans-unit id="deleted_pages">
+        <source>Marked-deleted pages</source>
+        <target>Yeeted pages</target>
+      </trans-unit>
+      <trans-unit id="hidden_pages">
+        <source>Hidden pages</source>
+        <target>Ghosted pages</target>
+      </trans-unit>
+      <trans-unit id="count">
+        <source>Count</source>
+        <target>Count, no cap</target>
+      </trans-unit>
+      <trans-unit id="label">
+        <source>Label</source>
+        <target>The label</target>
+      </trans-unit>
+      <trans-unit id="tablename">
+        <source>Table name</source>
+        <target>Table name, fam</target>
+      </trans-unit>
+      <trans-unit id="total_lost">
+        <source>Records total / lost</source>
+        <target>Records total / lost, oof</target>
+      </trans-unit>
+      <trans-unit id="tree">
+        <source>The Page Tree</source>
+        <target>The Page Tree, no cap</target>
+      </trans-unit>
+      <trans-unit id="tree_description">
+        <source>This shows all pages in the system in one large tree. Beware that this will probably result in a very long document which will also take some time for the server to compute!</source>
+        <target>This shows all pages in one big tree. Heads up bestie, this is gonna be a long doc and the server needs a sec to cook!</target>
+      </trans-unit>
+      <trans-unit id="search_whole_database">
+        <source>Search whole Database</source>
+        <target>Stalk the whole Database, fr fr</target>
+      </trans-unit>
+      <trans-unit id="search_description">
+        <source>This searches through all database tables and records for a text string.</source>
+        <target>This stalks through all database tables and records for a text string, ngl.</target>
+      </trans-unit>
+      <trans-unit id="refindex">
+        <source>Check and update global reference index</source>
+        <target>Vibe check and update global reference index</target>
+      </trans-unit>
+      <trans-unit id="refindex_description">
+        <source>Allows you to maintain the reference index kept by TYPO3.</source>
+        <target>Lets you maintain the reference index kept by TYPO3, bestie.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/locallang_slug_service.xlf">
+    <header/>
+    <body>
+      <trans-unit id="notification.slug_and_redirects.title">
+        <source>Slugs updated and redirects created</source>
+        <target>Slugs glowed up and detours created</target>
+      </trans-unit>
+      <trans-unit id="notification.slug_and_redirects.message">
+        <source>Because you renamed a slug, the slugs of all sub-pages were updated and redirects were created for you automatically.</source>
+        <target>Because you renamed a slug, all sub-page slugs got glowed up and detours were auto-created for you. Slay!</target>
+      </trans-unit>
+      <trans-unit id="notification.slug_only.title">
+        <source>Slugs updated</source>
+        <target>Slugs glowed up</target>
+      </trans-unit>
+      <trans-unit id="notification.slug_only.message">
+        <source>Because you renamed a slug, the slugs of all sub-pages were updated for you automatically.</source>
+        <target>Because you renamed a slug, all sub-page slugs got auto-glowed up for you.</target>
+      </trans-unit>
+      <trans-unit id="notification.redirects.button.revert_update">
+        <source>Revert update</source>
+        <target>Undo the glow up</target>
+      </trans-unit>
+      <trans-unit id="notification.redirects.button.revert_redirect">
+        <source>Revert redirects only</source>
+        <target>Undo detours only</target>
+      </trans-unit>
+      <trans-unit id="redirects_error_title">
+        <source>An error occurred</source>
+        <target>Oof, something went wrong</target>
+      </trans-unit>
+      <trans-unit id="redirects_error_message">
+        <source>Sorry something went wrong.</source>
+        <target>Sorry bestie, something went wrong.</target>
+      </trans-unit>
+      <trans-unit id="revert_update_success_title">
+        <source>Revert successful</source>
+        <target>Undo successful, W!</target>
+      </trans-unit>
+      <trans-unit id="revert_update_success_message">
+        <source>All slug changes of sub pages have been reverted.</source>
+        <target>All sub-page slug changes have been reverted, no cap.</target>
+      </trans-unit>
+      <trans-unit id="revert_redirects_success_title">
+        <source>Revert successful</source>
+        <target>Undo successful, W!</target>
+      </trans-unit>
+      <trans-unit id="revert_redirects_success_message">
+        <source>All created redirects have been reverted.</source>
+        <target>All created detours have been reverted. Based!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

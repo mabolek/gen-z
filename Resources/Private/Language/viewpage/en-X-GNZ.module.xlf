@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:viewpage/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description"><source>Preview page</source><target>Peep the page</target></trans-unit>
+      <trans-unit id="description"><source>Shows the look of the current page and lets you edit the content directly.</source><target>Shows what the current page looks like and lets you glow up the content directly.</target></trans-unit>
+      <trans-unit id="title"><source>Preview</source><target>Peep</target></trans-unit>
+    </body>
+  </file>
+</xliff>

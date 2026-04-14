@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_browse_links.xlf">
+    <header/>
+    <body>
+      <trans-unit id="linkBrowser">
+        <source>Link Browser</source>
+        <target>Link Browser, fam</target>
+      </trans-unit>
+      <trans-unit id="openLinkWizard">
+        <source>Open link wizard</source>
+        <target>Pull up the link wizard</target>
+      </trans-unit>
+      <trans-unit id="removeLink">
+        <source>Remove link</source>
+        <target>Yeet the link</target>
+      </trans-unit>
+      <trans-unit id="uploadImage">
+        <source>Upload Image</source>
+        <target>Drop an image</target>
+      </trans-unit>
+      <trans-unit id="update">
+        <source>Update</source>
+        <target>Refresh it</target>
+      </trans-unit>
+      <trans-unit id="path">
+        <source>Path</source>
+        <target>The path</target>
+      </trans-unit>
+      <trans-unit id="page">
+        <source>Page</source>
+        <target>The Page</target>
+      </trans-unit>
+      <trans-unit id="file">
+        <source>File</source>
+        <target>The File</target>
+      </trans-unit>
+      <trans-unit id="folder">
+        <source>Folder</source>
+        <target>The Folder</target>
+      </trans-unit>
+      <trans-unit id="extUrl">
+        <source>External URL</source>
+        <target>External URL (out in the wild)</target>
+      </trans-unit>
+      <trans-unit id="email">
+        <source>Email</source>
+        <target>Email (the DM)</target>
+      </trans-unit>
+      <trans-unit id="email.subject">
+        <source>Subject</source>
+        <target>The topic</target>
+      </trans-unit>
+      <trans-unit id="email.cc">
+        <source>CC</source>
+        <target>CC (loop them in)</target>
+      </trans-unit>
+      <trans-unit id="email.bcc">
+        <source>BCC</source>
+        <target>BCC (stealth mode)</target>
+      </trans-unit>
+      <trans-unit id="email.body">
+        <source>Body</source>
+        <target>The message</target>
+      </trans-unit>
+      <trans-unit id="telephone">
+        <source>Telephone</source>
+        <target>Phone</target>
+      </trans-unit>
+      <trans-unit id="special">
+        <source>Special</source>
+        <target>Special (extra)</target>
+      </trans-unit>
+      <trans-unit id="folderTree">
+        <source>Folder Tree</source>
+        <target>Folder Tree (the branches)</target>
+      </trans-unit>
+      <trans-unit id="files">
+        <source>Files</source>
+        <target>The Files</target>
+      </trans-unit>
+      <trans-unit id="folders">
+        <source>Folders</source>
+        <target>The Folders</target>
+      </trans-unit>
+      <trans-unit id="target">
+        <source>Target</source>
+        <target>Where it opens</target>
+      </trans-unit>
+      <trans-unit id="linkRelationship">
+        <source>Relationship</source>
+        <target>Relationship (it's complicated)</target>
+      </trans-unit>
+      <trans-unit id="class">
+        <source>CSS-Class</source>
+        <target>CSS-Class (the drip)</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Title</source>
+        <target>The Title</target>
+      </trans-unit>
+      <trans-unit id="params">
+        <source>Additional link parameters</source>
+        <target>Extra link parameters, fam</target>
+      </trans-unit>
+      <trans-unit id="newWindow">
+        <source>New window</source>
+        <target>Fresh window</target>
+      </trans-unit>
+      <trans-unit id="top">
+        <source>Top</source>
+        <target>To the top</target>
+      </trans-unit>
+      <trans-unit id="none">
+        <source>None - new link!</source>
+        <target>None - fresh link!</target>
+      </trans-unit>
+      <trans-unit id="pageTree">
+        <source>Page tree</source>
+        <target>The Page tree</target>
+      </trans-unit>
+      <trans-unit id="contentElements">
+        <source>Content elements</source>
+        <target>The Content elements</target>
+      </trans-unit>
+      <trans-unit id="selectRecords">
+        <source>Select Records</source>
+        <target>Pick Records</target>
+      </trans-unit>
+      <trans-unit id="addToList">
+        <source>Add to list...</source>
+        <target>Add to the list...</target>
+      </trans-unit>
+      <trans-unit id="info">
+        <source>Info</source>
+        <target>The deets</target>
+      </trans-unit>
+      <trans-unit id="emailAddress">
+        <source>Email address</source>
+        <target>Email addy</target>
+      </trans-unit>
+      <trans-unit id="telephoneNumber">
+        <source>Telephone number</source>
+        <target>Phone number</target>
+      </trans-unit>
+      <trans-unit id="setLink">
+        <source>Set Link</source>
+        <target>Drop the Link</target>
+      </trans-unit>
+      <trans-unit id="linkTo">
+        <source>Link to %s</source>
+        <target>Link to %s bestie</target>
+      </trans-unit>
+      <trans-unit id="urlPlaceholder" translate="no">
+        <source>https://...</source>
+        <target>https://...</target>
+      </trans-unit>
+      <trans-unit id="clickToRedrawFullSize">
+        <source>Image is larger than shown here! Click to redraw page with full sized images.</source>
+        <target>Image is bigger than shown here! Click for full size bestie.</target>
+      </trans-unit>
+      <trans-unit id="findDragDrop">
+        <source>Find and click on your image then drag it into the editor in the main window!</source>
+        <target>Find your image, click it and drag it into the editor in the main window fam!</target>
+      </trans-unit>
+      <trans-unit id="noWebFolder">
+        <source>You cannot drag images from this folder (yellow) because it is internal on the server.</source>
+        <target>Can't drag images from this folder (yellow) because it's internal on the server.</target>
+      </trans-unit>
+      <trans-unit id="currentLink">
+        <source>Current Link</source>
+        <target>Current Link rn</target>
+      </trans-unit>
+      <trans-unit id="invalidChar">
+        <source>ERROR: Invalid character found in file path (%s). Cannot add the file!</source>
+        <target>OOF: Invalid character found in file path (%s). Can't add the file!</target>
+      </trans-unit>
+      <trans-unit id="toggleSelection">
+        <source>Toggle selection</source>
+        <target>Switch the selection</target>
+      </trans-unit>
+      <trans-unit id="importSelection">
+        <source>Import selection</source>
+        <target>Import selection, let's go!</target>
+      </trans-unit>
+      <trans-unit id="recordSelector">
+        <source>Record selector</source>
+        <target>Record picker</target>
+      </trans-unit>
+      <trans-unit id="fileSelector">
+        <source>File selector</source>
+        <target>File picker</target>
+      </trans-unit>
+      <trans-unit id="folderSelector">
+        <source>Folder selector</source>
+        <target>Folder picker</target>
+      </trans-unit>
+      <trans-unit id="createFolder">
+        <source>Create new folder</source>
+        <target>Manifest a fresh folder</target>
+      </trans-unit>
+      <trans-unit id="page_id">
+        <source>Page ID</source>
+        <target>Page ID bestie</target>
+      </trans-unit>
+      <trans-unit id="download">
+        <source>Force download</source>
+        <target>Force snag</target>
+      </trans-unit>
+      <trans-unit id="download.customFilename">
+        <source>Custom filename</source>
+        <target>Custom filename (you name it)</target>
+      </trans-unit>
+      <trans-unit id="displayThumbs">
+        <source>Display thumbnails</source>
+        <target>Show thumbnails</target>
+      </trans-unit>
+      <trans-unit id="no_files">
+        <source>No files found in %s</source>
+        <target>No files found in %s, nada</target>
+      </trans-unit>
+      <trans-unit id="no_files_search">
+        <source>No files found in %s for "%s"</source>
+        <target>No files found in %s for "%s", oof</target>
+      </trans-unit>
+      <trans-unit id="recordNotFound">
+        <source>Record not found</source>
+        <target>Record got ghosted, not found</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/Modules/link_management.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title"><source>Link Management</source><target>Link Management</target></trans-unit>
+      <trans-unit id="short_description"><source>Manage redirects, QR Codes and Short URLs</source><target>Manage redirects, QR Codes and Short URLs</target></trans-unit>
+      <trans-unit id="description"><source>Manage redirects, QR codes and Short URLs to navigation and access points and validate links inside the system.</source><target>Manage redirects, QR codes and Short URLs to navigation and access points and validate links in the system.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

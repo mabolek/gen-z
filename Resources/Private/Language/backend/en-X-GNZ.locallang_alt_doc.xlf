@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_alt_doc.xlf">
+    <header/>
+    <body>
+      <trans-unit id="deleteItem">
+        <source>Delete</source>
+        <target>Yeet it</target>
+      </trans-unit>
+      <trans-unit id="deleteWarning">
+        <source>Are you sure you want to delete this record?</source>
+        <target>You sure you wanna yeet this record fr fr?</target>
+      </trans-unit>
+      <trans-unit id="undoLastChange">
+        <source>Undo/Redo last change (%s ago)</source>
+        <target>Undo/Redo last glow up (%s ago)</target>
+      </trans-unit>
+      <trans-unit id="recordHistory">
+        <source>View record change history</source>
+        <target>Caught in 4K: peep the record history</target>
+      </trans-unit>
+      <trans-unit id="editWholeRecord">
+        <source>Edit whole record</source>
+        <target>Glow up the whole record</target>
+      </trans-unit>
+      <trans-unit id="openDocs">
+        <source>OPEN DOCUMENTS</source>
+        <target>OPEN DOCS, FAM</target>
+      </trans-unit>
+      <trans-unit id="noDocuments">
+        <source>No open documents</source>
+        <target>No open docs rn bestie</target>
+      </trans-unit>
+      <trans-unit id="noDocuments_msg">
+        <source>There are no open documents available to edit.</source>
+        <target>Zero open docs to glow up rn fam.</target>
+      </trans-unit>
+      <trans-unit id="noDocuments_msg2">
+        <source>You can go to %s to find the page or the record you wish to edit.</source>
+        <target>Pull up to %s to stalk the page or record you wanna glow up.</target>
+      </trans-unit>
+      <trans-unit id="noDocuments_msg3">
+        <source>You can select one of your most recently edited records from this list</source>
+        <target>You can pick one of your recently glowed up records from this list</target>
+      </trans-unit>
+      <trans-unit id="noDocuments_pagemodule">
+        <source>the Web&gt;Page module</source>
+        <target>the Web&gt;Page module bestie</target>
+      </trans-unit>
+      <trans-unit id="noDocuments_OR">
+        <source>or</source>
+        <target>or maybe</target>
+      </trans-unit>
+      <trans-unit id="noDocuments_listmodule">
+        <source>the Web&gt;List module</source>
+        <target>the Web&gt;List module fam</target>
+      </trans-unit>
+      <trans-unit id="noEditForm">
+        <source>Edit form could not be loaded</source>
+        <target>Oof: Form couldn't load, big L</target>
+      </trans-unit>
+      <trans-unit id="noEditForm.message">
+        <source>The edit form could not be loaded for the requested records. This might be due to insufficient permissions.</source>
+        <target>The glow up form couldn't load for these records bestie. You might be getting gatekept on permissions.</target>
+      </trans-unit>
+      <trans-unit id="noFieldsEditForm">
+        <source>No fields to edit</source>
+        <target>No fields to glow up</target>
+      </trans-unit>
+      <trans-unit id="noFieldsEditForm.message">
+        <source>There are no editable fields available for the requested record. This might be due to insufficient permissions or a configuration mismatch.</source>
+        <target>Zero editable fields for this record fam. You might be getting gatekept or there's a config mismatch. Sus.</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.duplicate_record_changed.cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="button.confirm.duplicate_record_changed.no">
+        <source>No, just duplicate the original</source>
+        <target>Nah fam, just yoink the original</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.duplicate_record_changed.yes">
+        <source>Yes, save and duplicate this record</source>
+        <target>Bet, save fr fr and yoink this record</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.close_without_save.yes">
+        <source>Discard changes</source>
+        <target>Yeet the changes</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.close_without_save.no">
+        <source>Keep editing</source>
+        <target>Keep glowing up</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.save_and_close">
+        <source>Save and close</source>
+        <target>Save fr fr and dip</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.duplicate_record_changed.title">
+        <source>Do you want to save before duplicating this record?</source>
+        <target>Wanna save fr fr before yoinking this record?</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.duplicate_record_changed.content">
+        <source>You currently have unsaved changes. Do you want to save your changes before duplicating this record?</source>
+        <target>You got unsaved changes bestie. Wanna save fr fr before yoinking this record?</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.new_record_changed.title">
+        <source>Do you want to save before adding?</source>
+        <target>Wanna save fr fr before adding?</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.new_record_changed.content">
+        <source>You need to save your changes before creating a new record. Do you want to save and create now?</source>
+        <target>Gotta save fr fr before dropping a fresh record. Wanna save and create now?</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.new_record_changed.cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.new_record_changed.no">
+        <source>No, just add</source>
+        <target>Nah fam, just add it</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.new_record_changed.yes">
+        <source>Yes, save and create now</source>
+        <target>Bet, save fr fr and create now!</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.view_record_changed.title">
+        <source>Do you want to save before viewing?</source>
+        <target>Wanna save fr fr before peeping?</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.view_record_changed.content">
+        <source>You currently have unsaved changes. You can either discard these changes or save and view them.</source>
+        <target>You got unsaved changes bestie. You can either yeet them or save fr fr and peep them.</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.view_record_changed.invalid_form">
+        <source>The form appears to be invalid, therefore "Save changes and view" is not available.</source>
+        <target>The form is lowkey delulu, so "Save and peep" isn't available rn.</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.view_record_changed.content.is-new-page">
+        <source>You need to save your changes before viewing the page. Do you want to save and view them now?</source>
+        <target>Gotta save fr fr before peeping the page. Wanna save and peep now?</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.view_record_changed.cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.view_record_changed.no-save">
+        <source>View without changes</source>
+        <target>Peep without changes</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.view_record_changed.save">
+        <source>Save changes and view</source>
+        <target>Save fr fr and peep</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.close_without_save.title">
+        <source>Unsaved changes</source>
+        <target>Unsaved changes, bruh!</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.close_without_save.content">
+        <source>You currently have unsaved changes which will be discarded if you close without saving.</source>
+        <target>You got unsaved changes that'll get yeeted if you dip without saving. No cap.</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_file.no">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_file.yes">
+        <source>Yes, delete this file</source>
+        <target>Bet, yeet this file!</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_folder.yes">
+        <source>Yes, delete this folder</source>
+        <target>Bet, yeet this folder!</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_record.no">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_record.yes">
+        <source>Delete</source>
+        <target>Yeet it</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.delete_record.title">
+        <source>Delete this record?</source>
+        <target>Yeet this record?</target>
+      </trans-unit>
+      <trans-unit id="label.confirm.delete_record.content">
+        <source>Are you sure you want to delete the record '%s'?</source>
+        <target>You sure you wanna yeet the record '%s'? Fr fr?</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_elements.no">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="buttons.confirm.delete_elements.yes">
+        <source>Yes, delete these elements</source>
+        <target>Bet, yeet these elements!</target>
+      </trans-unit>
+      <trans-unit id="label.alert.save_with_error.title">
+        <source>You have errors in your form!</source>
+        <target>Red flag! Your form is lowkey delulu!</target>
+      </trans-unit>
+      <trans-unit id="label.alert.save_with_error.content">
+        <source>Please check the form, there is at least one error in your form.</source>
+        <target>Check the form bestie, there's at least one oof in there.</target>
+      </trans-unit>
+      <trans-unit id="buttons.alert.save_with_error.ok">
+        <source>OK</source>
+        <target>Slay!</target>
+      </trans-unit>
+      <trans-unit id="buttons.reviewFailedValidationFields">
+        <source>Review fields with failed validations</source>
+        <target>Peep the delulu fields that failed validation</target>
+      </trans-unit>
+      <trans-unit id="buttons.pageTsConfig">
+        <source>PageTS Config</source>
+        <target>PageTS Config vibes</target>
+      </trans-unit>
+      <trans-unit id="notification.record_saved.title.singular">
+        <source>Record saved</source>
+        <target>W! Record saved fr fr! Aura +100!</target>
+      </trans-unit>
+      <trans-unit id="notification.record_saved.title.plural">
+        <source>Records saved</source>
+        <target>W! Records saved fr fr! Aura +100!</target>
+      </trans-unit>
+      <trans-unit id="notification.record_saved.message">
+        <source>Record "%s" has been successfully saved.</source>
+        <target>Record "%s" has been saved fr fr. Slay!</target>
+      </trans-unit>
+      <trans-unit id="notification.mass_saving.message">
+        <source>%s records have been successfully saved.</source>
+        <target>%s records saved fr fr. Understood the assignment!</target>
+      </trans-unit>
+      <trans-unit id="notification.record_updated.title">
+        <source>Record updated</source>
+        <target>Record glowed up, W!</target>
+      </trans-unit>
+      <trans-unit id="notification.record_updated.message">
+        <source>Record "%s" has been updated. The view is being refreshed.</source>
+        <target>Record "%s" got a glow up. View is refreshing.</target>
+      </trans-unit>
+      <trans-unit id="openFullEditView">
+        <source>Open full editing view</source>
+        <target>Pull up full glow up view</target>
+      </trans-unit>
+      <trans-unit id="search.find_record">
+        <source>Find records</source>
+        <target>Stalk records</target>
+      </trans-unit>
+      <trans-unit id="search.no_records_found">
+        <source>No records found</source>
+        <target>No records found, oof</target>
+      </trans-unit>
+      <trans-unit id="flexform.section.delete.title">
+        <source>Delete this container?</source>
+        <target>Yeet this container?</target>
+      </trans-unit>
+      <trans-unit id="flexform.section.delete.message">
+        <source>Are you sure you want to delete this container?</source>
+        <target>You sure you wanna yeet this container fr fr?</target>
+      </trans-unit>
+      <trans-unit id="tcatree.findItem">
+        <source>Filter by item</source>
+        <target>Filter by item, bestie</target>
+      </trans-unit>
+      <trans-unit id="tcatree.expandAll">
+        <source>Expand all</source>
+        <target>Expand all, fam</target>
+      </trans-unit>
+      <trans-unit id="tcatree.collapseAll">
+        <source>Collapse all</source>
+        <target>Collapse all, bro</target>
+      </trans-unit>
+      <trans-unit id="tcatree.toggleHideUnchecked">
+        <source>Toggle hide unchecked</source>
+        <target>Ghost/show unchecked</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

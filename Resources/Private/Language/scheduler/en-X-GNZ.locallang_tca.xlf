@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:scheduler/Resources/Private/Language/locallang_tca.xlf">
+    <header/>
+    <body>
+      <trans-unit id="tx_scheduler_task">
+        <source>Scheduler task</source>
+        <target>Scheduler task, bestie</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.tasktype">
+        <source>Task type</source>
+        <target>The vibe of this task</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.task_group">
+        <source>Belongs to task group</source>
+        <target>Part of this task squad</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.priority">
+        <source>Priority</source>
+        <target>How important tho</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.priority.high">
+        <source>High</source>
+        <target>Highkey important</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.priority.regular">
+        <source>Regular</source>
+        <target>Chill, it's mid</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.priority.low">
+        <source>Low</source>
+        <target>Lowkey</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.description">
+        <source>Description</source>
+        <target>What's the tea</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.parameters">
+        <source>Settings</source>
+        <target>Settings, bestie</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.execution_details">
+        <source>Schedule</source>
+        <target>The schedule, fam</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.nextexecution">
+        <source>Next run planned at</source>
+        <target>Next run dropping at</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.lastexecution_time">
+        <source>Last run started at</source>
+        <target>Last run kicked off at</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.lastexecution_failure">
+        <source>Error details from last run</source>
+        <target>Oof deets from last run</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.lastexecution_context">
+        <source>Last run via</source>
+        <target>Last time it ran via</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.number_of_days">
+        <source>Handle entries older than given number of days</source>
+        <target>Handle entries older than X days fam</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.selected_tables">
+        <source>Database tables</source>
+        <target>DB tables, bestie</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task.file_storage">
+        <source>File storage</source>
+        <target>File storage, bro</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group">
+        <source>Scheduler task group</source>
+        <target>Scheduler task squad</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.groupName">
+        <source>Group name</source>
+        <target>Squad name</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.color">
+        <source>Color</source>
+        <target>Drip color</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.color.typo3Orange">
+        <source>TYPO3 Orange</source>
+        <target>TYPO3 Orange (iconic)</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.color.white">
+        <source>White</source>
+        <target>Clean white</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.color.gray">
+        <source>Gray</source>
+        <target>Gray vibes</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.color.black">
+        <source>Black</source>
+        <target>Dark mode black</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.color.blue">
+        <source>Blue</source>
+        <target>Blue aesthetic</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.color.purple">
+        <source>Purple</source>
+        <target>Purple drip</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.color.teal">
+        <source>Teal</source>
+        <target>Teal vibes</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.color.green">
+        <source>Green</source>
+        <target>Green (W)</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.color.magenta">
+        <source>Magenta</source>
+        <target>Magenta slay</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.color.yellow">
+        <source>Yellow</source>
+        <target>Yellow pop</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.color.red">
+        <source>Red</source>
+        <target>Red flag</target>
+      </trans-unit>
+      <trans-unit id="tx_scheduler_task_group.description">
+        <source>Description</source>
+        <target>What's the vibe</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

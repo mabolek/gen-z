@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/Wizards/general.xlf">
+    <header/>
+    <body>
+      <trans-unit id="wizard.loading"><source>Loading...</source><target>Loading... chill bestie</target></trans-unit>
+      <trans-unit id="wizard.buttons.cancel"><source>Cancel</source><target>Nvm bestie</target></trans-unit>
+      <trans-unit id="wizard.buttons.next"><source>Next</source><target>Next, fam</target></trans-unit>
+      <trans-unit id="wizard.buttons.previous"><source>Previous</source><target>Go back bestie</target></trans-unit>
+      <trans-unit id="wizard.buttons.finish"><source>Finish</source><target>Finish, slay!</target></trans-unit>
+      <trans-unit id="wizard.loading_configuration"><source>Loading wizard configuration...</source><target>Loading wizard config... chill bestie</target></trans-unit>
+      <trans-unit id="wizard.loading_steps"><source>Loading step modules...</source><target>Loading step modules...</target></trans-unit>
+      <trans-unit id="wizard.loading_finisher"><source>Loading finisher...</source><target>Loading finisher...</target></trans-unit>
+      <trans-unit id="wizard.status.pending.message"><source>Processing data...</source><target>Processing data... chill bestie</target></trans-unit>
+      <trans-unit id="wizard.status.error.title"><source>Error</source><target>Oof</target></trans-unit>
+      <trans-unit id="wizard.status.error.message"><source>Failed to process data:</source><target>Failed to process data, rip:</target></trans-unit>
+      <trans-unit id="wizard.finisher.load_error.message"><source>Failed to load finisher module:</source><target>Failed to load finisher module:</target></trans-unit>
+      <trans-unit id="wizard.step.error.title"><source>Error</source><target>Oof</target></trans-unit>
+      <trans-unit id="step.confirmation.title"><source>Confirmation</source><target>Confirmation fr fr</target></trans-unit>
+      <trans-unit id="step.confirmation.headline"><source>Confirm</source><target>Confirm fr fr</target></trans-unit>
+      <trans-unit id="step.confirmation.description"><source>Please review the following settings before proceeding:</source><target>Peep the following settings before proceeding bestie:</target></trans-unit>
+      <trans-unit id="step.finisher.title"><source>Finish</source><target>Finale, fam</target></trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_mod.xlf">
+    <header/>
+    <body>
+      <trans-unit id="mlang_labels_tablabel">
+        <source>Page content</source>
+        <target>Page vibes</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tabdescr">
+        <source>This module allows you to create and edit webpages, view page hit statistics, manage different languages and columns of content per page and access special page contents like guestbooks and shopping items.</source>
+        <target>This module lets you manifest and glow up webpages, peep page hit stats, manage different languages and content columns per page, and pull up special page content like guestbooks and shopping items.</target>
+      </trans-unit>
+      <trans-unit id="mlang_tabs_tab">
+        <source>Page</source>
+        <target>The Page</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

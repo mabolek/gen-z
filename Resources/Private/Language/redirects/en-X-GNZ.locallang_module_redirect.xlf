@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/locallang_module_redirect.xlf">
+    <header/>
+    <body>
+      <trans-unit id="mlang_labels_tablabel">
+        <source>Redirect Administration</source>
+        <target>Detour Admin</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tabdescr">
+        <source>This is the administration area for Web Redirects.</source>
+        <target>This is where you manage Web Detours, bestie. Bet, every link finds its way!</target>
+      </trans-unit>
+      <trans-unit id="mlang_tabs_tab">
+        <source>Redirects</source>
+        <target>Detours</target>
+      </trans-unit>
+      <trans-unit id="source_host_global_text">
+        <source>Global redirect (any domain)</source>
+        <target>Global detour (any domain)</target>
+      </trans-unit>
+      <trans-unit id="heading_text">
+        <source>Redirect Management</source>
+        <target>Detour Management</target>
+      </trans-unit>
+      <trans-unit id="redirect_add_text">
+        <source>Add redirect</source>
+        <target>Add detour, bestie</target>
+      </trans-unit>
+      <trans-unit id="redirect_not_found.title">
+        <source>No redirects found</source>
+        <target>No detours found</target>
+      </trans-unit>
+      <trans-unit id="redirect_not_found.message">
+        <source>There are currently no redirect records found in the database.</source>
+        <target>No detour records in the database rn. It's giving empty.</target>
+      </trans-unit>
+      <trans-unit id="redirect_create">
+        <source>Create new redirect</source>
+        <target>Manifest new detour</target>
+      </trans-unit>
+      <trans-unit id="noAccessPermissions.title">
+        <source>Access denied</source>
+        <target>Access denied, bruh!</target>
+      </trans-unit>
+      <trans-unit id="noAccessPermissions.message">
+        <source>You are not allowed to list or modify redirects due to insufficient permissions.</source>
+        <target>You can't list or modify detours because you don't have the rizz (permissions). No aura here.</target>
+      </trans-unit>
+      <trans-unit id="redirect_not_found_with_filter.title">
+        <source>No redirects found</source>
+        <target>No detours found, oof</target>
+      </trans-unit>
+      <trans-unit id="redirect_not_found_with_filter.message">
+        <source>With the current set of filters applied, no redirect could be found.</source>
+        <target>With these filters on, no detour could be found, ngl.</target>
+      </trans-unit>
+      <trans-unit id="redirect_no_filter">
+        <source>Remove all filter</source>
+        <target>Yeet all filters</target>
+      </trans-unit>
+      <trans-unit id="filter.source_host.showAll">
+        <source>Show All</source>
+        <target>Show all of it</target>
+      </trans-unit>
+      <trans-unit id="filter.targetStatusCode">
+        <source>Status Code</source>
+        <target>The status code</target>
+      </trans-unit>
+      <trans-unit id="filter.creationType">
+        <source>Creation type</source>
+        <target>How it was manifested</target>
+      </trans-unit>
+      <trans-unit id="filter.creationType.showAll">
+        <source>Show All</source>
+        <target>Show all of em</target>
+      </trans-unit>
+      <trans-unit id="filter.protected">
+        <source>Protected</source>
+        <target>Protected, fam</target>
+      </trans-unit>
+      <trans-unit id="filter.protected.showAll">
+        <source>Show All</source>
+        <target>Every single one</target>
+      </trans-unit>
+      <trans-unit id="filter.protected.unprotected">
+        <source>unprotected</source>
+        <target>wide open</target>
+      </trans-unit>
+      <trans-unit id="filter.protected.protected">
+        <source>protected</source>
+        <target>gatekept</target>
+      </trans-unit>
+      <trans-unit id="filter.integrityStatus">
+        <source>Integrity status</source>
+        <target>Integrity vibes</target>
+      </trans-unit>
+      <trans-unit id="filter.integrityStatus.showAll">
+        <source>Show All</source>
+        <target>All of it, bestie</target>
+      </trans-unit>
+      <trans-unit id="filter.neverHit">
+        <source>Never hit</source>
+        <target>Never hit, ngl</target>
+      </trans-unit>
+      <trans-unit id="filter.sendButton">
+        <source>Filter</source>
+        <target>Filter it, bestie</target>
+      </trans-unit>
+      <trans-unit id="filter.resetButton">
+        <source>Reset</source>
+        <target>Start over</target>
+      </trans-unit>
+      <trans-unit id="record_disabled">
+        <source>Disabled</source>
+        <target>On ice</target>
+      </trans-unit>
+      <trans-unit id="source_path.placeholder">
+        <source>/my-path/ or #^/my-path/$# (when regex enabled)</source>
+        <target>/my-path/ or #^/my-path/$# (when regex enabled)</target>
+      </trans-unit>
+      <trans-unit id="short_url.source_path.placeholder">
+        <source>e.g. /AbCdEfGh</source>
+        <target>e.g. /AbCdEfGh</target>
+      </trans-unit>
+      <trans-unit id="short_url.copy">
+        <source>Copy Short URL to clipboard</source>
+        <target>Yoink Short URL to clipboard</target>
+      </trans-unit>
+      <trans-unit id="pageID">
+        <source>Page ID</source>
+        <target>Page ID, fam</target>
+      </trans-unit>
+      <trans-unit id="destination_status_code">
+        <source>Status Code</source>
+        <target>The status code</target>
+      </trans-unit>
+      <trans-unit id="hit_reset">
+        <source>Reset hit counter</source>
+        <target>Reset hit counter, fam</target>
+      </trans-unit>
+      <trans-unit id="hit_reset.confirm.title">
+        <source>Reset the hit counter of this record?</source>
+        <target>Reset this record's hit counter?</target>
+      </trans-unit>
+      <trans-unit id="hit_reset.confirm.content">
+        <source>Are you sure you want to reset the hit counter of this record?</source>
+        <target>You sure you wanna reset this record's hit counter fr fr?</target>
+      </trans-unit>
+      <trans-unit id="hit_last_never">
+        <source>Never</source>
+        <target>Never ever</target>
+      </trans-unit>
+      <trans-unit id="visit_destination">
+        <source>Go to</source>
+        <target>Go to, bestie</target>
+      </trans-unit>
+      <trans-unit id="view_redirect">
+        <source>View redirect</source>
+        <target>Peep the detour</target>
+      </trans-unit>
+      <trans-unit id="overview.tableHead.protected">
+        <source>Protected</source>
+        <target>Gatekept</target>
+      </trans-unit>
+      <trans-unit id="overview.tableField.protected.no">
+        <source>No</source>
+        <target>Nah fam</target>
+      </trans-unit>
+      <trans-unit id="overview.tableField.protected.yes">
+        <source>Yes</source>
+        <target>Bet!</target>
+      </trans-unit>
+      <trans-unit id="labels.delete.title">
+        <source>Delete redirects</source>
+        <target>Yeet detours</target>
+      </trans-unit>
+      <trans-unit id="labels.delete.message">
+        <source>Are you sure you want to delete all marked redirects?</source>
+        <target>You sure you wanna yeet all marked detours fr fr?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

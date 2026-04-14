@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:tstemplate/Resources/Private/Language/locallang_ceditor.xlf">
+    <header/>
+    <body>
+      <trans-unit id="submodule.title"><source>Constant Editor</source><target>Constant editor, bestie</target></trans-unit>
+      <trans-unit id="submodule.titleWithRecord"><source>Constant Editor for TypoScript record "%s"</source><target>Constant editor for TypoScript record "%s"</target></trans-unit>
+      <trans-unit id="submodule.description"><source>Overwrite constants and save them to the selected TypoScript record on the current page. Only options that have been made available for editing in the constant editor are shown below. In addition, more constants can exist in the system.</source><target>Overwrite constants and save fr fr them to the selected TypoScript record on the current page. Only options available for editing in the constant editor are shown below. More constants can exist in the system tho.</target></trans-unit>
+      <trans-unit id="options.selectedCategory"><source>Selected category</source><target>The chosen category</target></trans-unit>
+      <trans-unit id="options.selectedRecord"><source>Selected record</source><target>The chosen record</target></trans-unit>
+      <trans-unit id="infobox.message.noConstants"><source>There are no editable constants available for the Constant Editor.</source><target>No editable constants available for the Constant Editor rn. It's giving empty.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

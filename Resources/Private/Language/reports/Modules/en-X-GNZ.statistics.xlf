@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:reports/Resources/Private/Language/Modules/statistics.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description"><source>Shows database record statistics</source><target>Shows database record stats</target></trans-unit>
+      <trans-unit id="description"><source>Get statistics for database records, including total, translated, hidden, and deleted pages, page type distribution, and and detailed table records with lost record detection. The report analyzes the entire page tree.</source><target>Get stats for database records, including total, translated, ghosted, and yeeted pages, page type distribution, and detailed table records with lost record detection, no cap.</target></trans-unit>
+      <trans-unit id="title"><source>Record Statistics</source><target>Record Stats</target></trans-unit>
+      <trans-unit id="doktype"><source>Document types</source><target>Doc types</target></trans-unit>
+      <trans-unit id="doktype_value"><source>Document types (value)</source><target>Doc types (value)</target></trans-unit>
+      <trans-unit id="count"><source>Count</source><target>The count</target></trans-unit>
+      <trans-unit id="pages"><source>Pages</source><target>The pages</target></trans-unit>
+      <trans-unit id="total_pages"><source>Total number of default language pages</source><target>Total default language pages</target></trans-unit>
+      <trans-unit id="translated_pages"><source>Total number of translated pages</source><target>Total translated pages</target></trans-unit>
+      <trans-unit id="deleted_pages"><source>Marked-deleted pages</source><target>Yeeted pages</target></trans-unit>
+      <trans-unit id="hidden_pages"><source>Hidden pages</source><target>Ghosted pages</target></trans-unit>
+      <trans-unit id="tables"><source>Tables</source><target>The tables</target></trans-unit>
+      <trans-unit id="label"><source>Label</source><target>The label</target></trans-unit>
+      <trans-unit id="tablename"><source>Table name</source><target>Table name, fam</target></trans-unit>
+      <trans-unit id="total_lost"><source>Records total / lost</source><target>Records total / lost, oof</target></trans-unit>
+    </body>
+  </file>
+</xliff>

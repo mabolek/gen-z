@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:frontend/Resources/Private/Language/db/tt_content.xlf">
+    <header/>
+    <body>
+      <trans-unit id="hidden">
+        <source>Visibility of content element</source>
+        <target>Ghost mode of the content element</target>
+      </trans-unit>
+      <trans-unit id="type">
+        <source>Type</source>
+        <target>The vibe</target>
+      </trans-unit>
+      <trans-unit id="column">
+        <source>Column</source>
+        <target>The column</target>
+      </trans-unit>
+      <trans-unit id="filelink_size">
+        <source>Display file size information</source>
+        <target>Show file size tea, bestie</target>
+      </trans-unit>
+      <trans-unit id="header">
+        <source>Header</source>
+        <target>The header</target>
+      </trans-unit>
+      <trans-unit id="header_type">
+        <source>Type</source>
+        <target>The vibe</target>
+      </trans-unit>
+      <trans-unit id="header_layout">
+        <source>Layout</source>
+        <target>The drip</target>
+      </trans-unit>
+      <trans-unit id="header_position">
+        <source>Alignment</source>
+        <target>Alignment vibes</target>
+      </trans-unit>
+      <trans-unit id="header_link">
+        <source>Link</source>
+        <target>The link</target>
+      </trans-unit>
+      <trans-unit id="subheader">
+        <source>Subheader</source>
+        <target>The subheader</target>
+      </trans-unit>
+      <trans-unit id="date">
+        <source>Date</source>
+        <target>When tho</target>
+      </trans-unit>
+      <trans-unit id="bodytext">
+        <source>Text</source>
+        <target>The text</target>
+      </trans-unit>
+      <trans-unit id="imageorientation">
+        <source>Position and Alignment</source>
+        <target>Position and alignment vibes</target>
+      </trans-unit>
+      <trans-unit id="imagecols">
+        <source>Number of Columns</source>
+        <target>Number of columns</target>
+      </trans-unit>
+      <trans-unit id="imagewidth">
+        <source>Width of each element (px)</source>
+        <target>How thicc each element is (px)</target>
+      </trans-unit>
+      <trans-unit id="imageheight">
+        <source>Height of each element (px)</source>
+        <target>How tall each element is (px)</target>
+      </trans-unit>
+      <trans-unit id="imageborder">
+        <source>Border around each element</source>
+        <target>Border around each element fr</target>
+      </trans-unit>
+      <trans-unit id="image_zoom">
+        <source>Enlarge on Click</source>
+        <target>Zoom in on click, no cap</target>
+      </trans-unit>
+      <trans-unit id="section_index">
+        <source>Show in Section Menus</source>
+        <target>Show in section menus</target>
+      </trans-unit>
+      <trans-unit id="link_to_top">
+        <source>Append with Link to Top of Page</source>
+        <target>Slap a link to top on it</target>
+      </trans-unit>
+      <trans-unit id="layout">
+        <source>Layout</source>
+        <target>The drip</target>
+      </trans-unit>
+      <trans-unit id="frame_class">
+        <source>Frame</source>
+        <target>The frame</target>
+      </trans-unit>
+      <trans-unit id="space_before_class">
+        <source>Space Before</source>
+        <target>Space before</target>
+      </trans-unit>
+      <trans-unit id="space_after_class">
+        <source>Space After</source>
+        <target>Space after</target>
+      </trans-unit>
+      <trans-unit id="uploads.media">
+        <source>Single files</source>
+        <target>Individual files fr</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

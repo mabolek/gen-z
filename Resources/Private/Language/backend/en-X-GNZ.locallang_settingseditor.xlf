@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_settingseditor.xlf">
+    <header/>
+    <body>
+      <trans-unit id="settingseditor.mode.minimal">
+        <source>Minimal</source>
+        <target>Minimal (just the essentials)</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.mode.basic">
+        <source>Basic</source>
+        <target>Mid (basic vibes)</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.mode.advanced">
+        <source>Advanced</source>
+        <target>Advanced (sigma mode)</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.edit.resetSetting">
+        <source>Reset setting</source>
+        <target>Reset setting</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.edit.copySettingsIdentifier">
+        <source>Copy identifier</source>
+        <target>Yoink identifier</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.edit.copyAsYaml">
+        <source>Copy as YAML</source>
+        <target>Yoink as YAML</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.search.searchTermVisuallyHiddenLabel">
+        <source>Search settings</source>
+        <target>Stalk settings</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.search.searchTermPlaceholder">
+        <source>Search settings</source>
+        <target>Stalk settings...</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.search.noResultsTitle">
+        <source>No settings were found.</source>
+        <target>No settings found, aura -500.</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.search.noResultsMessage">
+        <source>The search filters by setting value, label, description or identifier.</source>
+        <target>The stalk filters by setting value, label, description or identifier.</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.search.noResultsResetButtonLabel">
+        <source>Reset filter</source>
+        <target>Reset filter, bro</target>
+      </trans-unit>
+      <trans-unit id="settingseditor.type.page.button">
+        <source>Select page</source>
+        <target>Pick a page</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

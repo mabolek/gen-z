@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:dashboard/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="close">
+        <source>Close</source>
+        <target>Dip out</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Dashboard</source>
+        <target>Dashboard, bestie</target>
+      </trans-unit>
+      <trans-unit id="widget.add">
+        <source>Add widget</source>
+        <target>Drop a widget with main character energy</target>
+      </trans-unit>
+      <trans-unit id="widget.addToDashboard">
+        <source>Add widget to "%s"</source>
+        <target>Drop widget on "%s", fam</target>
+      </trans-unit>
+      <trans-unit id="widget.addToDashboard.searchLabel">
+        <source>Search for dashboard widgets</source>
+        <target>Stalk dashboard widgets</target>
+      </trans-unit>
+      <trans-unit id="widget.addToDashboard.searchNotFound">
+        <source>Unfortunately no dashboard widget matches your query, please try a different one.</source>
+        <target>No dashboard widget matches your search, bestie. Try a different vibe.</target>
+      </trans-unit>
+      <trans-unit id="widget.addToDashboard.userNotAllowed">
+        <source>No widgets are available with your current permissions.</source>
+        <target>No widgets available with your current clout. Your aura isn't enough, F.</target>
+      </trans-unit>
+      <trans-unit id="widget.add.button.close">
+        <source>Close</source>
+        <target>Dip out</target>
+      </trans-unit>
+      <trans-unit id="widget.add.button.ok">
+        <source>Add widget</source>
+        <target>Drop widget, fr fr</target>
+      </trans-unit>
+      <trans-unit id="widget.refresh">
+        <source>Refresh Widget</source>
+        <target>Refresh widget vibes</target>
+      </trans-unit>
+      <trans-unit id="widget.settings">
+        <source>Widget Settings</source>
+        <target>Widget settings, bestie</target>
+      </trans-unit>
+      <trans-unit id="widget.settings.button.close">
+        <source>Close</source>
+        <target>Dip out</target>
+      </trans-unit>
+      <trans-unit id="widget.settings.button.save">
+        <source>Save</source>
+        <target>Save fr fr</target>
+      </trans-unit>
+      <trans-unit id="widget.settings.unchanged">
+        <source>Settings unchanged</source>
+        <target>Settings unchanged, ngl</target>
+      </trans-unit>
+      <trans-unit id="widget.move">
+        <source>Move Widget</source>
+        <target>Slide widget around</target>
+      </trans-unit>
+      <trans-unit id="widget.remove">
+        <source>Remove Widget</source>
+        <target>Yeet widget</target>
+      </trans-unit>
+      <trans-unit id="widget.remove.button.close">
+        <source>Close</source>
+        <target>Dip out</target>
+      </trans-unit>
+      <trans-unit id="widget.remove.button.ok">
+        <source>Remove</source>
+        <target>Yeet it</target>
+      </trans-unit>
+      <trans-unit id="widget.remove.confirm.title">
+        <source>Remove widget</source>
+        <target>Yeet widget</target>
+      </trans-unit>
+      <trans-unit id="widget.remove.confirm.message">
+        <source>Are you sure you want to remove this widget?</source>
+        <target>You really wanna yeet this widget, fam?</target>
+      </trans-unit>
+      <trans-unit id="widget.error">
+        <source>An error occurred while retrieving information for this widget. Please try again, and if the problem persists, contact your administrator.</source>
+        <target>Oof, something went wrong loading this widget's info, aura -500. Try again and if it keeps happening, hit up your sigma admin.</target>
+      </trans-unit>
+      <trans-unit id="dashboard.headline">
+        <source>Dashboard "%s"</source>
+        <target>Dashboard "%s", fam</target>
+      </trans-unit>
+      <trans-unit id="dashboard.default">
+        <source>My dashboard</source>
+        <target>My dashboard, no cap</target>
+      </trans-unit>
+      <trans-unit id="dashboard.default.description">
+        <source>Create a new dashboard with some general TYPO3 widgets on it</source>
+        <target>Spawn a fresh dashboard with some general TYPO3 widgets on it</target>
+      </trans-unit>
+      <trans-unit id="dashboard.empty">
+        <source>Empty dashboard</source>
+        <target>Empty dashboard, ngl</target>
+      </trans-unit>
+      <trans-unit id="dashboard.empty.description">
+        <source>Your dashboard will be created without any widget on it.</source>
+        <target>Your dashboard will be spawned totally clean, zero widgets.</target>
+      </trans-unit>
+      <trans-unit id="dashboard.add">
+        <source>Add dashboard</source>
+        <target>Drop a fresh dashboard</target>
+      </trans-unit>
+      <trans-unit id="dashboard.add.button.close">
+        <source>Close</source>
+        <target>Dip out</target>
+      </trans-unit>
+      <trans-unit id="dashboard.add.button.ok">
+        <source>Add Dashboard</source>
+        <target>Drop the dashboard</target>
+      </trans-unit>
+      <trans-unit id="dashboard.configure">
+        <source>Configure dashboard</source>
+        <target>Config the dashboard, bestie</target>
+      </trans-unit>
+      <trans-unit id="dashboard.configure.button.close">
+        <source>Close</source>
+        <target>Dip out</target>
+      </trans-unit>
+      <trans-unit id="dashboard.configure.button.ok">
+        <source>Save Dashboard</source>
+        <target>Save dashboard fr fr</target>
+      </trans-unit>
+      <trans-unit id="dashboard.delete">
+        <source>Delete dashboard</source>
+        <target>Yeet dashboard</target>
+      </trans-unit>
+      <trans-unit id="dashboard.delete.sure">
+        <source>Are you sure you want to delete this dashboard?</source>
+        <target>You really wanna yeet this dashboard, fam?</target>
+      </trans-unit>
+      <trans-unit id="dashboard.delete.ok">
+        <source>Yes, delete it</source>
+        <target>Bet, yeet it</target>
+      </trans-unit>
+      <trans-unit id="dashboard.delete.cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="dashboard.title">
+        <source>Title of dashboard</source>
+        <target>Dashboard title, fam</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.gettingStarted.title">
+        <source>Getting Started with TYPO3</source>
+        <target>Getting started with TYPO3, no cap</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.gettingStarted.description">
+        <source>Add a shortcut to the TYPO3 Getting Started Tutorial.</source>
+        <target>Drop a shortcut to the TYPO3 getting started tutorial, bestie.</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.gettingStarted.text">
+        <source>New to TYPO3? In our Getting Started Tutorial you will learn the basics how to use TYPO3.</source>
+        <target>New to TYPO3? The getting started tutorial will teach you the basics. It's bussin, no cap.</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.gettingStarted.content.label">
+        <source>Getting Started Tutorial</source>
+        <target>Getting started tutorial</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.typoscriptReference.title">
+        <source>TypoScript Template Reference</source>
+        <target>TypoScript template reference</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.typoscriptReference.description">
+        <source>Add a shortcut to the TYPO3 TypoScript Template Reference.</source>
+        <target>Drop a shortcut to the TYPO3 TypoScript template reference.</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.typoscriptReference.text">
+        <source>This document is a reference, used to lookup TypoScript templating.</source>
+        <target>This doc is the reference for looking up TypoScript templating, ngl.</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.typoscriptReference.content.label">
+        <source>TypoScript Template Reference</source>
+        <target>TypoScript template reference</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.TSconfigReference.title">
+        <source>TSconfig Reference</source>
+        <target>TSconfig reference, fam</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.TSconfigReference.description">
+        <source>Add a shortcut to the TYPO3 TSconfig Reference.</source>
+        <target>Drop a shortcut to the TYPO3 TSconfig reference, bestie.</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.TSconfigReference.text">
+        <source>This document describes TSconfig and its options.</source>
+        <target>This doc describes TSconfig and all its options, fam.</target>
+      </trans-unit>
+      <trans-unit id="widgets.documentation.TSconfigReference.content.label">
+        <source>TSconfig Reference</source>
+        <target>TSconfig reference</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3news.title">
+        <source>TYPO3 news</source>
+        <target>TYPO3 news, bestie</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3news.description">
+        <source>Add a list of news items from the TYPO3 project</source>
+        <target>Drop a list of news from the TYPO3 project</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3news.moreItems">
+        <source>More TYPO3 news</source>
+        <target>More TYPO3 news, fam</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3information.title">
+        <source>About TYPO3</source>
+        <target>About TYPO3, no cap</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3information.description">
+        <source>Some general information about TYPO3 and the version used</source>
+        <target>General tea about TYPO3 and the version you're running</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3information.text">
+        <source><![CDATA[TYPO3 CMS is an enterprise-class, Open Source Content Management System, used internationally to build and manage websites of all types, from small sites for non-profits to multilingual enterprise solutions for large corporations.<br /><br />For further information visit <a href="https://typo3.org/typo3-cms/" target="_blank" rel="noreferrer">typo3.org</a>.<br /><br />TYPO3 CMS is <b>freely available</b> under the <a href="https://typo3.org/project/licenses/" target="_blank" rel="noreferrer">TYPO3-license (GNU/GPL)</a>.<br /><br />You are using version %s - Copyright %s %s]]></source>
+        <target><![CDATA[TYPO3 CMS is a bussin enterprise-level, Open Source Content Management System, used worldwide to build and manage all kinds of websites - from small sites to multilingual enterprise solutions, sheesh.<br /><br />For more info check <a href="https://typo3.org/typo3-cms/" target="_blank" rel="noreferrer">typo3.org</a>.<br /><br />TYPO3 CMS is <b>totally free</b> under the <a href="https://typo3.org/project/licenses/" target="_blank" rel="noreferrer">TYPO3-license (GNU/GPL)</a>.<br /><br />You're running version %s - Copyright %s %s]]></target>
+      </trans-unit>
+      <trans-unit id="widgets.t3information.logo">
+        <source>TYPO3 CMS logo</source>
+        <target>TYPO3 CMS logo, bestie</target>
+      </trans-unit>
+      <trans-unit id="widgets.sysLogErrors.title">
+        <source>Number of errors in system log</source>
+        <target>Number of oofs in system receipts</target>
+      </trans-unit>
+      <trans-unit id="widgets.sysLogErrors.description">
+        <source>Shows the number of errors in the sys log of the last month, grouped by date</source>
+        <target>Shows how many oofs are in the sys receipts from last month, grouped by date</target>
+      </trans-unit>
+      <trans-unit id="widgets.sysLogErrors.buttonText">
+        <source>Show all errors in log</source>
+        <target>Show all oofs in the receipts</target>
+      </trans-unit>
+      <trans-unit id="widgets.sysLogUsers.buttonText">
+        <source>Show all user logins</source>
+        <target>Show all homie slide-ins</target>
+      </trans-unit>
+      <trans-unit id="widgets.sysLogErrors.chart.dataSet.0">
+        <source>Number of errors</source>
+        <target>Number of oofs, fr fr</target>
+      </trans-unit>
+      <trans-unit id="widgets.typeOfUsers.title">
+        <source>Type of backend users</source>
+        <target>Type of backend homies</target>
+      </trans-unit>
+      <trans-unit id="widgets.typeOfUsers.description">
+        <source>Shows the amount of normal- and admin-users</source>
+        <target>Shows how many NPCs and sigma admins you got</target>
+      </trans-unit>
+      <trans-unit id="widgets.typeOfUsers.normalUsers">
+        <source>Normal users</source>
+        <target>NPCs</target>
+      </trans-unit>
+      <trans-unit id="widgets.typeOfUsers.adminUsers">
+        <source>Admin users</source>
+        <target>Sigma admins (main characters)</target>
+      </trans-unit>
+      <trans-unit id="widgets.failedLogins.title">
+        <source>Failed backend logins</source>
+        <target>Failed backend slide-ins</target>
+      </trans-unit>
+      <trans-unit id="widgets.failedLogins.subtitle">
+        <source>In last 24 hours</source>
+        <target>In the last 24 hours, no cap</target>
+      </trans-unit>
+      <trans-unit id="widgets.failedLogins.description">
+        <source>Information about the number of failed logins during the last 24 hours.</source>
+        <target>Info about how many failed slide-in attempts happened in the last 24 hours, fam.</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3securityAdvisories.title">
+        <source>TYPO3 security advisories</source>
+        <target>TYPO3 security red flags</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3securityAdvisories.description">
+        <source>Add a list of security advisories from the TYPO3 project</source>
+        <target>Drop a list of security red flags from the TYPO3 project</target>
+      </trans-unit>
+      <trans-unit id="widgets.t3securityAdvisories.moreItems">
+        <source>More TYPO3 security advisories</source>
+        <target>More TYPO3 security red flags</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.title">
+        <source>Latest changed pages</source>
+        <target>Latest glowed up pages</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.title.restrictToCurrentUser">
+        <source>My latest changed pages</source>
+        <target>My latest glowed up pages</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.description">
+        <source>Show a list of pages where the latest changes were made</source>
+        <target>Show which pages got the latest glow ups</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.empty">
+        <source>No history found</source>
+        <target>No receipts found, sheesh</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.settings.restrictToCurrentUser">
+        <source>Only show my changes</source>
+        <target>Only show my glow ups</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.change">
+        <source>Change</source>
+        <target>Glow up</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.user">
+        <source>User</source>
+        <target>Homie</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.user.userNotFound">
+        <source>Not Found</source>
+        <target>Ghosted</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.page">
+        <source>Page</source>
+        <target>The page</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.page.workspace">
+        <source>Changes in current selected workspace</source>
+        <target>Glow ups in the current workspace</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.page.pagetree">
+        <source>Position in pagetree</source>
+        <target>Where it's at in the pagetree</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.control">
+        <source>Control</source>
+        <target>Controls, fam</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.control.recordHistory">
+        <source>Show history</source>
+        <target>Spill the receipts</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.control.viewWebpage">
+        <source>View webpage</source>
+        <target>Peep the webpage</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.control.editPageContent">
+        <source>Edit page content</source>
+        <target>Glow up page content</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.column.control.editPage">
+        <source>Edit page properties</source>
+        <target>Glow up page properties</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.table.tt_content">
+        <source>Content</source>
+        <target>The content</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestChangedPages.table.pages">
+        <source>Page</source>
+        <target>The page</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.title">
+        <source>Latest backend logins</source>
+        <target>Latest backend slide-ins</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.description">
+        <source>Shows the latest backend user logins.</source>
+        <target>Shows the latest backend homie slide-ins, fam.</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.empty">
+        <source>No backend login history found</source>
+        <target>No backend slide-in history found, sheesh</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.column.time">
+        <source>Time</source>
+        <target>When tho</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.column.user">
+        <source>User</source>
+        <target>Homie</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.column.user.notFound">
+        <source>Not found</source>
+        <target>Ghosted</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.column.user.edit">
+        <source>Edit user</source>
+        <target>Glow up homie</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.settings.limit">
+        <source>Number of logins to display</source>
+        <target>How many slide-ins to show</target>
+      </trans-unit>
+      <trans-unit id="widgets.latestBeLogins.settings.limit.description">
+        <source>Maximum number of backend user logins to show in the widget</source>
+        <target>Max number of backend homie slide-ins to show in the widget</target>
+      </trans-unit>
+      <trans-unit id="widget_group.general">
+        <source>General</source>
+        <target>General vibes</target>
+      </trans-unit>
+      <trans-unit id="widget_group.typo3">
+        <source>TYPO3 community</source>
+        <target>TYPO3 community, no cap</target>
+      </trans-unit>
+      <trans-unit id="widget_group.news">
+        <source>News</source>
+        <target>The news</target>
+      </trans-unit>
+      <trans-unit id="widget_group.documentation">
+        <source>Documentation</source>
+        <target>Docs</target>
+      </trans-unit>
+      <trans-unit id="widget_group.system">
+        <source>System Information</source>
+        <target>System tea</target>
+      </trans-unit>
+      <trans-unit id="widget_group.content">
+        <source>Content</source>
+        <target>Content, fam</target>
+      </trans-unit>
+      <trans-unit id="dashboard.empty.content.title">
+        <source>No widgets</source>
+        <target>No widgets, sheesh</target>
+      </trans-unit>
+      <trans-unit id="dashboard.empty.content.description">
+        <source>There are no widgets on this dashboard yet. You can add widgets now by clicking on the button below.</source>
+        <target>This dashboard has zero widgets rn. No main character energy here. Click the button below to manifest some, fam.</target>
+      </trans-unit>
+      <trans-unit id="dashboard.empty.content.button">
+        <source>Add a widget</source>
+        <target>Drop a widget, bestie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

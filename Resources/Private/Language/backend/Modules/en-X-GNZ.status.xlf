@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/Modules/status.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title"><source>Status</source><target>Status (how's it going?)</target></trans-unit>
+      <trans-unit id="short_description"><source>Overview of site and page status information</source><target>Overview of site and page status info</target></trans-unit>
+      <trans-unit id="description"><source>Review site and page information to assess the state and structure of your installation. Additional sections may be available depending on installed extensions and user permissions.</source><target>Peep site and page info to assess the state and structure of your installation. More sections may show up depending on installed extensions and homie permissions.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

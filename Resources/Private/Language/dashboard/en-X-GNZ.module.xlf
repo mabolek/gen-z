@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:dashboard/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description">
+        <source>Dashboard</source>
+        <target>Dashboard, fam</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>A dashboard that can show widgets of all kind of extensions</source>
+        <target>A dashboard with main character energy that shows widgets from all kinds of mods, it's bussin</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Dashboard</source>
+        <target>Dashboard, no cap</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

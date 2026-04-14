@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_general.xlf">
+    <header/>
+    <body>
+      <trans-unit id="LGL.endtime">
+        <source>Stop</source>
+        <target>It's over fam</target>
+      </trans-unit>
+      <trans-unit id="LGL.hidden">
+        <source>Hide</source>
+        <target>Ghost it</target>
+      </trans-unit>
+      <trans-unit id="LGL.timestamp">
+        <source>Last Modified</source>
+        <target>Last glowed up</target>
+      </trans-unit>
+      <trans-unit id="LGL.creationDate">
+        <source>Created At</source>
+        <target>Dropped at</target>
+      </trans-unit>
+      <trans-unit id="LGL.creationUserId">
+        <source>Created By</source>
+        <target>Dropped by</target>
+      </trans-unit>
+      <trans-unit id="LGL.starttime">
+        <source>Start</source>
+        <target>Let's gooo</target>
+      </trans-unit>
+      <trans-unit id="LGL.fe_group">
+        <source>Access</source>
+        <target>Who gets in</target>
+      </trans-unit>
+      <trans-unit id="LGL.hide_at_login">
+        <source>Hide at login</source>
+        <target>Ghost when they slide in</target>
+      </trans-unit>
+      <trans-unit id="LGL.any_login">
+        <source>Show at any login</source>
+        <target>Show at any slide in</target>
+      </trans-unit>
+      <trans-unit id="LGL.usergroups">
+        <source>__Usergroups:__</source>
+        <target>__Squads:__</target>
+      </trans-unit>
+      <trans-unit id="LGL.type">
+        <source>Type</source>
+        <target>The vibe</target>
+      </trans-unit>
+      <trans-unit id="LGL.description">
+        <source>Description</source>
+        <target>The tea</target>
+      </trans-unit>
+      <trans-unit id="LGL.prependAtCopy">
+        <source>(copy %s)</source>
+        <target>(yoinked %s)</target>
+      </trans-unit>
+      <trans-unit id="LGL.layout">
+        <source>Frontend Layout</source>
+        <target>Frontend aesthetic layout</target>
+      </trans-unit>
+      <trans-unit id="LGL.default_value">
+        <source>Default</source>
+        <target>Mid</target>
+      </trans-unit>
+      <trans-unit id="LGL.normal">
+        <source>Normal</source>
+        <target>NPC mode</target>
+      </trans-unit>
+      <trans-unit id="LGL.images">
+        <source>Images</source>
+        <target>Pics</target>
+      </trans-unit>
+      <trans-unit id="LGL.image">
+        <source>Image</source>
+        <target>Pic</target>
+      </trans-unit>
+      <trans-unit id="LGL.width">
+        <source>Width</source>
+        <target>How thicc (width)</target>
+      </trans-unit>
+      <trans-unit id="LGL.height">
+        <source>Height</source>
+        <target>How tall</target>
+      </trans-unit>
+      <trans-unit id="LGL.caption">
+        <source>Caption</source>
+        <target>Caption bestie</target>
+      </trans-unit>
+      <trans-unit id="LGL.subheader">
+        <source>Subheader</source>
+        <target>The subtitle, bestie</target>
+      </trans-unit>
+      <trans-unit id="LGL.text">
+        <source>Text</source>
+        <target>The text</target>
+      </trans-unit>
+      <trans-unit id="LGL.name">
+        <source>Name</source>
+        <target>What's your name bestie</target>
+      </trans-unit>
+      <trans-unit id="LGL.first_name">
+        <source>First name</source>
+        <target>First name vibes</target>
+      </trans-unit>
+      <trans-unit id="LGL.middle_name">
+        <source>Middle name</source>
+        <target>Middle name energy</target>
+      </trans-unit>
+      <trans-unit id="LGL.last_name">
+        <source>Last name</source>
+        <target>Last name check</target>
+      </trans-unit>
+      <trans-unit id="LGL.title">
+        <source>Title</source>
+        <target>The title</target>
+      </trans-unit>
+      <trans-unit id="LGL.title_person">
+        <source>Title</source>
+        <target>What do we call you</target>
+      </trans-unit>
+      <trans-unit id="LGL.address">
+        <source>Address</source>
+        <target>Where you at</target>
+      </trans-unit>
+      <trans-unit id="LGL.phone">
+        <source>Phone</source>
+        <target>Phone (who still calls tho)</target>
+      </trans-unit>
+      <trans-unit id="LGL.fax">
+        <source>Fax</source>
+        <target>Fax (boomer tech)</target>
+      </trans-unit>
+      <trans-unit id="LGL.author">
+        <source>Author</source>
+        <target>Who wrote this</target>
+      </trans-unit>
+      <trans-unit id="LGL.email">
+        <source>Email</source>
+        <target>Drop your email</target>
+      </trans-unit>
+      <trans-unit id="LGL.company">
+        <source>Company</source>
+        <target>The squad you work for</target>
+      </trans-unit>
+      <trans-unit id="LGL.city">
+        <source>City</source>
+        <target>Your city</target>
+      </trans-unit>
+      <trans-unit id="LGL.zip">
+        <source>Zipcode</source>
+        <target>Zip it</target>
+      </trans-unit>
+      <trans-unit id="LGL.country">
+        <source>Country</source>
+        <target>Your country</target>
+      </trans-unit>
+      <trans-unit id="LGL.www">
+        <source>www</source>
+        <target>the interwebs</target>
+      </trans-unit>
+      <trans-unit id="LGL.lastlogin">
+        <source>Last login</source>
+        <target>Last time they slid in</target>
+      </trans-unit>
+      <trans-unit id="LGL.note">
+        <source>Note</source>
+        <target>Side note</target>
+      </trans-unit>
+      <trans-unit id="LGL.parameters">
+        <source>Parameters</source>
+        <target>The params</target>
+      </trans-unit>
+      <trans-unit id="LGL.code">
+        <source>CODE</source>
+        <target>THE CODE</target>
+      </trans-unit>
+      <trans-unit id="LGL.links">
+        <source>Links</source>
+        <target>The links</target>
+      </trans-unit>
+      <trans-unit id="LGL.language">
+        <source>Language</source>
+        <target>Tongue</target>
+      </trans-unit>
+      <trans-unit id="LGL.category">
+        <source>Category</source>
+        <target>Vibe category</target>
+      </trans-unit>
+      <trans-unit id="LGL.shortcut_page">
+        <source>Shortcut to page</source>
+        <target>Quick link to page</target>
+      </trans-unit>
+      <trans-unit id="LGL.keywords">
+        <source>Keywords (,)</source>
+        <target>Tags (,)</target>
+      </trans-unit>
+      <trans-unit id="LGL.disable">
+        <source>Disable</source>
+        <target>Ghost it</target>
+      </trans-unit>
+      <trans-unit id="LGL.baseStorage">
+        <source>Storage</source>
+        <target>The vault</target>
+      </trans-unit>
+      <trans-unit id="LGL.folder">
+        <source>Folder</source>
+        <target>The folder</target>
+      </trans-unit>
+      <trans-unit id="LGL.startingpoint">
+        <source>Startingpoint</source>
+        <target>Spawn point</target>
+      </trans-unit>
+      <trans-unit id="LGL.disableRTE">
+        <source>Disable Rich Text Editor</source>
+        <target>Ghost the Rich Text Editor</target>
+      </trans-unit>
+      <trans-unit id="LGL.external">
+        <source>External URL</source>
+        <target>Outside link</target>
+      </trans-unit>
+      <trans-unit id="LGL.recursive">
+        <source>Recursive</source>
+        <target>Recursive (all the way down)</target>
+      </trans-unit>
+      <trans-unit id="LGL.l18n_parent">
+        <source>Transl.Orig</source>
+        <target>OG Translation</target>
+      </trans-unit>
+      <trans-unit id="LGL.siteLanguages">
+        <source>Site languages</source>
+        <target>Site tongues</target>
+      </trans-unit>
+      <trans-unit id="LGL.specialLanguages">
+        <source>Special languages</source>
+        <target>Main character tongues</target>
+      </trans-unit>
+      <trans-unit id="LGL.defaultLanguage">
+        <source>Default</source>
+        <target>Mid</target>
+      </trans-unit>
+      <trans-unit id="LGL.allLanguages">
+        <source>[All]</source>
+        <target>[All of it]</target>
+      </trans-unit>
+      <trans-unit id="LGL.error">
+        <source>Error!</source>
+        <target>Bruh, oof!</target>
+      </trans-unit>
+      <trans-unit id="LGL.visible">
+        <source>Visible</source>
+        <target>Not ghosted bestie</target>
+      </trans-unit>
+      <trans-unit id="LGL.enabled">
+        <source>Enabled</source>
+        <target>It's giving active</target>
+      </trans-unit>
+      <trans-unit id="LGL.disabled">
+        <source>Disabled</source>
+        <target>Ghosted</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:filemetadata/Resources/Private/Language/db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="sys_file_metadata.status">
+        <source>Status</source>
+        <target>Vibe status</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.status.1">
+        <source>Ok</source>
+        <target>Slay!</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.status.2">
+        <source>Pending</source>
+        <target>On hold, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.status.3">
+        <source>Under review</source>
+        <target>Getting a vibe check</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.keywords">
+        <source>Keywords</source>
+        <target>Hashtags, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.caption">
+        <source>Caption</source>
+        <target>Caption, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.creator_tool">
+        <source>Creator Tool</source>
+        <target>Creator tool, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.download_name">
+        <source>Download Name</source>
+        <target>Snag-it name</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.creator">
+        <source>Creator</source>
+        <target>Creator, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.publisher">
+        <source>Publisher</source>
+        <target>Publisher, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.source">
+        <source>Source</source>
+        <target>Source, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.copyright">
+        <source>Copyright</source>
+        <target>Copyright, no cap</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.location_country">
+        <source>Country</source>
+        <target>Country, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.location_region">
+        <source>Region</source>
+        <target>Region, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.location_city">
+        <source>City</source>
+        <target>City, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.latitude">
+        <source>Latitude</source>
+        <target>Latitude, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.longitude">
+        <source>Longitude</source>
+        <target>Longitude, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.ranking">
+        <source>Ranking</source>
+        <target>Ranking, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.content_creation_date">
+        <source>Content Creation Date</source>
+        <target>Content drop date</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.content_modification_date">
+        <source>Content Modification Date</source>
+        <target>Content glow-up date</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.note">
+        <source>Note</source>
+        <target>Note, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.unit">
+        <source>Unit</source>
+        <target>Unit, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.unit.px">
+        <source>Pixels</source>
+        <target>Pixels fr</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.unit.cm">
+        <source>Centimeters</source>
+        <target>Centimeters tho</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.unit.in">
+        <source>Inches</source>
+        <target>Inches tho</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.unit.mm">
+        <source>Millimeters</source>
+        <target>Millimeters tho</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.unit.m">
+        <source>Meters</source>
+        <target>Meters tho</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.unit.p">
+        <source>Picas</source>
+        <target>Picas ngl</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.unit.pt">
+        <source>Points</source>
+        <target>Points fr</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.duration">
+        <source>Duration (in seconds)</source>
+        <target>Duration (in seconds), fam</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.color_space">
+        <source>Color Space</source>
+        <target>Color space, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.color_space.RGB">
+        <source>RGB</source>
+        <target>RGB vibes</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.color_space.sRGB">
+        <source>sRGB</source>
+        <target>sRGB vibes</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.color_space.CMYK">
+        <source>CMYK</source>
+        <target>CMYK vibes</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.color_space.CMY">
+        <source>CMY</source>
+        <target>CMY vibes</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.color_space.YUV">
+        <source>YUV</source>
+        <target>YUV vibes</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.color_space.grey">
+        <source>Gray</source>
+        <target>Gray, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.color_space.indx">
+        <source>Indexed</source>
+        <target>Indexed, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.pages">
+        <source>Number of Pages</source>
+        <target>Number of pages, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.language">
+        <source>File Language</source>
+        <target>File language, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.fe_groups">
+        <source>Frontend Permission</source>
+        <target>Frontend permission, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.width">
+        <source>Width</source>
+        <target>How thicc</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata.height">
+        <source>Height</source>
+        <target>Height, bestie</target>
+      </trans-unit>
+      <trans-unit id="tabs.metadata" x-unused-since="14.0">
+        <source>Metadata</source>
+        <target>Metadata, fam</target>
+      </trans-unit>
+      <trans-unit id="tabs.camera" x-unused-since="14.0">
+        <source>Camera Data</source>
+        <target>Camera data, bestie</target>
+      </trans-unit>
+      <trans-unit id="tabs.audio" x-unused-since="14.0">
+        <source>Audio</source>
+        <target>Audio, fam</target>
+      </trans-unit>
+      <trans-unit id="tabs.video" x-unused-since="14.0">
+        <source>Video</source>
+        <target>Vid, bestie</target>
+      </trans-unit>
+      <trans-unit id="placeholder.keywords">
+        <source>Keyword #1, keyword #2, ...</source>
+        <target>Hashtag #1, hashtag #2, ...</target>
+      </trans-unit>
+      <trans-unit id="palette.metrics" x-unused-since="14.0">
+        <source>Metrics</source>
+        <target>Metrics, fam</target>
+      </trans-unit>
+      <trans-unit id="palette.geo_location" x-unused-since="14.0">
+        <source>Geo Location</source>
+        <target>Location drop</target>
+      </trans-unit>
+      <trans-unit id="palette.visibility" x-unused-since="14.0">
+        <source>Visibility</source>
+        <target>Ghost status</target>
+      </trans-unit>
+      <trans-unit id="palette.content_date" x-unused-since="14.0">
+        <source>Content Date</source>
+        <target>Content date, bestie</target>
+      </trans-unit>
+      <trans-unit id="palette.accessibility" x-unused-since="14.0">
+        <source>Accessibility</source>
+        <target>Accessibility, fam</target>
+      </trans-unit>
+      <trans-unit id="palette.gps" x-unused-since="14.0">
+        <source>GPS</source>
+        <target>GPS, bestie</target>
+      </trans-unit>
+      <trans-unit id="fe_groups.files">
+        <source>Allowed files</source>
+        <target>Allowed files, fam</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/Wizards/move_content_elements.xlf">
+    <header/>
+    <body>
+      <trans-unit id="headline.move"><source>Move element "%s" [%d]</source><target>Slide element "%s" [%d] over</target></trans-unit>
+      <trans-unit id="headline.copy"><source>Copy element "%s" [%d]</source><target>Yoink element "%s" [%d]</target></trans-unit>
+      <trans-unit id="currentPath"><source>Current path</source><target>Current path</target></trans-unit>
+      <trans-unit id="makeCopy"><source>Copy element instead of moving</source><target>Yoink element instead of sliding it</target></trans-unit>
+      <trans-unit id="moveElement.notification.elementMoved.title"><source>Element successfully moved</source><target>Element slid over successfully, slay!</target></trans-unit>
+      <trans-unit id="moveElement.notification.elementMoved.message"><source>The element "%s" has been successfully moved.</source><target>The element "%s" got slid over successfully.</target></trans-unit>
+      <trans-unit id="moveElement.notification.elementCopied.title"><source>Element successfully copied</source><target>Element yoinked successfully!</target></trans-unit>
+      <trans-unit id="moveElement.notification.elementCopied.message"><source>The element "%s" has been successfully copied.</source><target>The element "%s" got yoinked successfully.</target></trans-unit>
+      <trans-unit id="moveElement.notification.elementPasted.action.dismiss"><source>Dismiss</source><target>Nvm</target></trans-unit>
+      <trans-unit id="moveElement.notification.elementPasted.action.open"><source>Open "%s"</source><target>Pull up "%s"</target></trans-unit>
+    </body>
+  </file>
+</xliff>

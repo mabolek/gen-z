@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/pages/messages.xlf">
+    <header/>
+    <body>
+      <trans-unit id="link_missing">
+        <source>The "%1$s" field is required to resolve links for pages of type "%2$s". Please provide a value in the page properties.</source>
+        <target>The "%1$s" field is required to resolve links for pages of type "%2$s". Drop a value in the page properties bestie.</target>
+      </trans-unit>
+      <trans-unit id="link_invalid">
+        <source>Invalid link in "%1$s": "%2$s" cannot be resolved. Select a valid destination in the page properties.</source>
+        <target>Delulu link in "%1$s": "%2$s" can't be resolved. Pick a valid destination in the page properties bestie.</target>
+      </trans-unit>
+      <trans-unit id="link_destination">
+        <source>Page of type "%1$s" links to the following %2$s: %3$s.</source>
+        <target>Page of type "%1$s" links to the following %2$s: %3$s.</target>
+      </trans-unit>
+      <trans-unit id="link_current">
+        <source>Page of type "%1$s" links to current request url, and dynamic value cannot be displayed here.</source>
+        <target>Page of type "%1$s" links to current request URL, and dynamic value can't be displayed here.</target>
+      </trans-unit>
+      <trans-unit id="link_current_with_added_queryparameters">
+        <source>Page of type "%1$s" appends %2$s to current request url, and dynamic value cannot be displayed here.</source>
+        <target>Page of type "%1$s" appends %2$s to current request URL, and dynamic value can't be displayed here.</target>
+      </trans-unit>
+      <trans-unit id="link_destination_record">
+        <source>Page of type "%1$s" links to the following record of type "%2$s": %3$s.</source>
+        <target>Page of type "%1$s" links to the following record of type "%2$s": %3$s.</target>
+      </trans-unit>
+      <trans-unit id="link_destination_additional_parameters">
+        <source>Additional parameters: "%s".</source>
+        <target>Additional parameters: "%s".</target>
+      </trans-unit>
+      <trans-unit id="link_destination_content_element">
+        <source>Page of type "%1$s" links to content element %2$s on page %3$s.</source>
+        <target>Page of type "%1$s" links to content element %2$s on page %3$s.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

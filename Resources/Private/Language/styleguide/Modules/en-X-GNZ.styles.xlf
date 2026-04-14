@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:styleguide/Resources/Private/Language/Modules/styles.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description"><source>Design Tokens and Styles</source><target>Design tokens and drip, bestie</target></trans-unit>
+      <trans-unit id="description"><source>Explore design tokens, color schemes, typography, shadows, and other styling elements used in the TYPO3 backend.</source><target>Peep the design tokens, color schemes, typography, shadows, and other drip elements used in the TYPO3 backend.</target></trans-unit>
+      <trans-unit id="title"><source>Component Library: Styles</source><target>Component library: Drip</target></trans-unit>
+    </body>
+  </file>
+</xliff>

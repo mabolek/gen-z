@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:reactions/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title"><source>Reactions</source><target>Reactions, bestie</target></trans-unit>
+      <trans-unit id="shortDescription"><source>Manage incoming HTTP webhooks to external system</source><target>Manage incoming HTTP Webhooks from external systems, no cap</target></trans-unit>
+      <trans-unit id="short_description"><source>Manage incoming HTTP webhooks to external system</source><target>Manage incoming HTTP Webhooks from external systems, fr fr</target></trans-unit>
+      <trans-unit id="description"><source>Configure secure endpoints that allow external services to trigger actions in TYPO3. Respond to webhooks from GitHub, payment providers, form services, and other platforms to automate workflows.</source><target>Set up secure endpoints that let external services trigger actions in TYPO3. Respond to Webhooks from GitHub, payment providers, and other platforms to automate workflows. It's giving automation, slay!</target></trans-unit>
+      <trans-unit id="heading_text"><source>Reactions -- Manage Incoming HTTP Webhooks</source><target>Reactions -- Manage Incoming HTTP Webhooks, bestie</target></trans-unit>
+      <trans-unit id="reaction_not_found.title"><source>No reactions found!</source><target>No reactions found, oof!</target></trans-unit>
+      <trans-unit id="reaction_not_found.message"><source>There are currently no reaction records found in the database.</source><target>No reaction records in the database rn, ngl.</target></trans-unit>
+      <trans-unit id="reaction_create"><source>Create new reaction</source><target>Manifest new reaction</target></trans-unit>
+      <trans-unit id="reaction_not_found_with_filter.title"><source>No reactions found</source><target>No reactions found, bruh</target></trans-unit>
+      <trans-unit id="reaction_not_found_with_filter.message"><source>With the current set of filters applied, no reactions could be found.</source><target>With these filters on, no reactions could be found. It's giving nothing.</target></trans-unit>
+      <trans-unit id="reaction_no_filter"><source>Remove all filter</source><target>Yeet all filters</target></trans-unit>
+      <trans-unit id="reaction_no_implementation_class"><source>Implementation class for reaction type "%s" is missing.</source><target>Implementation class for reaction type "%s" is ghosted, bruh.</target></trans-unit>
+      <trans-unit id="reaction_example"><source>Example</source><target>Example, bestie</target></trans-unit>
+      <trans-unit id="filter.sendButton"><source>Filter</source><target>Filter it, bestie</target></trans-unit>
+      <trans-unit id="filter.resetButton"><source>Reset</source><target>Start over</target></trans-unit>
+      <trans-unit id="filter.name"><source>Name</source><target>The name</target></trans-unit>
+      <trans-unit id="filter.reaction_type"><source>Reaction Type</source><target>Reaction vibe</target></trans-unit>
+      <trans-unit id="filter.reaction_type.showAll"><source>Show all</source><target>Show all of it</target></trans-unit>
+      <trans-unit id="pagination.previous"><source>previous</source><target>back up</target></trans-unit>
+      <trans-unit id="pagination.next"><source>next</source><target>next up</target></trans-unit>
+      <trans-unit id="pagination.first"><source>first</source><target>the very start</target></trans-unit>
+      <trans-unit id="pagination.last"><source>last</source><target>the very end</target></trans-unit>
+      <trans-unit id="pagination.records"><source>Records</source><target>Records, fam</target></trans-unit>
+      <trans-unit id="pagination.page"><source>Page</source><target>The page</target></trans-unit>
+      <trans-unit id="pagination.refresh"><source>Refresh</source><target>Refresh, bestie</target></trans-unit>
+      <trans-unit id="labels.delete.title"><source>Delete reactions</source><target>Yeet reactions</target></trans-unit>
+      <trans-unit id="labels.delete.message"><source>Are you sure you want to delete all marked reactions?</source><target>You sure you wanna yeet all marked reactions fr fr?</target></trans-unit>
+    </body>
+  </file>
+</xliff>

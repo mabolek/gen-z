@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:dashboard/Resources/Private/Language/locallang_widget_bookmarks.xlf">
+    <header/>
+    <body>
+      <trans-unit id="widget.bookmarks.title">
+        <source>Bookmarks</source>
+        <target>Saved vibes</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.description">
+        <source>Display your bookmarks as a dashboard widget.</source>
+        <target>Show your saved vibes as a dashboard widget, fam.</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.setting.groups.label">
+        <source>Bookmark groups</source>
+        <target>Saved vibes squads</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.setting.groups.description">
+        <source>Bookmark groups to be displayed.</source>
+        <target>Saved vibes squads to show, no cap.</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.setting.limit.label">
+        <source>Limit</source>
+        <target>Limit</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.setting.limit.description">
+        <source>Maximum number of bookmarks to display.</source>
+        <target>Max number of saved vibes to display, bestie.</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.setting.showAll">
+        <source>Show all bookmarks</source>
+        <target>Show all saved vibes</target>
+      </trans-unit>
+      <trans-unit id="widget.bookmarks.manageBookmarks">
+        <source>Manage bookmarks</source>
+        <target>Manage saved vibes</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

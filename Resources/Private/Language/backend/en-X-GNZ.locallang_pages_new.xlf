@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_pages_new.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Create multiple pages</source>
+        <target>Drop multiple pages at once</target>
+      </trans-unit>
+      <trans-unit id="canNotCreateNew.title">
+        <source>Insufficient permissions</source>
+        <target>Not enough permissions bestie</target>
+      </trans-unit>
+      <trans-unit id="canNotCreateNew.message">
+        <source>Sorry, you are not allowed to create new subpages to this page due to access restrictions.</source>
+        <target>Sorry bestie, you're getting gatekept from dropping new subpages here. No rizz for this.</target>
+      </trans-unit>
+      <trans-unit id="newPage">
+        <source>Page</source>
+        <target>Page</target>
+      </trans-unit>
+      <trans-unit id="addMoreLines">
+        <source>Add more lines</source>
+        <target>Give me more bestie</target>
+      </trans-unit>
+      <trans-unit id="listEnd">
+        <source>Place new pages after the existing subpages</source>
+        <target>Drop fresh pages after the existing subpages</target>
+      </trans-unit>
+      <trans-unit id="hidePages">
+        <source>Hide new pages</source>
+        <target>Ghost the fresh pages</target>
+      </trans-unit>
+      <trans-unit id="hidePagesInMenus">
+        <source>Hide new pages in menus</source>
+        <target>Ghost fresh pages in menus</target>
+      </trans-unit>
+      <trans-unit id="create">
+        <source>Create pages</source>
+        <target>Manifest the pages (let's go!)</target>
+      </trans-unit>
+      <trans-unit id="reset">
+        <source>Clear fields</source>
+        <target>Yeet the fields</target>
+      </trans-unit>
+      <trans-unit id="newSubPages">
+        <source>New page structure</source>
+        <target>Fresh page structure (your blueprint)</target>
+      </trans-unit>
+      <trans-unit id="newSubPages.pageTitle">
+        <source>Page title</source>
+        <target>Page title</target>
+      </trans-unit>
+      <trans-unit id="noPagesCreated.title">
+        <source>No pages added</source>
+        <target>No pages dropped, oof</target>
+      </trans-unit>
+      <trans-unit id="noPagesCreated.message">
+        <source>No pages were created.</source>
+        <target>No pages were created, rip.</target>
+      </trans-unit>
+      <trans-unit id="pagesCreated.title">
+        <source>Pages added</source>
+        <target>Pages dropped, slay!</target>
+      </trans-unit>
+      <trans-unit id="pagesCreated.message">
+        <source>The pages were created successfully.</source>
+        <target>Pages manifested successfully, understood the assignment!</target>
+      </trans-unit>
+      <trans-unit id="multiplePagesCanNotBeCreated.title">
+        <source>Creation of multiple is disabled because of field requirements</source>
+        <target>Multiple page creation ghosted because of field requirements</target>
+      </trans-unit>
+      <trans-unit id="multiplePagesCanNotBeCreated.message">
+        <source>Please use the page creation wizard instead.</source>
+        <target>Use the page creation wizard instead bestie.</target>
+      </trans-unit>
+      <trans-unit id="multiplePagesCanNotBeCreated.buttonLabel">
+        <source>Create single page</source>
+        <target>Drop a single page</target>
+      </trans-unit>
+      <trans-unit id="availablePageTypesHaveBeenFiltered.title">
+        <source>Some page types have been filtered because of field requirements</source>
+        <target>Some page types got filtered because of field requirements</target>
+      </trans-unit>
+      <trans-unit id="availablePageTypesHaveBeenFiltered.message">
+        <source>The following page types need to be created using the page creation wizard:</source>
+        <target>These page types gotta be created using the page creation wizard:</target>
+      </trans-unit>
+      <trans-unit id="availablePageTypesHaveBeenFiltered.buttonLabel">
+        <source>Create single page</source>
+        <target>Drop a single page</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:reactions/Resources/Private/Language/locallang_db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="reactions"><source>Reactions</source><target>Reactions, fam</target></trans-unit>
+      <trans-unit id="sys_reaction"><source>System Reactions</source><target>System reactions, bestie</target></trans-unit>
+      <trans-unit id="sys_reaction.name"><source>Name</source><target>The name</target></trans-unit>
+      <trans-unit id="sys_reaction.name.description"><source>Meaningful name of the reaction</source><target>Give the reaction a bussin name, bestie</target></trans-unit>
+      <trans-unit id="sys_reaction.identifier"><source>Identifier</source><target>The ID tag</target></trans-unit>
+      <trans-unit id="sys_reaction.identifier.description"><source>This is your unique reaction identifier within the TYPO3 URL</source><target>This is your unique reaction identifier in the TYPO3 URL, no cap</target></trans-unit>
+      <trans-unit id="sys_reaction.secret"><source>Secret</source><target>The secret</target></trans-unit>
+      <trans-unit id="sys_reaction.secret.description"><source>The secret is required to call the reaction from the outside. The secret can be re-created anytime, but will only be visible once (until the record got saved).</source><target>The secret is needed to call the reaction from outside. You can re-create it anytime but it's only visible once (until the record gets saved fr fr). Don't share the secret, bestie!</target></trans-unit>
+      <trans-unit id="sys_reaction.secret.passwordGenerator"><source>Generate secret token</source><target>Generate a secret token, bestie</target></trans-unit>
+      <trans-unit id="sys_reaction.reaction_type"><source>Reaction Type</source><target>Reaction vibe</target></trans-unit>
+      <trans-unit id="sys_reactions.reaction_type.description"><source>Select the reaction type to be configured.</source><target>Pick the reaction type to configure, fam.</target></trans-unit>
+      <trans-unit id="sys_reaction.reaction_type.select"><source>Select a reaction</source><target>Pick a reaction</target></trans-unit>
+      <trans-unit id="sys_reaction.reaction_type.create_record"><source>Create database record</source><target>Manifest a database record</target></trans-unit>
+      <trans-unit id="sys_reaction.impersonate_user"><source>Impersonate User</source><target>Impersonate a homie</target></trans-unit>
+      <trans-unit id="sys_reaction.impersonate_user.description"><source>Select the user with the appropriate access rights that is allowed to add a record of this type. If in doubt, use the CLI user.</source><target>Pick the user with the right access vibes who can add this record type. When in doubt, use the CLI user, bestie.</target></trans-unit>
+      <trans-unit id="sys_reaction.table_name"><source>Table</source><target>The table</target></trans-unit>
+      <trans-unit id="sys_reaction.table_name.description"><source>Select one tables to display the corresponding fields.</source><target>Pick a table to show the corresponding fields, fam.</target></trans-unit>
+      <trans-unit id="sys_reaction.table_name.select"><source>Select a table</source><target>Pick a table</target></trans-unit>
+      <trans-unit id="sys_reaction.storage_pid"><source>Storage PID</source><target>Storage PID, fam</target></trans-unit>
+      <trans-unit id="sys_reaction.storage_pid.description"><source>Select the page on which a new record is created on.</source><target>Pick the page where a new record gets manifested.</target></trans-unit>
+      <trans-unit id="sys_reaction.fields"><source>Fields</source><target>The fields</target></trans-unit>
+      <trans-unit id="sys_reaction.fields.description"><source>The available fields depend on the selected table. The usage of placeholders like ${foo.bar} is possible.</source><target>Available fields depend on the selected table. Placeholders like ${foo.bar} are valid, no cap.</target></trans-unit>
+      <trans-unit id="palette.config"><source>Configuration</source><target>Config</target></trans-unit>
+      <trans-unit id="palette.config.description"><source>General configuration of the reaction.</source><target>General config of the reaction, bestie.</target></trans-unit>
+      <trans-unit id="palette.additional"><source>Additional configuration</source><target>Extra config</target></trans-unit>
+      <trans-unit id="palette.additional.description"><source>Specific configuration for the selected reaction type</source><target>Specific config for the selected reaction type, ngl</target></trans-unit>
+      <trans-unit id="fieldMapElement.noFields"><source>The selected table '%s' does not define any valid fields to be configured.</source><target>The selected table '%s' has no valid fields to configure. It's giving nothing, bruh.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:frontend/Resources/Private/Language/locallang_ttc.xlf">
+    <header/>
+    <body>
+      <trans-unit id="CType_formlabel" x-unused-since="14.0">
+        <source>Type</source>
+        <target>The vibe</target>
+      </trans-unit>
+      <trans-unit id="layout.I.1">
+        <source>Layout 1</source>
+        <target>Drip 1</target>
+      </trans-unit>
+      <trans-unit id="layout.I.2">
+        <source>Layout 2</source>
+        <target>Drip 2</target>
+      </trans-unit>
+      <trans-unit id="layout.I.3">
+        <source>Layout 3</source>
+        <target>Drip 3</target>
+      </trans-unit>
+      <trans-unit id="colPos" x-unused-since="14.0">
+        <source>Columns</source>
+        <target>The columns</target>
+      </trans-unit>
+      <trans-unit id="colPos_formlabel" x-unused-since="14.0">
+        <source>Column</source>
+        <target>The column</target>
+      </trans-unit>
+      <trans-unit id="colPos.I.0">
+        <source>Left</source>
+        <target>Left side</target>
+      </trans-unit>
+      <trans-unit id="colPos.I.1">
+        <source>Normal</source>
+        <target>Regular, nothing special</target>
+      </trans-unit>
+      <trans-unit id="colPos.I.2">
+        <source>Right</source>
+        <target>Right side</target>
+      </trans-unit>
+      <trans-unit id="colPos.I.3">
+        <source>Border</source>
+        <target>The border</target>
+      </trans-unit>
+      <trans-unit id="colPos.I.unused">
+        <source>Unused</source>
+        <target>Ghosted</target>
+      </trans-unit>
+      <trans-unit id="date" x-unused-since="14.0">
+        <source>Date</source>
+        <target>When tho</target>
+      </trans-unit>
+      <trans-unit id="date_formlabel" x-unused-since="14.0">
+        <source>Date</source>
+        <target>When tho</target>
+      </trans-unit>
+      <trans-unit id="header" x-unused-since="14.0">
+        <source>Header</source>
+        <target>The header</target>
+      </trans-unit>
+      <trans-unit id="header_formlabel" x-unused-since="14.0">
+        <source>Header</source>
+        <target>The header</target>
+      </trans-unit>
+      <trans-unit id="header.ALT.shortcut_formlabel">
+        <source>Name (not visible in frontend)</source>
+        <target>Name (ghosted in frontend)</target>
+      </trans-unit>
+      <trans-unit id="header.ALT.script_formlabel" x-unused-since="14.0">
+        <source>Name (not visible in frontend)</source>
+        <target>Name (ghosted in frontend)</target>
+      </trans-unit>
+      <trans-unit id="header.ALT.div_formlabel">
+        <source>Name (not visible in frontend)</source>
+        <target>Name (ghosted in frontend)</target>
+      </trans-unit>
+      <trans-unit id="header.ALT.html_formlabel">
+        <source>Name (not visible in frontend)</source>
+        <target>Name (ghosted in frontend)</target>
+      </trans-unit>
+      <trans-unit id="header.description.ALT">
+        <source>The name won't be displayed as header above the element, but will be used as reference in menus.</source>
+        <target>The name won't show as a header above the element, but it'll be used as a reference in menus, ngl.</target>
+      </trans-unit>
+      <trans-unit id="header_position" x-unused-since="14.0">
+        <source>Align</source>
+        <target>Line it up</target>
+      </trans-unit>
+      <trans-unit id="header_position_formlabel" x-unused-since="14.0">
+        <source>Alignment</source>
+        <target>Alignment vibes</target>
+      </trans-unit>
+      <trans-unit id="header_position.I.1">
+        <source>Center</source>
+        <target>Dead center</target>
+      </trans-unit>
+      <trans-unit id="header_position.I.2">
+        <source>Right</source>
+        <target>Right side</target>
+      </trans-unit>
+      <trans-unit id="header_position.I.3">
+        <source>Left</source>
+        <target>Left side</target>
+      </trans-unit>
+      <trans-unit id="header_link" x-unused-since="14.0">
+        <source>Link</source>
+        <target>The link</target>
+      </trans-unit>
+      <trans-unit id="header_link_formlabel" x-unused-since="14.0">
+        <source>Link</source>
+        <target>The link</target>
+      </trans-unit>
+      <trans-unit id="header_layout_formlabel" x-unused-since="14.0">
+        <source>Type</source>
+        <target>The vibe</target>
+      </trans-unit>
+      <trans-unit id="header_layout.I.1">
+        <source>Layout 1</source>
+        <target>Drip 1</target>
+      </trans-unit>
+      <trans-unit id="header_layout.I.2">
+        <source>Layout 2</source>
+        <target>Drip 2</target>
+      </trans-unit>
+      <trans-unit id="header_layout.I.3">
+        <source>Layout 3</source>
+        <target>Drip 3</target>
+      </trans-unit>
+      <trans-unit id="header_layout.I.4">
+        <source>Layout 4</source>
+        <target>Drip 4</target>
+      </trans-unit>
+      <trans-unit id="header_layout.I.5">
+        <source>Layout 5</source>
+        <target>Drip 5</target>
+      </trans-unit>
+      <trans-unit id="header_layout.I.6">
+        <source>Hidden</source>
+        <target>Ghosted</target>
+      </trans-unit>
+      <trans-unit id="bullets_type">
+        <source>Type of bullets</source>
+        <target>Bullet type</target>
+      </trans-unit>
+      <trans-unit id="bullets_type.0">
+        <source>Unordered list (bullets)</source>
+        <target>Vibes list (bullets)</target>
+      </trans-unit>
+      <trans-unit id="bullets_type.1">
+        <source>Ordered list (numbers)</source>
+        <target>Ranked list (numbers)</target>
+      </trans-unit>
+      <trans-unit id="bullets_type.2">
+        <source>Definition list</source>
+        <target>Vocab list</target>
+      </trans-unit>
+      <trans-unit id="imagewidth" x-unused-since="14.0">
+        <source>Width (pixels)</source>
+        <target>How thicc (pixels)</target>
+      </trans-unit>
+      <trans-unit id="imagewidth_formlabel" x-unused-since="14.0">
+        <source>Width (px)</source>
+        <target>How thicc (px)</target>
+      </trans-unit>
+      <trans-unit id="imageheight" x-unused-since="14.0">
+        <source>Height (pixels)</source>
+        <target>How tall (pixels)</target>
+      </trans-unit>
+      <trans-unit id="imageheight_formlabel" x-unused-since="14.0">
+        <source>Height (px)</source>
+        <target>How tall (px)</target>
+      </trans-unit>
+      <trans-unit id="imageorient" x-unused-since="14.0">
+        <source>Position</source>
+        <target>Where it's at</target>
+      </trans-unit>
+      <trans-unit id="imageorient_formlabel" x-unused-since="14.0">
+        <source>Position and Alignment</source>
+        <target>Position and alignment vibes</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.0">
+        <source>Above, center</source>
+        <target>Up top, centered</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.1">
+        <source>Above, right</source>
+        <target>Up top, right</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.2">
+        <source>Above, left</source>
+        <target>Up top, left</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.3">
+        <source>Below, center</source>
+        <target>Down low, centered</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.4">
+        <source>Below, right</source>
+        <target>Down low, right</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.5">
+        <source>Below, left</source>
+        <target>Down low, left</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.6">
+        <source>In text, right</source>
+        <target>In the text, right side</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.7">
+        <source>In text, left</source>
+        <target>In the text, left side</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.9">
+        <source>Beside Text, Right</source>
+        <target>Beside text, right</target>
+      </trans-unit>
+      <trans-unit id="imageorient.I.10">
+        <source>Beside Text, Left</source>
+        <target>Beside text, left</target>
+      </trans-unit>
+      <trans-unit id="imageborder" x-unused-since="14.0">
+        <source>Border</source>
+        <target>The border</target>
+      </trans-unit>
+      <trans-unit id="imageborder_formlabel" x-unused-since="14.0">
+        <source>Border</source>
+        <target>The border</target>
+      </trans-unit>
+      <trans-unit id="image_zoom" x-unused-since="14.0">
+        <source>Click-enlarge</source>
+        <target>Click-zoom</target>
+      </trans-unit>
+      <trans-unit id="image_zoom_formlabel" x-unused-since="14.0">
+        <source>Enlarge on Click</source>
+        <target>Zoom in on click</target>
+      </trans-unit>
+      <trans-unit id="imagecols" x-unused-since="14.0">
+        <source>Columns</source>
+        <target>The columns</target>
+      </trans-unit>
+      <trans-unit id="imagecols_formlabel" x-unused-since="14.0">
+        <source>Number of Columns</source>
+        <target>Number of columns</target>
+      </trans-unit>
+      <trans-unit id="images.addFileReference">
+        <source>Add image</source>
+        <target>Drop an image</target>
+      </trans-unit>
+      <trans-unit id="cols">
+        <source>Columns</source>
+        <target>The columns</target>
+      </trans-unit>
+      <trans-unit id="cols.I.0">
+        <source>Auto</source>
+        <target>Auto, bestie</target>
+      </trans-unit>
+      <trans-unit id="recursive.I.0">
+        <source>0 levels (only selected page)</source>
+        <target>0 levels (just this page fr)</target>
+      </trans-unit>
+      <trans-unit id="recursive.I.1">
+        <source>1 level</source>
+        <target>1 level deep</target>
+      </trans-unit>
+      <trans-unit id="recursive.I.2">
+        <source>2 levels</source>
+        <target>2 levels deep</target>
+      </trans-unit>
+      <trans-unit id="recursive.I.3">
+        <source>3 levels</source>
+        <target>3 levels deep</target>
+      </trans-unit>
+      <trans-unit id="recursive.I.4">
+        <source>4 levels</source>
+        <target>4 levels deep</target>
+      </trans-unit>
+      <trans-unit id="recursive.I.5">
+        <source>Infinite</source>
+        <target>Infinite, sheesh</target>
+      </trans-unit>
+      <trans-unit id="media">
+        <source>Files</source>
+        <target>The files</target>
+      </trans-unit>
+      <trans-unit id="media.ALT.uploads_formlabel">
+        <source>Select single files</source>
+        <target>Pick single files</target>
+      </trans-unit>
+      <trans-unit id="media.addFileReference">
+        <source>Add file</source>
+        <target>Drop a file</target>
+      </trans-unit>
+      <trans-unit id="multimedia">
+        <source>File</source>
+        <target>The file</target>
+      </trans-unit>
+      <trans-unit id="multimedia_formlabel">
+        <source>Selected Media File</source>
+        <target>Selected media file</target>
+      </trans-unit>
+      <trans-unit id="file_collections">
+        <source>File collections</source>
+        <target>File collections, bestie</target>
+      </trans-unit>
+      <trans-unit id="file_collections.ALT.uploads_formlabel" x-unused-since="14.0">
+        <source>Select file collections</source>
+        <target>Pick file collections</target>
+      </trans-unit>
+      <trans-unit id="filelink_size" x-unused-since="14.0">
+        <source>Show File Size</source>
+        <target>Show file size</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting">
+        <source>Sort file list</source>
+        <target>Sort the file list fr</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.none">
+        <source>no sorting</source>
+        <target>no sorting, just vibes</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.extension">
+        <source>by file extension</source>
+        <target>by file extension ngl</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.name">
+        <source>by filename</source>
+        <target>by filename tho</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.type">
+        <source>by file type</source>
+        <target>by file type fr</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.size">
+        <source>by file size</source>
+        <target>by how thicc the file is</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.creation_date">
+        <source>by file creation date</source>
+        <target>by when the file dropped</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.modification_date">
+        <source>by file modification date</source>
+        <target>by last glow up date</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting.title">
+        <source>by file metadata title</source>
+        <target>by file metadata title fr</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting_direction">
+        <source>Sorting direction</source>
+        <target>Which way we sorting</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting_direction.ascending">
+        <source>Ascending (default)</source>
+        <target>Going up (default)</target>
+      </trans-unit>
+      <trans-unit id="filelink_sorting_direction.descending">
+        <source>Descending</source>
+        <target>Going down</target>
+      </trans-unit>
+      <trans-unit id="filelink_size_formlabel" x-unused-since="14.0">
+        <source>Display File Size Information</source>
+        <target>Display file size tea</target>
+      </trans-unit>
+      <trans-unit id="target">
+        <source>Target</source>
+        <target>Where it goes</target>
+      </trans-unit>
+      <trans-unit id="target.I.1">
+        <source>New window</source>
+        <target>Fresh window</target>
+      </trans-unit>
+      <trans-unit id="records">
+        <source>Items</source>
+        <target>The items</target>
+      </trans-unit>
+      <trans-unit id="records_formlabel">
+        <source>Records</source>
+        <target>The records</target>
+      </trans-unit>
+      <trans-unit id="space_before_class" x-unused-since="14.0">
+        <source>Space Before</source>
+        <target>Space before</target>
+      </trans-unit>
+      <trans-unit id="space_before_class_formlabel" x-unused-since="14.0">
+        <source>Space Before</source>
+        <target>Space before</target>
+      </trans-unit>
+      <trans-unit id="space_after_class" x-unused-since="14.0">
+        <source>Space After</source>
+        <target>Space after</target>
+      </trans-unit>
+      <trans-unit id="space_after_class_formlabel" x-unused-since="14.0">
+        <source>Space After</source>
+        <target>Space after</target>
+      </trans-unit>
+      <trans-unit id="space_class_none">
+        <source>None</source>
+        <target>Nah fam</target>
+      </trans-unit>
+      <trans-unit id="space_class_extra_small">
+        <source>Extra Small</source>
+        <target>Smol</target>
+      </trans-unit>
+      <trans-unit id="space_class_small">
+        <source>Small</source>
+        <target>Lil bit</target>
+      </trans-unit>
+      <trans-unit id="space_class_medium">
+        <source>Medium</source>
+        <target>Mid-sized</target>
+      </trans-unit>
+      <trans-unit id="space_class_large">
+        <source>Large</source>
+        <target>Thicc</target>
+      </trans-unit>
+      <trans-unit id="space_class_extra_large">
+        <source>Extra Large</source>
+        <target>Extra thicc</target>
+      </trans-unit>
+      <trans-unit id="frame_class" x-unused-since="14.0">
+        <source>Frame</source>
+        <target>The frame</target>
+      </trans-unit>
+      <trans-unit id="frame_class_formlabel" x-unused-since="14.0">
+        <source>Frame</source>
+        <target>The frame</target>
+      </trans-unit>
+      <trans-unit id="frame_class.default">
+        <source>Default</source>
+        <target>Default vibes</target>
+      </trans-unit>
+      <trans-unit id="frame_class.ruler_before">
+        <source>Ruler Before</source>
+        <target>Ruler before</target>
+      </trans-unit>
+      <trans-unit id="frame_class.ruler_after">
+        <source>Ruler After</source>
+        <target>Ruler after</target>
+      </trans-unit>
+      <trans-unit id="frame_class.indent">
+        <source>Indent</source>
+        <target>Scoot it over</target>
+      </trans-unit>
+      <trans-unit id="frame_class.indent_left">
+        <source>Indent, 33/66%</source>
+        <target>Scoot it, 33/66%</target>
+      </trans-unit>
+      <trans-unit id="frame_class.indent_right">
+        <source>Indent, 66/33%</source>
+        <target>Scoot it, 66/33%</target>
+      </trans-unit>
+      <trans-unit id="frame_class.none">
+        <source>No Frame</source>
+        <target>No frame</target>
+      </trans-unit>
+      <trans-unit id="sectionIndex" x-unused-since="14.0">
+        <source>Index</source>
+        <target>The index</target>
+      </trans-unit>
+      <trans-unit id="sectionIndex_formlabel" x-unused-since="14.0">
+        <source>Show in Section Menus</source>
+        <target>Show in section menus</target>
+      </trans-unit>
+      <trans-unit id="linkToTop" x-unused-since="14.0">
+        <source>To top</source>
+        <target>Back to top fr</target>
+      </trans-unit>
+      <trans-unit id="linkToTop_formlabel" x-unused-since="14.0">
+        <source>Append with Link to Top of Page</source>
+        <target>Slap a link to top on it</target>
+      </trans-unit>
+      <trans-unit id="pi_flexform">
+        <source>Plugin Options</source>
+        <target>Plugin options</target>
+      </trans-unit>
+      <trans-unit id="selected_categories">
+        <source>Selected categories</source>
+        <target>Picked categories</target>
+      </trans-unit>
+      <trans-unit id="category_field">
+        <source>Category field</source>
+        <target>Category field tho</target>
+      </trans-unit>
+      <trans-unit id="pages.ALT.menu_formlabel">
+        <source>Selected Pages</source>
+        <target>Selected pages</target>
+      </trans-unit>
+      <trans-unit id="pages.ALT.list_formlabel">
+        <source>Record Storage Page</source>
+        <target>Record storage page</target>
+      </trans-unit>
+      <trans-unit id="tabs.text">
+        <source>Text</source>
+        <target>The text</target>
+      </trans-unit>
+      <trans-unit id="tabs.media">
+        <source>Media</source>
+        <target>The media</target>
+      </trans-unit>
+      <trans-unit id="tabs.plugin">
+        <source>Plugin</source>
+        <target>The plugin</target>
+      </trans-unit>
+      <trans-unit id="subheader_formlabel" x-unused-since="14.0">
+        <source>Subheader</source>
+        <target>The subheader</target>
+      </trans-unit>
+      <trans-unit id="starttime_formlabel">
+        <source>Publish Date</source>
+        <target>Drop date</target>
+      </trans-unit>
+      <trans-unit id="endtime_formlabel">
+        <source>Expiration Date</source>
+        <target>Expiry date</target>
+      </trans-unit>
+      <trans-unit id="fe_group_formlabel">
+        <source>Usergroup Access Rights</source>
+        <target>Squad access rights</target>
+      </trans-unit>
+      <trans-unit id="layout_formlabel" x-unused-since="14.0">
+        <source>Layout</source>
+        <target>The drip</target>
+      </trans-unit>
+      <trans-unit id="bodytext_formlabel" x-unused-since="14.0">
+        <source>Text</source>
+        <target>The text</target>
+      </trans-unit>
+      <trans-unit id="bodytext.ALT.bulletlist_formlabel">
+        <source>Bullet List</source>
+        <target>Bullet list</target>
+      </trans-unit>
+      <trans-unit id="bodytext.ALT.html_formlabel">
+        <source>HTML Code</source>
+        <target>HTML code</target>
+      </trans-unit>
+      <trans-unit id="field.default.hidden" x-unused-since="14.0">
+        <source>Visibility of content element</source>
+        <target>Ghost status of content element</target>
+      </trans-unit>
+      <trans-unit id="field.table.bodytext">
+        <source>Table content</source>
+        <target>Table content fr</target>
+      </trans-unit>
+      <trans-unit id="palette.general" x-unused-since="14.0">
+        <source>Content Element</source>
+        <target>Content element</target>
+      </trans-unit>
+      <trans-unit id="palette.headers" x-unused-since="14.0">
+        <source>Headlines</source>
+        <target>The headlines</target>
+      </trans-unit>
+      <trans-unit id="palette.header" x-unused-since="14.0">
+        <source>Header</source>
+        <target>The header</target>
+      </trans-unit>
+      <trans-unit id="palette.visibility" x-unused-since="14.0">
+        <source>Visibility</source>
+        <target>Ghost status</target>
+      </trans-unit>
+      <trans-unit id="palette.access" x-unused-since="14.0">
+        <source>Publish Dates and Access Rights</source>
+        <target>Drop dates and access rights</target>
+      </trans-unit>
+      <trans-unit id="palette.frames" x-unused-since="14.0">
+        <source>Content Element Layout</source>
+        <target>Content element layout</target>
+      </trans-unit>
+      <trans-unit id="palette.imagelinks" x-unused-since="14.0">
+        <source>Behavior</source>
+        <target>How it acts</target>
+      </trans-unit>
+      <trans-unit id="palette.image_accessibility" x-unused-since="14.0">
+        <source>Accessibility</source>
+        <target>Accessibility vibes</target>
+      </trans-unit>
+      <trans-unit id="palette.uploads_layout" x-unused-since="14.0">
+        <source>Filelinks Layout</source>
+        <target>File links layout</target>
+      </trans-unit>
+      <trans-unit id="palette.table_layout" x-unused-since="14.0">
+        <source>Table Layout</source>
+        <target>Table layout</target>
+      </trans-unit>
+      <trans-unit id="palette.appearanceLinks" x-unused-since="14.0">
+        <source>Links</source>
+        <target>The links</target>
+      </trans-unit>
+      <trans-unit id="tabs.access">
+        <source>Access</source>
+        <target>Who gets in</target>
+      </trans-unit>
+      <trans-unit id="tabs.appearance">
+        <source>Appearance</source>
+        <target>Aesthetic</target>
+      </trans-unit>
+      <trans-unit id="tabs.behaviour">
+        <source>Behavior</source>
+        <target>How it acts</target>
+      </trans-unit>
+      <trans-unit id="tabs.images">
+        <source>Images</source>
+        <target>The pics</target>
+      </trans-unit>
+      <trans-unit id="tabs.extended">
+        <source>Extended</source>
+        <target>Extra</target>
+      </trans-unit>
+      <trans-unit id="tabs.accessibility">
+        <source>Accessibility</source>
+        <target>Accessibility vibes</target>
+      </trans-unit>
+      <trans-unit id="group.default">
+        <source>Typical page content</source>
+        <target>Basic page content ngl</target>
+      </trans-unit>
+      <trans-unit id="group.lists">
+        <source>Lists</source>
+        <target>The lists</target>
+      </trans-unit>
+      <trans-unit id="group.menu">
+        <source>Menu</source>
+        <target>The menu</target>
+      </trans-unit>
+      <trans-unit id="group.forms">
+        <source>Form elements</source>
+        <target>Form elements fr</target>
+      </trans-unit>
+      <trans-unit id="group.special">
+        <source>Special elements</source>
+        <target>Special elements, bestie</target>
+      </trans-unit>
+      <trans-unit id="group.plugins">
+        <source>Plugins</source>
+        <target>The plugins</target>
+      </trans-unit>
+      <trans-unit id="CType.header">
+        <source>Header Only</source>
+        <target>Header only</target>
+      </trans-unit>
+      <trans-unit id="CType.header.description">
+        <source>Adds a header only.</source>
+        <target>Just drops a header, no cap.</target>
+      </trans-unit>
+      <trans-unit id="CType.text">
+        <source>Regular Text Element</source>
+        <target>Regular text element</target>
+      </trans-unit>
+      <trans-unit id="CType.text.description">
+        <source>A regular text element with header and bodytext fields.</source>
+        <target>A regular text element with header and bodytext fields, bestie.</target>
+      </trans-unit>
+      <trans-unit id="CType.textpic">
+        <source>Text &amp; Images</source>
+        <target>Text &amp; images</target>
+      </trans-unit>
+      <trans-unit id="CType.textpic.description">
+        <source>Any number of images wrapped right around a regular text element.</source>
+        <target>Any number of images wrapped around a regular text element, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="CType.textmedia">
+        <source>Text &amp; Media</source>
+        <target>Text &amp; media</target>
+      </trans-unit>
+      <trans-unit id="CType.textmedia.description">
+        <source>Any number of media wrapped right around a regular text element.</source>
+        <target>Any number of media wrapped around a regular text element, bussin.</target>
+      </trans-unit>
+      <trans-unit id="CType.image">
+        <source>Images Only</source>
+        <target>Images only</target>
+      </trans-unit>
+      <trans-unit id="CType.image.description">
+        <source>Any number of images aligned in columns and rows with a caption.</source>
+        <target>Any number of images in columns and rows with a caption, slay.</target>
+      </trans-unit>
+      <trans-unit id="CType.bullets">
+        <source>Bullet List</source>
+        <target>Bullet list</target>
+      </trans-unit>
+      <trans-unit id="CType.bullets.description">
+        <source>A single bullet list.</source>
+        <target>A single bullet list, bestie.</target>
+      </trans-unit>
+      <trans-unit id="CType.table">
+        <source>Table</source>
+        <target>Table</target>
+      </trans-unit>
+      <trans-unit id="CType.table.description">
+        <source>A simple table.</source>
+        <target>A simple table, ngl.</target>
+      </trans-unit>
+      <trans-unit id="CType.uploads">
+        <source>File Links</source>
+        <target>File links</target>
+      </trans-unit>
+      <trans-unit id="CType.uploads.description">
+        <source>Makes a list of files for download.</source>
+        <target>Makes a list of files for download, fam.</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_abstract">
+        <source>Abstracts</source>
+        <target>TLDRs</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_abstract.description">
+        <source>Menu of subpages of selected pages including abstracts</source>
+        <target>Menu of subpages with TLDRs included</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_categorized_content">
+        <source>Categorized content</source>
+        <target>Sorted content by category</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_categorized_content.description">
+        <source>Content elements for selected categories</source>
+        <target>Content elements for the categories you picked</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_categorized_pages">
+        <source>Categorized pages</source>
+        <target>Pages sorted by category</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_categorized_pages.description">
+        <source>Pages for selected categories</source>
+        <target>Pages for the categories you picked</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_pages">
+        <source>Pages</source>
+        <target>The pages</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_pages.description">
+        <source>Menu of selected pages</source>
+        <target>Menu of pages you picked</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_subpages">
+        <source>Subpages</source>
+        <target>The subpages</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_subpages.description">
+        <source>Menu of subpages of selected pages</source>
+        <target>Menu of subpages from the pages you picked</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_recently_updated">
+        <source>Recently updated pages</source>
+        <target>Recently refreshed pages</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_recently_updated.description">
+        <source>Menu of recently updated pages</source>
+        <target>Menu of recently refreshed pages</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_related_pages">
+        <source>Related pages</source>
+        <target>Pages with similar energy</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_related_pages.description">
+        <source>Menu of related pages based on keywords</source>
+        <target>Menu of related pages based on keywords, bestie</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_section">
+        <source>Section index</source>
+        <target>Section index fr</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_section.description">
+        <source>Page content marked for section menus</source>
+        <target>Page content tagged for section menus ngl</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_section_pages">
+        <source>Section index of subpages from selected pages</source>
+        <target>Section index of subpages from your picked pages</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_section_pages.description">
+        <source>Menu of subpages of selected pages including sections</source>
+        <target>Menu of subpages with sections included</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_sitemap">
+        <source>Sitemap</source>
+        <target>The sitemap</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_sitemap.description">
+        <source>Expanded menu of all subpages of the current site</source>
+        <target>Full expanded menu of all subpages of the current site, sheesh</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_sitemap_pages">
+        <source>Sitemaps of selected pages</source>
+        <target>Sitemaps of your picked pages</target>
+      </trans-unit>
+      <trans-unit id="CType.menu_sitemap_pages.description">
+        <source>Expanded menu of all subpages for selected pages</source>
+        <target>Full expanded menu of all subpages for selected pages</target>
+      </trans-unit>
+      <trans-unit id="CType.shortcut">
+        <source>Insert records</source>
+        <target>Drop in some records</target>
+      </trans-unit>
+      <trans-unit id="CType.shortcut.description">
+        <source>With this element you can embed other content elements.</source>
+        <target>With this you can embed other content elements, bestie.</target>
+      </trans-unit>
+      <trans-unit id="CType.list">
+        <source>General Plugin</source>
+        <target>General plugin</target>
+      </trans-unit>
+      <trans-unit id="CType.list.description">
+        <source>Select this element type to insert a plugin which cannot be found amongst the options below.</source>
+        <target>Pick this element type to insert a plugin that's not in the options below, ngl.</target>
+      </trans-unit>
+      <trans-unit id="CType.div">
+        <source>Divider</source>
+        <target>The divider</target>
+      </trans-unit>
+      <trans-unit id="CType.div.description">
+        <source>This element inserts a visual divider, which is by default a horizontal line.</source>
+        <target>This drops a visual divider, which is a horizontal line by default.</target>
+      </trans-unit>
+      <trans-unit id="CType.html">
+        <source>Plain HTML</source>
+        <target>Raw HTML</target>
+      </trans-unit>
+      <trans-unit id="CType.html.description">
+        <source>With this element you can insert raw HTML code on the page.</source>
+        <target>With this you can drop raw HTML code on the page, bestie.</target>
+      </trans-unit>
+      <trans-unit id="asset_references">
+        <source>Media elements</source>
+        <target>The media elements</target>
+      </trans-unit>
+      <trans-unit id="asset_references.addFileReference">
+        <source>Add media file</source>
+        <target>Drop a media file</target>
+      </trans-unit>
+      <trans-unit id="palette.gallerySettings" x-unused-since="14.0">
+        <source>Gallery Settings</source>
+        <target>Gallery settings</target>
+      </trans-unit>
+      <trans-unit id="palette.mediaAdjustments" x-unused-since="14.0">
+        <source>Media Adjustments</source>
+        <target>Media adjustments</target>
+      </trans-unit>
+      <trans-unit id="palette.mediaAdjustments.imagewidth" x-unused-since="14.0">
+        <source>Width of each element (px)</source>
+        <target>How thicc each element is (px)</target>
+      </trans-unit>
+      <trans-unit id="palette.mediaAdjustments.imageheight" x-unused-since="14.0">
+        <source>Height of each element (px)</source>
+        <target>How tall each element is (px)</target>
+      </trans-unit>
+      <trans-unit id="palette.mediaAdjustments.imageborder" x-unused-since="14.0">
+        <source>Border around each element</source>
+        <target>Border around each element fr</target>
+      </trans-unit>
+      <trans-unit id="uploads_description">
+        <source>Display description</source>
+        <target>Show description</target>
+      </trans-unit>
+      <trans-unit id="uploads_type">
+        <source>Display file/icon/thumbnail</source>
+        <target>Show file/icon/thumbnail</target>
+      </trans-unit>
+      <trans-unit id="uploads_type.0">
+        <source>Only file name</source>
+        <target>Just the file name</target>
+      </trans-unit>
+      <trans-unit id="uploads_type.1">
+        <source>File name and file extension icon</source>
+        <target>File name plus extension icon</target>
+      </trans-unit>
+      <trans-unit id="uploads_type.2">
+        <source>File name and thumbnail (if possible)</source>
+        <target>File name and thumbnail (if it can)</target>
+      </trans-unit>
+      <trans-unit id="table_class">
+        <source>Table style</source>
+        <target>Table aesthetic</target>
+      </trans-unit>
+      <trans-unit id="table_class.default">
+        <source>Default</source>
+        <target>Default vibes</target>
+      </trans-unit>
+      <trans-unit id="table_class.striped">
+        <source>Striped</source>
+        <target>Striped fr</target>
+      </trans-unit>
+      <trans-unit id="table_class.bordered">
+        <source>Bordered</source>
+        <target>Got borders</target>
+      </trans-unit>
+      <trans-unit id="table_caption">
+        <source>Table caption</source>
+        <target>Table caption tho</target>
+      </trans-unit>
+      <trans-unit id="table_delimiter">
+        <source>Field Delimiter</source>
+        <target>Field delimiter</target>
+      </trans-unit>
+      <trans-unit id="table_delimiter.124">
+        <source>| (Pipe)</source>
+        <target>| (Pipe)</target>
+      </trans-unit>
+      <trans-unit id="table_delimiter.59">
+        <source>; (Semicolon)</source>
+        <target>; (Semicolon)</target>
+      </trans-unit>
+      <trans-unit id="table_delimiter.58">
+        <source>: (Colon)</source>
+        <target>: (Colon)</target>
+      </trans-unit>
+      <trans-unit id="table_delimiter.44">
+        <source>, (Comma)</source>
+        <target>, (Comma)</target>
+      </trans-unit>
+      <trans-unit id="table_delimiter.9">
+        <source>⇥ (Tab)</source>
+        <target>⇥ (Tab)</target>
+      </trans-unit>
+      <trans-unit id="table_enclosure">
+        <source>Text enclosure</source>
+        <target>Text wrapper vibes</target>
+      </trans-unit>
+      <trans-unit id="table_enclosure.0">
+        <source>None</source>
+        <target>Nah fam</target>
+      </trans-unit>
+      <trans-unit id="table_enclosure.39">
+        <source>' (Single quotes)</source>
+        <target>' (Single quotes)</target>
+      </trans-unit>
+      <trans-unit id="table_enclosure.34">
+        <source>" (Double quotes)</source>
+        <target>" (Double quotes)</target>
+      </trans-unit>
+      <trans-unit id="table_header_position">
+        <source>Table header position</source>
+        <target>Where the table header's at</target>
+      </trans-unit>
+      <trans-unit id="table_header_position.0">
+        <source>No header</source>
+        <target>No header fr</target>
+      </trans-unit>
+      <trans-unit id="table_header_position.1">
+        <source>Top</source>
+        <target>Up top</target>
+      </trans-unit>
+      <trans-unit id="table_header_position.2">
+        <source>Left</source>
+        <target>Left side</target>
+      </trans-unit>
+      <trans-unit id="table_tfoot">
+        <source>Use table footer (wrap last row with &lt;tfoot&gt; tags)</source>
+        <target>Use table footer (wrap last row with &lt;tfoot&gt; tags fr)</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

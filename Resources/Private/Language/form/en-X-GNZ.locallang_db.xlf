@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:form/Resources/Private/Language/locallang_db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="form_definition">
+        <source>Form definition</source>
+        <target>Form blueprint, fam</target>
+      </trans-unit>
+      <trans-unit id="form_definition.label">
+        <source>Name</source>
+        <target>Name, bestie</target>
+      </trans-unit>
+      <trans-unit id="form_definition.identifier">
+        <source>Identifier</source>
+        <target>Identifier, fam</target>
+      </trans-unit>
+      <trans-unit id="form_definition.configuration">
+        <source>Configuration</source>
+        <target>Config, bestie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:reports/Resources/Private/Language/Modules/overview.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description"><source>System monitoring and analysis reports</source><target>System monitoring and tea reports</target></trans-unit>
+      <trans-unit id="description"><source>Access reports for monitoring and analyzing the TYPO3 installation including system status checks, database statistics, and custom reports provided by extensions.</source><target>Access tea reports for monitoring and analyzing your TYPO3 installation. System status vibe checks, database stats, and custom tea reports from extensions. We spill it all here, bestie.</target></trans-unit>
+      <trans-unit id="title"><source>Reports</source><target>Tea Reports</target></trans-unit>
+    </body>
+  </file>
+</xliff>

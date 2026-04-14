@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:adminpanel/Resources/Private/Language/locallang_tsdebug.xlf">
+    <header/>
+    <body>
+      <trans-unit id="module.label">
+        <source>TypoScript</source>
+        <target>TypoScript</target>
+      </trans-unit>
+      <trans-unit id="module.shortinfo">
+        <source>(%s Messages)</source>
+        <target>(%s messages, ngl)</target>
+      </trans-unit>
+      <trans-unit id="treeDisplay">
+        <source>Tree display</source>
+        <target>Tree display, fr fr</target>
+      </trans-unit>
+      <trans-unit id="displayTimes">
+        <source>Display all times</source>
+        <target>Show all the times, fam</target>
+      </trans-unit>
+      <trans-unit id="displayMessages">
+        <source>Display messages</source>
+        <target>Show the DMs</target>
+      </trans-unit>
+      <trans-unit id="displayContent">
+        <source>Display content</source>
+        <target>Show the content, bestie</target>
+      </trans-unit>
+      <trans-unit id="trackContentRendering">
+        <source>Track content rendering</source>
+        <target>Stalk content rendering</target>
+      </trans-unit>
+      <trans-unit id="forceTemplateParsing">
+        <source>Force TS Rendering</source>
+        <target>Force TS rendering, no cap</target>
+      </trans-unit>
+      <trans-unit id="sub.waterfall.label">
+        <source>TS Tree</source>
+        <target>TS tree, fam</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

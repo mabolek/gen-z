@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_siteconfiguration_tca.xlf">
+    <header/>
+    <body>
+      <trans-unit id="site.ctrl.title">
+        <source>Site Configuration</source>
+        <target>Site Config, bestie</target>
+      </trans-unit>
+      <trans-unit id="site.identifier">
+        <source>Site Identifier</source>
+        <target>Site tag (your ID)</target>
+      </trans-unit>
+      <trans-unit id="site.rootPageId">
+        <source>Root Page ID</source>
+        <target>Root Page ID (the OG page)</target>
+      </trans-unit>
+      <trans-unit id="site.base">
+        <source>Entry Point</source>
+        <target>Entry Point (where the vibes start)</target>
+      </trans-unit>
+      <trans-unit id="site.websiteTitle">
+        <source>Website title</source>
+        <target>Website name (your brand bestie)</target>
+      </trans-unit>
+      <trans-unit id="site.baseVariants">
+        <source>Variants for the Entry Point</source>
+        <target>Variants for the Entry Point (alternate skins)</target>
+      </trans-unit>
+      <trans-unit id="site.dependencies">
+        <source>Sets for this Site</source>
+        <target>Sets for this Site (the squad)</target>
+      </trans-unit>
+      <trans-unit id="site.languages">
+        <source>Available Languages for this Site</source>
+        <target>Available Languages for this Site (multilingual flex)</target>
+      </trans-unit>
+      <trans-unit id="site.languages.choosePreset">
+        <source>Choose a preset...</source>
+        <target>Pick a preset bestie...</target>
+      </trans-unit>
+      <trans-unit id="site.languages.chooseExistingFromOtherSite">
+        <source>Use Language from existing site...</source>
+        <target>Yoink a language from an existing site...</target>
+      </trans-unit>
+      <trans-unit id="site.languages.description">
+        <source>Select an already existing language from another site or create a new one.</source>
+        <target>Yoink a language from another site or manifest a new one, no cap.</target>
+      </trans-unit>
+      <trans-unit id="site.languages.new">
+        <source>New language</source>
+        <target>Fresh language</target>
+      </trans-unit>
+      <trans-unit id="site.languages.createNew">
+        <source>Create new language</source>
+        <target>Manifest fresh language</target>
+      </trans-unit>
+      <trans-unit id="site.errorHandling">
+        <source>Error Handling</source>
+        <target>Error Handling (when it crashes)</target>
+      </trans-unit>
+      <trans-unit id="site.routes">
+        <source>Routes</source>
+        <target>Routes (the paths)</target>
+      </trans-unit>
+      <trans-unit id="site.routes.irreHeader.redirectsTo">
+        <source>redirects to</source>
+        <target>redirects to (goes here)</target>
+      </trans-unit>
+      <trans-unit id="site.tab.languages">
+        <source>Languages</source>
+        <target>Languages (multilingual flex)</target>
+      </trans-unit>
+      <trans-unit id="site.tab.errorHandling">
+        <source>Error Handling</source>
+        <target>Error Handling (damage control)</target>
+      </trans-unit>
+      <trans-unit id="site.tab.routes">
+        <source>Static Routes</source>
+        <target>Static Routes (the fixed paths)</target>
+      </trans-unit>
+      <trans-unit id="site_language.palette.frontend">
+        <source>Frontend related</source>
+        <target>Frontend stuff (what the homies see)</target>
+      </trans-unit>
+      <trans-unit id="site_language.ctrl.title">
+        <source>Language Configuration for a Site</source>
+        <target>Language Config for a Site</target>
+      </trans-unit>
+      <trans-unit id="site_language.language">
+        <source>Language</source>
+        <target>The Language</target>
+      </trans-unit>
+      <trans-unit id="site_language.languageId">
+        <source>Language ID</source>
+        <target>Language ID (the number)</target>
+      </trans-unit>
+      <trans-unit id="site_language.title">
+        <source>Title</source>
+        <target>The Title</target>
+      </trans-unit>
+      <trans-unit id="site_language.websiteTitle">
+        <source>Website title</source>
+        <target>Website title (brand name)</target>
+      </trans-unit>
+      <trans-unit id="site_language.navigationTitle">
+        <source>Navigation Title</source>
+        <target>Nav Title</target>
+      </trans-unit>
+      <trans-unit id="site_language.base">
+        <source>Entry Point</source>
+        <target>Entry Point (the door)</target>
+      </trans-unit>
+      <trans-unit id="site_language.locale">
+        <source>Locale</source>
+        <target>Locale (regional vibes)</target>
+      </trans-unit>
+      <trans-unit id="site_language.hreflang">
+        <source>Alternative attribute for "hreflang" tags</source>
+        <target>Alt attribute for "hreflang" tags (SEO flex)</target>
+      </trans-unit>
+      <trans-unit id="site_language.enabled">
+        <source>Visible in Frontend</source>
+        <target>Visible in Frontend (not ghosted)</target>
+      </trans-unit>
+      <trans-unit id="site_language.flag">
+        <source>Flag icon</source>
+        <target>Flag icon (country drip)</target>
+      </trans-unit>
+      <trans-unit id="site_language.flag.group.colors">
+        <source>Colors</source>
+        <target>Colors (color drip)</target>
+      </trans-unit>
+      <trans-unit id="site_language.flag.group.countries">
+        <source>Countries</source>
+        <target>Countries (world tour)</target>
+      </trans-unit>
+      <trans-unit id="site_language.flag.group.misc">
+        <source>Miscellaneous</source>
+        <target>Miscellaneous stuff</target>
+      </trans-unit>
+      <trans-unit id="site_language.fallbackType">
+        <source>Fallback Type</source>
+        <target>Fallback Type (Plan B)</target>
+      </trans-unit>
+      <trans-unit id="site_language.fallbackType.strict">
+        <source>Strict: Show only translated content, based on overlays</source>
+        <target>Strict: Only show translated content, everything else gets ghosted</target>
+      </trans-unit>
+      <trans-unit id="site_language.fallbackType.fallback">
+        <source>Fallback: Show default language if no translation exists</source>
+        <target>Fallback: Show the mid default language if no translation exists</target>
+      </trans-unit>
+      <trans-unit id="site_language.fallbackType.free">
+        <source>Free mode: Ignore translation and overlay concept, only show data from selected language</source>
+        <target>YOLO mode: Ignore the translation thing, only show data from selected language</target>
+      </trans-unit>
+      <trans-unit id="site_language.fallbacks">
+        <source>Fallback to other Language(s) - order is important!</source>
+        <target>Fallback to other Language(s) - order matters bestie!</target>
+      </trans-unit>
+      <trans-unit id="site_base_variant.ctrl.title">
+        <source>Base</source>
+        <target>The Base</target>
+      </trans-unit>
+      <trans-unit id="site_base_variant.base">
+        <source>Base</source>
+        <target>The Base</target>
+      </trans-unit>
+      <trans-unit id="site_base_variant.base.placeholder">
+        <source>www.domain.local</source>
+        <target>www.domain.local</target>
+      </trans-unit>
+      <trans-unit id="site_base_variant.condition">
+        <source>Condition</source>
+        <target>Condition (vibe check)</target>
+      </trans-unit>
+      <trans-unit id="site_base_variant.condition.placeholder">
+        <source>applicationContext == "Production"</source>
+        <target>applicationContext == "Production"</target>
+      </trans-unit>
+      <trans-unit id="site_base_variant.condition.applicationContext">
+        <source>Application Context</source>
+        <target>App Context (the vibe)</target>
+      </trans-unit>
+      <trans-unit id="site_base_variant.condition.environmentVariable">
+        <source>Environment Variable</source>
+        <target>Env Variable (the setting)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.ctrl.title">
+        <source>Error Handling</source>
+        <target>Error Handling (damage control)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.tab.rootpaths">
+        <source>Root Paths (optional)</source>
+        <target>Root Paths (optional, no pressure)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorCode">
+        <source>HTTP Error Status Code</source>
+        <target>HTTP Error Status Code (the L code)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorCode.404">
+        <source>404 (Page not found)</source>
+        <target>404 (Page got ghosted - not found)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorCode.403">
+        <source>403 (Forbidden)</source>
+        <target>403 (Gatekept - you shall not pass)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorCode.500">
+        <source>500 (Internal Server Error)</source>
+        <target>500 (Server is having a breakdown)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorCode.503">
+        <source>503 (Service Unavailable)</source>
+        <target>503 (Service is on break, chill)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorCode.0">
+        <source>any error not defined otherwise</source>
+        <target>any other error that isn't defined elsewhere</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorHandler">
+        <source>How to handle Errors</source>
+        <target>How to handle the L's</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorHandler.fluid">
+        <source>Fluid Template</source>
+        <target>Fluid Template (the template)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorHandler.page">
+        <source>Show Content from Page</source>
+        <target>Show vibes from a Page</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorHandler.php">
+        <source>PHP Class (must implement the PageErrorHandlerInterface)</source>
+        <target>PHP Class (must implement the PageErrorHandlerInterface no cap)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorHandler.loginRedirect">
+        <source>Redirect to login page</source>
+        <target>Send them to the login page</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorFluidTemplate">
+        <source>Fluid Template File</source>
+        <target>Fluid Template File (the template path)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorFluidTemplate.placeholder">
+        <source>EXT:my_sitepackage/Resources/Private/Templates/Sites/Error.html</source>
+        <target>EXT:my_sitepackage/Resources/Private/Templates/Sites/Error.html</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorFluidTemplatesRootPath">
+        <source>Fluid Templates Root Path</source>
+        <target>Fluid Templates Root Path (where the templates live)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorFluidLayoutsRootPath">
+        <source>Fluid Layouts Root Path</source>
+        <target>Fluid Layouts Root Path (where the layouts live)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorFluidPartialsRootPath">
+        <source>Fluid Partials Root Path</source>
+        <target>Fluid Partials Root Path (where the partials live)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorContentSource">
+        <source>Show Content from Page</source>
+        <target>Show vibes from a Page</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorPhpClassFQCN">
+        <source>ErrorHandler Class Target (FQCN)</source>
+        <target>ErrorHandler Class Target (FQCN - the full name)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.loginRedirectTarget">
+        <source>Target page where login process is handled</source>
+        <target>Target page where the login process goes down</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.loginRedirectParameter">
+        <source>URL parameter for redirect</source>
+        <target>URL parameter for redirect fam</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.loginRedirectParameter.return_url">
+        <source>return_url (used by e.g. ext:felogin)</source>
+        <target>return_url (used by e.g. ext:felogin)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.loginRedirectParameter.redirect_url">
+        <source>redirect_url (used by e.g. ext:oidc or ext:felogin)</source>
+        <target>redirect_url (used by e.g. ext:oidc or ext:felogin)</target>
+      </trans-unit>
+      <trans-unit id="site_errorhandling.errorPhpClassFQCN.placeholder">
+        <source>Vendor\ExtensionName\ErrorHandlers\GenericErrorhandler</source>
+        <target>Vendor\ExtensionName\ErrorHandlers\GenericErrorhandler</target>
+      </trans-unit>
+      <trans-unit id="site_route.ctrl.title">
+        <source>Routes</source>
+        <target>Routes (the paths)</target>
+      </trans-unit>
+      <trans-unit id="site_route.type">
+        <source>Route Type</source>
+        <target>Route Type (what kind)</target>
+      </trans-unit>
+      <trans-unit id="site_route.staticText">
+        <source>Static Text</source>
+        <target>Static Text (NPC text)</target>
+      </trans-unit>
+      <trans-unit id="site_route.staticText.example1">
+        <source>robots.txt Example Content</source>
+        <target>robots.txt Example Content</target>
+      </trans-unit>
+      <trans-unit id="site_route.source">
+        <source>Page, File or URL</source>
+        <target>Page, File or URL (the source)</target>
+      </trans-unit>
+      <trans-unit id="site_route.asset">
+        <source>Static Asset</source>
+        <target>Static Asset (the file)</target>
+      </trans-unit>
+      <trans-unit id="site_route.asset.example">
+        <source>Example asset</source>
+        <target>Example asset</target>
+      </trans-unit>
+      <trans-unit id="site_route.route">
+        <source>Static Route Name</source>
+        <target>Static Route Name (what it's called)</target>
+      </trans-unit>
+      <trans-unit id="site_route.route.placeholder">
+        <source>my-custom_route</source>
+        <target>my-custom_route</target>
+      </trans-unit>
+      <trans-unit id="site_route.route.example1">
+        <source>robots.txt</source>
+        <target>robots.txt</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

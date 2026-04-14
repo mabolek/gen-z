@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_show_rechis.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>History/Undo</source>
+        <target>Caught in 4K / Undo (time travel bestie)</target>
+      </trans-unit>
+      <trans-unit id="headline.titleOf">
+        <source>of</source>
+        <target>of (bestie)</target>
+      </trans-unit>
+      <trans-unit id="time">
+        <source>Time</source>
+        <target>When tho?</target>
+      </trans-unit>
+      <trans-unit id="user">
+        <source>User</source>
+        <target>Homie (who did it?)</target>
+      </trans-unit>
+      <trans-unit id="workspace">
+        <source>Workspace</source>
+        <target>The Workspace</target>
+      </trans-unit>
+      <trans-unit id="column.action">
+        <source>Action</source>
+        <target>Caught in 4K (what happened?)</target>
+      </trans-unit>
+      <trans-unit id="column.recordTitle">
+        <source>Title</source>
+        <target>The Title</target>
+      </trans-unit>
+      <trans-unit id="differences">
+        <source>Differences</source>
+        <target>Differences (spot the diff)</target>
+      </trans-unit>
+      <trans-unit id="changes">
+        <source>Changelog</source>
+        <target>Changelog (spilling the tea)</target>
+      </trans-unit>
+      <trans-unit id="return">
+        <source>Return</source>
+        <target>Go back</target>
+      </trans-unit>
+      <trans-unit id="returnLink">
+        <source>Click here to go back</source>
+        <target>Click here to go back bestie</target>
+      </trans-unit>
+      <trans-unit id="revertAll">
+        <source>Rollback all changes shown</source>
+        <target>Rollback all shown changes, yolo</target>
+      </trans-unit>
+      <trans-unit id="revertRecord">
+        <source>Rollback single record</source>
+        <target>Rollback a single record</target>
+      </trans-unit>
+      <trans-unit id="revertField">
+        <source>Rollback single field</source>
+        <target>Rollback a single field</target>
+      </trans-unit>
+      <trans-unit id="userNotFound">
+        <source>Not found (non-existent user)</source>
+        <target>Not found (ghost homie)</target>
+      </trans-unit>
+      <trans-unit id="externalChange">
+        <source>Automated process (missing user information)</source>
+        <target>Automated process (NPC action, no homie known)</target>
+      </trans-unit>
+      <trans-unit id="viaUser">
+        <source>via</source>
+        <target>thru</target>
+      </trans-unit>
+      <trans-unit id="sumUpChanges">
+        <source>Rollback all changes to this state (preview)</source>
+        <target>Rollback all changes to this state (sneak peek)</target>
+      </trans-unit>
+      <trans-unit id="markState">
+        <source>mark this change</source>
+        <target>Caught in 4K: mark this change</target>
+      </trans-unit>
+      <trans-unit id="unmarkState">
+        <source>unMark this change</source>
+        <target>unmark this change</target>
+      </trans-unit>
+      <trans-unit id="elementHistory">
+        <source>You are currently seeing the history for an element</source>
+        <target>Caught in 4K: You're peeping the history for an element rn</target>
+      </trans-unit>
+      <trans-unit id="elementHistory_link">
+        <source>Show the full page history</source>
+        <target>Show the full page history (receipts)</target>
+      </trans-unit>
+      <trans-unit id="linkRecordHistory">
+        <source>Limit history to this record</source>
+        <target>Limit history to this record only</target>
+      </trans-unit>
+      <trans-unit id="differenceMsg">
+        <source>In the Difference column you can see the changes at every modification of records. New changes are displayed in green colored text and the red colored text are the old values which were removed.</source>
+        <target>In the Differences column you can peep the changes at every record modification. New changes are in green (W!) and the red text shows old values that got yeeted.</target>
+      </trans-unit>
+      <trans-unit id="fullView">
+        <source>Return to full view</source>
+        <target>Go back to full view</target>
+      </trans-unit>
+      <trans-unit id="historyRow.actiontype.1">
+        <source>created</source>
+        <target>manifested (fresh drop)</target>
+      </trans-unit>
+      <trans-unit id="historyRow.actiontype.2">
+        <source>modified</source>
+        <target>glowed up (edited)</target>
+      </trans-unit>
+      <trans-unit id="historyRow.actiontype.3">
+        <source>moved</source>
+        <target>slid over (moved)</target>
+      </trans-unit>
+      <trans-unit id="historyRow.actiontype.4">
+        <source>deleted</source>
+        <target>yeeted (deleted)</target>
+      </trans-unit>
+      <trans-unit id="historyRow.actiontype.5">
+        <source>undeleted</source>
+        <target>un-yeeted (restored)</target>
+      </trans-unit>
+      <trans-unit id="historyRow.actiontype.6">
+        <source>stage changed</source>
+        <target>stage switched up</target>
+      </trans-unit>
+      <trans-unit id="historyRow.actiontype.7">
+        <source>published</source>
+        <target>went live (aura +100)</target>
+      </trans-unit>
+      <trans-unit id="rollback.plannedAction.insert">
+        <source>The record has been deleted and will be restored again with the rollback.</source>
+        <target>The record got yeeted and will be un-yeeted with the rollback.</target>
+      </trans-unit>
+      <trans-unit id="rollback.plannedAction.delete">
+        <source>The record will be deleted with the rollback.</source>
+        <target>The record will get yeeted with the rollback.</target>
+      </trans-unit>
+      <trans-unit id="undelete">
+        <source>undelete</source>
+        <target>un-yeet</target>
+      </trans-unit>
+      <trans-unit id="mergedDifferences">
+        <source>Preview for rollback</source>
+        <target>Preview for rollback (sneak peek)</target>
+      </trans-unit>
+      <trans-unit id="mergedDifferences.description">
+        <source>It is possible to rollback either individual fields or entire elements. Alternatively, all displayed changes can be rolled back.</source>
+        <target>You can rollback individual fields or entire elements. Or just rollback everything, yolo.</target>
+      </trans-unit>
+      <trans-unit id="settings">
+        <source>Settings</source>
+        <target>Settings (the controls)</target>
+      </trans-unit>
+      <trans-unit id="maxSteps">
+        <source>Show entries</source>
+        <target>Show entries fam</target>
+      </trans-unit>
+      <trans-unit id="maxSteps_all">
+        <source>ALL</source>
+        <target>ALL (full send)</target>
+      </trans-unit>
+      <trans-unit id="maxSteps_marked">
+        <source>marked</source>
+        <target>the marked ones</target>
+      </trans-unit>
+      <trans-unit id="showDiff">
+        <source>Show differences</source>
+        <target>Show diffs</target>
+      </trans-unit>
+      <trans-unit id="showSubElements">
+        <source>Show sub elements</source>
+        <target>Show sub elements too</target>
+      </trans-unit>
+      <trans-unit id="no">
+        <source>No</source>
+        <target>Nah fam</target>
+      </trans-unit>
+      <trans-unit id="yes">
+        <source>Yes</source>
+        <target>Bet!</target>
+      </trans-unit>
+      <trans-unit id="noDifferences">
+        <source>There are no differences to the current page</source>
+        <target>W! No differences to the current page, all good</target>
+      </trans-unit>
+      <trans-unit id="editLockIsActive">
+        <source>Editing is blocked for non-admins</source>
+        <target>Gatekept - no glow up without sigma admin permissions</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

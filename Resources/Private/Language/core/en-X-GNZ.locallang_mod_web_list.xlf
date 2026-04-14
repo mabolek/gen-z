@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_mod_web_list.xlf">
+    <header/>
+    <body>
+      <trans-unit id="mlang_labels_tablabel">
+        <source>List of database records</source>
+        <target>All the database records bestie</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tabdescr">
+        <source>The Web&gt;List module provides low level access to records appearing on a page.</source>
+        <target>The Web&gt;List module gives you lowkey access to all records on a page.</target>
+      </trans-unit>
+      <trans-unit id="mlang_tabs_tab">
+        <source>List</source>
+        <target>The list</target>
+      </trans-unit>
+      <trans-unit id="clip_pasteAfter">
+        <source>Paste after: Clipboard content is inserted after this record</source>
+        <target>Paste after: Clipboard content drops after this record</target>
+      </trans-unit>
+      <trans-unit id="clip_pasteInto">
+        <source>Paste into: Clipboard content is inserted on this page</source>
+        <target>Paste into: Clipboard content drops on this page</target>
+      </trans-unit>
+      <trans-unit id="clip_paste">
+        <source>Paste in clipboard content</source>
+        <target>Paste clipboard content</target>
+      </trans-unit>
+      <trans-unit id="clip_markRecords">
+        <source>Mark All/Mark none</source>
+        <target>Select all / Select none</target>
+      </trans-unit>
+      <trans-unit id="clip_selectMarked">
+        <source>Transfer the selection of records to clipboard</source>
+        <target>Yoink the selected records to clipboard</target>
+      </trans-unit>
+      <trans-unit id="clip_duplicates">
+        <source>Mark duplicates</source>
+        <target>Mark the dupes</target>
+      </trans-unit>
+      <trans-unit id="clip_editMarked">
+        <source>Edit marked</source>
+        <target>Glow up marked</target>
+      </trans-unit>
+      <trans-unit id="clip_deleteMarked">
+        <source>Delete marked</source>
+        <target>Yeet marked</target>
+      </trans-unit>
+      <trans-unit id="clip_deleteMarkedWarning">
+        <source>Are you sure you want to delete all marked records from the table '%s'?</source>
+        <target>Fr fr you wanna yeet all marked records from table '%s'?</target>
+      </trans-unit>
+      <trans-unit id="showInfo">
+        <source>Info</source>
+        <target>The info</target>
+      </trans-unit>
+      <trans-unit id="edit">
+        <source>Edit record</source>
+        <target>Glow up record</target>
+      </trans-unit>
+      <trans-unit id="editPage">
+        <source>Edit page properties</source>
+        <target>Glow up page properties</target>
+      </trans-unit>
+      <trans-unit id="new">
+        <source>New record</source>
+        <target>Fresh drop</target>
+      </trans-unit>
+      <trans-unit id="newRecordOfType">
+        <source>New %s</source>
+        <target>Fresh %s</target>
+      </trans-unit>
+      <trans-unit id="newPage">
+        <source>Create new page after this page</source>
+        <target>Drop a fresh page after this one</target>
+      </trans-unit>
+      <trans-unit id="newRecord">
+        <source>Create new record after this record</source>
+        <target>Drop a fresh record after this one</target>
+      </trans-unit>
+      <trans-unit id="newRecordGeneral">
+        <source>Create new record</source>
+        <target>Drop a fresh record</target>
+      </trans-unit>
+      <trans-unit id="moveUp">
+        <source>Move up in list</source>
+        <target>Slide up in list</target>
+      </trans-unit>
+      <trans-unit id="moveDown">
+        <source>Move down in list</source>
+        <target>Slide down in list</target>
+      </trans-unit>
+      <trans-unit id="move_record">
+        <source>Re-position content element</source>
+        <target>Slide over content element</target>
+      </trans-unit>
+      <trans-unit id="move_page">
+        <source>Move page</source>
+        <target>Slide over page</target>
+      </trans-unit>
+      <trans-unit id="hide">
+        <source>Hide record</source>
+        <target>Ghost record</target>
+      </trans-unit>
+      <trans-unit id="unHide">
+        <source>Un-hide record</source>
+        <target>Un-ghost record</target>
+      </trans-unit>
+      <trans-unit id="hidePage">
+        <source>Hide page</source>
+        <target>Ghost page</target>
+      </trans-unit>
+      <trans-unit id="unHidePage">
+        <source>Un-hide page</source>
+        <target>Un-ghost page</target>
+      </trans-unit>
+      <trans-unit id="prevLevel">
+        <source>Move this page to the position after the current parent page (Inwards)</source>
+        <target>Slide this page after the current parent page (Inwards)</target>
+      </trans-unit>
+      <trans-unit id="nextLevel">
+        <source>Move this page to be a subpage of the page above (Outwards)</source>
+        <target>Slide this page to be a subpage of the page above (Outwards)</target>
+      </trans-unit>
+      <trans-unit id="delete">
+        <source>Delete</source>
+        <target>Yeet it</target>
+      </trans-unit>
+      <trans-unit id="history">
+        <source>History/Undo</source>
+        <target>Caught in 4K / Undo</target>
+      </trans-unit>
+      <trans-unit id="displayVersions">
+        <source>Display versions</source>
+        <target>Peep versions</target>
+      </trans-unit>
+      <trans-unit id="permissions">
+        <source>Set permissions for page</source>
+        <target>Set clout for this page</target>
+      </trans-unit>
+      <trans-unit id="largeControl">
+        <source>Extended view</source>
+        <target>Extra view</target>
+      </trans-unit>
+      <trans-unit id="contractView">
+        <source>List all tables</source>
+        <target>List all tables, fam</target>
+      </trans-unit>
+      <trans-unit id="expandView">
+        <source>List only this table</source>
+        <target>Just this table</target>
+      </trans-unit>
+      <trans-unit id="collapseExpandTable">
+        <source>Collapse and expand records of table "%s"</source>
+        <target>Collapse and expand records of table "%s", bestie</target>
+      </trans-unit>
+      <trans-unit id="showClipBoard">
+        <source>Show clipboard</source>
+        <target>Show clipboard, fam</target>
+      </trans-unit>
+      <trans-unit id="editShownColumns">
+        <source>Edit all shown fields of the listed records</source>
+        <target>Glow up all visible fields of the listed records</target>
+      </trans-unit>
+      <trans-unit id="editThisColumn">
+        <source>Edit the '%s' field of the listed records</source>
+        <target>Glow up the '%s' field of the listed records</target>
+      </trans-unit>
+      <trans-unit id="deleteWarning">
+        <source>Are you sure you want to delete the record '%s'?</source>
+        <target>Fr fr you wanna yeet '%s'?</target>
+      </trans-unit>
+      <trans-unit id="localization">
+        <source>Localization view</source>
+        <target>Translation vibes view</target>
+      </trans-unit>
+      <trans-unit id="defaultLanguage">
+        <source>Default</source>
+        <target>Mid (Default)</target>
+      </trans-unit>
+      <trans-unit id="multipleLanguages">
+        <source>All languages</source>
+        <target>All languages, bestie</target>
+      </trans-unit>
+      <trans-unit id="Localize">
+        <source>Localize to</source>
+        <target>Translate to</target>
+      </trans-unit>
+      <trans-unit id="viewRecords">
+        <source>Viewing records of</source>
+        <target>Peeping records of</target>
+      </trans-unit>
+      <trans-unit id="pageIndicator">
+        <source>Page %1$s of %2$d</source>
+        <target>Page %1$s of %2$d, fam</target>
+      </trans-unit>
+      <trans-unit id="rangeIndicator">
+        <source>Records %1$d - %2$d</source>
+        <target>Records %1$d - %2$d, bestie</target>
+      </trans-unit>
+      <trans-unit id="missingTcaColumnsMessageTitle">
+        <source>Missing TCA definition</source>
+        <target>Missing TCA definition oof</target>
+      </trans-unit>
+      <trans-unit id="missingTcaColumnsMessage">
+        <source>No fields for table "%s" have been found. $TCA['%s']['columns'] does not contain the necessary definitions.</source>
+        <target>No fields found for table "%s" fam. $TCA['%s']['columns'] doesn't have the necessary defs.</target>
+      </trans-unit>
+      <trans-unit id="noRecordsOnThisPage">
+        <source>There are no records on this page.</source>
+        <target>Nothing here fam, page is empty.</target>
+      </trans-unit>
+      <trans-unit id="noRecordsOfTypeOnThisPage">
+        <source>There are no records of type "%s" on this page.</source>
+        <target>No "%s" records on this page bestie.</target>
+      </trans-unit>
+      <trans-unit id="button.cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="button.close">
+        <source>Close</source>
+        <target>Peace out</target>
+      </trans-unit>
+      <trans-unit id="button.ok">
+        <source>OK</source>
+        <target>Slay!</target>
+      </trans-unit>
+      <trans-unit id="button.delete">
+        <source>Delete</source>
+        <target>Yeet it</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

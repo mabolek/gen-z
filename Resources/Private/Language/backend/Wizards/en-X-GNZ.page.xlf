@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/Wizards/page.xlf">
+    <header/>
+    <body>
+      <trans-unit id="step.doktype.headline"><source>Select page type</source><target>Pick a page type bestie</target></trans-unit>
+      <trans-unit id="step.doktype.not_allowed_doktype.title"><source>Invalid page type</source><target>Invalid page type, oof</target></trans-unit>
+      <trans-unit id="step.doktype.not_allowed_doktype.message"><source>The selected page type is not allowed here. Please choose a different type.</source><target>That page type isn't allowed here. Pick a different one bestie.</target></trans-unit>
+      <trans-unit id="step.doktype.filter.noResults"><source>No matching page type found.</source><target>No matching page type found, oof.</target></trans-unit>
+      <trans-unit id="step.doktype.load_error"><source>Failed to fetch available page types. This is likely due to missing permissions.</source><target>Couldn't fetch available page types. Probably getting gatekept on permissions, no rizz.</target></trans-unit>
+      <trans-unit id="step.setup"><source>Page Setup</source><target>Page Setup</target></trans-unit>
+      <trans-unit id="step.link"><source>Link Configuration</source><target>Link Config</target></trans-unit>
+      <trans-unit id="step.shortcut"><source>Shortcut Configuration</source><target>Shortcut Config</target></trans-unit>
+      <trans-unit id="step.mounting"><source>Mounting Configuration</source><target>Mounting Config</target></trans-unit>
+      <trans-unit id="page_wizard.success.title"><source>Page created</source><target>Page manifested, slay!</target></trans-unit>
+      <trans-unit id="page_wizard.success.description"><source>The page has been successfully created. Click "Finish" to be redirected to the newly created page.</source><target>The page has been manifested successfully. Click "Finish" to get redirected to the fresh page.</target></trans-unit>
+      <trans-unit id="page_wizard.button.create_another_page"><source>Create another page</source><target>Manifest another page (again!)</target></trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_bookmarks.xlf">
+    <header/>
+    <body>
+      <trans-unit id="group_default">
+        <source>Default</source>
+        <target>Mid (Default)</target>
+      </trans-unit>
+      <trans-unit id="group_pages">
+        <source>Pages</source>
+        <target>The pages</target>
+      </trans-unit>
+      <trans-unit id="group_records">
+        <source>Records</source>
+        <target>The records</target>
+      </trans-unit>
+      <trans-unit id="group_files">
+        <source>Files</source>
+        <target>The files</target>
+      </trans-unit>
+      <trans-unit id="group_tools">
+        <source>Tools</source>
+        <target>The tools</target>
+      </trans-unit>
+      <trans-unit id="group_miscellaneous">
+        <source>Miscellaneous</source>
+        <target>Random stuff</target>
+      </trans-unit>
+      <trans-unit id="global">
+        <source>Global</source>
+        <target>Global vibes</target>
+      </trans-unit>
+      <trans-unit id="all">
+        <source>All</source>
+        <target>All of it</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Bookmarks</source>
+        <target>Living rent free</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>You have not added any bookmarks yet. Use the share icon on any backend page to create one.</source>
+        <target>You haven't saved anything to live rent free yet bestie. Use the share icon on any backend page to create one.</target>
+      </trans-unit>
+      <trans-unit id="notGrouped">
+        <source>Not grouped</source>
+        <target>No squad</target>
+      </trans-unit>
+      <trans-unit id="empty">
+        <source>No bookmarks yet. Add bookmarks using the share icon on pages throughout the backend.</source>
+        <target>Nothing living rent free yet. Add bookmarks using the share icon on pages throughout the backend fam.</target>
+      </trans-unit>
+      <trans-unit id="manage">
+        <source>Manage bookmarks</source>
+        <target>Manage your rent-free vibes</target>
+      </trans-unit>
+      <trans-unit id="delete">
+        <source>Delete bookmark</source>
+        <target>Yeet bookmark</target>
+      </trans-unit>
+      <trans-unit id="fieldTitle">
+        <source>Title</source>
+        <target>The title</target>
+      </trans-unit>
+      <trans-unit id="fieldGroup">
+        <source>Group</source>
+        <target>Squad</target>
+      </trans-unit>
+      <trans-unit id="success.created.title">
+        <source>Bookmark created</source>
+        <target>Bookmark manifested, aura +100!</target>
+      </trans-unit>
+      <trans-unit id="success.created.message">
+        <source>The bookmark was created.</source>
+        <target>The bookmark was manifested bestie, W!</target>
+      </trans-unit>
+      <trans-unit id="success.updated.title">
+        <source>Bookmark updated</source>
+        <target>Bookmark glow up complete</target>
+      </trans-unit>
+      <trans-unit id="success.updated.message">
+        <source>Bookmark updated successfully.</source>
+        <target>Bookmark glowed up successfully, slay!</target>
+      </trans-unit>
+      <trans-unit id="success.deleted.title">
+        <source>Bookmark deleted</source>
+        <target>Bookmark yeeted</target>
+      </trans-unit>
+      <trans-unit id="success.deleted.message">
+        <source>Bookmark deleted successfully.</source>
+        <target>Bookmark yeeted successfully.</target>
+      </trans-unit>
+      <trans-unit id="success.deletedMultiple.title">
+        <source>Bookmarks deleted</source>
+        <target>Bookmarks yeeted</target>
+      </trans-unit>
+      <trans-unit id="success.deletedMultiple.message">
+        <source>%d bookmark(s) deleted.</source>
+        <target>%d bookmark(s) yeeted.</target>
+      </trans-unit>
+      <trans-unit id="success.moved.title">
+        <source>Bookmarks moved</source>
+        <target>Bookmarks slid over</target>
+      </trans-unit>
+      <trans-unit id="success.moved.message">
+        <source>%d bookmark(s) moved.</source>
+        <target>%d bookmark(s) slid over.</target>
+      </trans-unit>
+      <trans-unit id="success.groupCreated.title">
+        <source>Group created</source>
+        <target>Squad created</target>
+      </trans-unit>
+      <trans-unit id="success.groupCreated.message">
+        <source>Group created successfully.</source>
+        <target>Squad manifested successfully, aura +100!</target>
+      </trans-unit>
+      <trans-unit id="success.groupUpdated.title">
+        <source>Group updated</source>
+        <target>Squad glowed up</target>
+      </trans-unit>
+      <trans-unit id="success.groupUpdated.message">
+        <source>Group updated successfully.</source>
+        <target>Squad glowed up successfully.</target>
+      </trans-unit>
+      <trans-unit id="success.groupDeleted.title">
+        <source>Group deleted</source>
+        <target>Squad yeeted</target>
+      </trans-unit>
+      <trans-unit id="success.groupDeleted.message">
+        <source>Group deleted successfully.</source>
+        <target>Squad yeeted successfully.</target>
+      </trans-unit>
+      <trans-unit id="error.unknown.message">
+        <source>An unexpected error occurred.</source>
+        <target>Oof something unexpected happened, aura -500.</target>
+      </trans-unit>
+      <trans-unit id="error.notFound.message">
+        <source>Bookmark not found.</source>
+        <target>Bookmark ghosted us.</target>
+      </trans-unit>
+      <trans-unit id="error.accessDenied.message">
+        <source>You do not have permission to edit this bookmark.</source>
+        <target>Gatekept! You can't glow up this bookmark fam.</target>
+      </trans-unit>
+      <trans-unit id="error.globalGroupNotAllowed.message">
+        <source>Only administrators can assign bookmarks to global groups.</source>
+        <target>Only Sigma Admins can put bookmarks in global squads. Gatekept!</target>
+      </trans-unit>
+      <trans-unit id="error.createFailed.title">
+        <source>Bookmark creation failed</source>
+        <target>Bookmark manifesting flopped, aura -500</target>
+      </trans-unit>
+      <trans-unit id="error.createFailed.message">
+        <source>The bookmark could not be created.</source>
+        <target>The bookmark could not be dropped bestie.</target>
+      </trans-unit>
+      <trans-unit id="error.updateFailed.title">
+        <source>Bookmark update failed</source>
+        <target>Bookmark glow up flopped</target>
+      </trans-unit>
+      <trans-unit id="error.updateFailed.message">
+        <source>The bookmark could not be updated.</source>
+        <target>The bookmark could not be glowed up.</target>
+      </trans-unit>
+      <trans-unit id="error.deleteFailed.title">
+        <source>Bookmark deletion failed</source>
+        <target>Bookmark yeeting flopped</target>
+      </trans-unit>
+      <trans-unit id="error.deleteFailed.message">
+        <source>The bookmarks could not be deleted.</source>
+        <target>The bookmarks could not be yeeted.</target>
+      </trans-unit>
+      <trans-unit id="error.moveFailed.title">
+        <source>Move failed</source>
+        <target>Slide over flopped</target>
+      </trans-unit>
+      <trans-unit id="error.moveFailed.message">
+        <source>The bookmarks could not be moved.</source>
+        <target>The bookmarks could not slide over.</target>
+      </trans-unit>
+      <trans-unit id="error.missingRoute.message">
+        <source>The bookmark could not be created because route information is missing.</source>
+        <target>Bookmark couldn't be dropped cuz route info is missing fam.</target>
+      </trans-unit>
+      <trans-unit id="error.missingBookmarkId.message">
+        <source>Missing bookmark ID.</source>
+        <target>Missing bookmark ID bestie.</target>
+      </trans-unit>
+      <trans-unit id="error.missingBookmarkIds.message">
+        <source>Missing bookmark IDs.</source>
+        <target>Missing bookmark IDs bestie.</target>
+      </trans-unit>
+      <trans-unit id="error.groupCreateFailed.title">
+        <source>Group creation failed</source>
+        <target>Squad creation flopped</target>
+      </trans-unit>
+      <trans-unit id="error.groupCreateFailed.message">
+        <source>The group could not be created.</source>
+        <target>The squad could not be created.</target>
+      </trans-unit>
+      <trans-unit id="error.groupUpdateFailed.title">
+        <source>Group update failed</source>
+        <target>Squad glow up flopped</target>
+      </trans-unit>
+      <trans-unit id="error.groupUpdateFailed.message">
+        <source>The group could not be updated.</source>
+        <target>The squad could not be glowed up.</target>
+      </trans-unit>
+      <trans-unit id="error.groupDeleteFailed.title">
+        <source>Group deletion failed</source>
+        <target>Squad yeeting flopped</target>
+      </trans-unit>
+      <trans-unit id="error.groupDeleteFailed.message">
+        <source>The group could not be deleted.</source>
+        <target>The squad could not be yeeted.</target>
+      </trans-unit>
+      <trans-unit id="error.groupReorderFailed.message">
+        <source>The groups could not be reordered.</source>
+        <target>The squads could not be reordered fam.</target>
+      </trans-unit>
+      <trans-unit id="error.missingGroupId.message">
+        <source>Missing group ID.</source>
+        <target>Missing squad ID.</target>
+      </trans-unit>
+      <trans-unit id="error.missingGroupIds.message">
+        <source>Missing group IDs.</source>
+        <target>Missing squad IDs.</target>
+      </trans-unit>
+      <trans-unit id="error.missingLabel.message">
+        <source>Group label is required.</source>
+        <target>Squad name is required, no cap.</target>
+      </trans-unit>
+      <trans-unit id="action.create">
+        <source>Create bookmark</source>
+        <target>Drop a bookmark</target>
+      </trans-unit>
+      <trans-unit id="action.remove">
+        <source>Remove bookmark</source>
+        <target>Yeet bookmark</target>
+      </trans-unit>
+      <trans-unit id="action.save">
+        <source>Save</source>
+        <target>Save fr fr</target>
+      </trans-unit>
+      <trans-unit id="action.cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="action.delete">
+        <source>Delete</source>
+        <target>Yeet it</target>
+      </trans-unit>
+      <trans-unit id="details">
+        <source>Details</source>
+        <target>Deets</target>
+      </trans-unit>
+      <trans-unit id="details.route">
+        <source>Route</source>
+        <target>The route</target>
+      </trans-unit>
+      <trans-unit id="details.url">
+        <source>URL</source>
+        <target>The URL</target>
+      </trans-unit>
+      <trans-unit id="details.parameters">
+        <source>Parameters</source>
+        <target>The params</target>
+      </trans-unit>
+      <trans-unit id="confirmDelete.title">
+        <source>Delete bookmark</source>
+        <target>Yeet bookmark</target>
+      </trans-unit>
+      <trans-unit id="confirmDelete.message">
+        <source>Delete the bookmark permanently? You cannot undo this action.</source>
+        <target>Yeet this bookmark permanently? No take-backs fam!</target>
+      </trans-unit>
+      <trans-unit id="confirmDeleteMultiple.title">
+        <source>Delete bookmarks</source>
+        <target>Yeet bookmarks</target>
+      </trans-unit>
+      <trans-unit id="confirmDeleteMultiple.message">
+        <source>Delete the %d bookmark(s) permanently? You cannot undo this action.</source>
+        <target>Yeet %d bookmark(s) permanently? No take-backs bestie!</target>
+      </trans-unit>
+      <trans-unit id="confirmDeleteGroup.title">
+        <source>Delete group</source>
+        <target>Yeet squad</target>
+      </trans-unit>
+      <trans-unit id="confirmDeleteGroup.message">
+        <source>Delete the bookmark group "%s"? Bookmarks in this group will be moved to the Default group.</source>
+        <target>Yeet the bookmark squad "%s"? Bookmarks will slide over to the Default squad.</target>
+      </trans-unit>
+      <trans-unit id="manager.selectAll">
+        <source>Select all</source>
+        <target>Select all of em</target>
+      </trans-unit>
+      <trans-unit id="manager.deselectAll">
+        <source>Deselect all</source>
+        <target>Deselect all of em</target>
+      </trans-unit>
+      <trans-unit id="manager.moveToGroup">
+        <source>Move to group</source>
+        <target>Slide over to squad</target>
+      </trans-unit>
+      <trans-unit id="manager.deleteSelected">
+        <source>Delete</source>
+        <target>Yeet it</target>
+      </trans-unit>
+      <trans-unit id="manager.manageGroups">
+        <source>Manage Groups</source>
+        <target>Manage Squads</target>
+      </trans-unit>
+      <trans-unit id="manager.newGroup">
+        <source>New Group</source>
+        <target>Fresh Squad</target>
+      </trans-unit>
+      <trans-unit id="manager.createGroup">
+        <source>Create Group</source>
+        <target>Drop a Squad</target>
+      </trans-unit>
+      <trans-unit id="manager.editGroup">
+        <source>Edit Group</source>
+        <target>Glow up Squad</target>
+      </trans-unit>
+      <trans-unit id="manager.noGroups">
+        <source>You have not created any groups yet. Click "New Group" to create one.</source>
+        <target>You haven't dropped any squads yet. Hit "Fresh Squad" to create one bestie.</target>
+      </trans-unit>
+      <trans-unit id="manager.label">
+        <source>Label</source>
+        <target>The label</target>
+      </trans-unit>
+      <trans-unit id="manager.back">
+        <source>Back</source>
+        <target>Go back</target>
+      </trans-unit>
+      <trans-unit id="manager.editBookmark">
+        <source>Edit bookmark</source>
+        <target>Glow up bookmark</target>
+      </trans-unit>
+      <trans-unit id="manager.dragToReorder">
+        <source>Drag to reorder</source>
+        <target>Drag to shuffle, bestie</target>
+      </trans-unit>
+      <trans-unit id="manager.moveUp">
+        <source>Move up</source>
+        <target>Slide up</target>
+      </trans-unit>
+      <trans-unit id="manager.moveDown">
+        <source>Move down</source>
+        <target>Slide down</target>
+      </trans-unit>
+      <trans-unit id="manager.locked">
+        <source>This bookmark cannot be edited</source>
+        <target>This bookmark is gatekept bestie</target>
+      </trans-unit>
+      <trans-unit id="manager.notAccessible">
+        <source>Not accessible</source>
+        <target>Gatekept, no access</target>
+      </trans-unit>
+      <trans-unit id="groupType.user">
+        <source>My Groups</source>
+        <target>My Squads</target>
+      </trans-unit>
+      <trans-unit id="groupType.system">
+        <source>System Groups</source>
+        <target>System Squads</target>
+      </trans-unit>
+      <trans-unit id="groupType.global">
+        <source>Global Groups</source>
+        <target>Global Squads</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

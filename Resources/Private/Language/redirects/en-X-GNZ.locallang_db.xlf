@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/locallang_db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="sys_redirect">
+        <source>Redirect</source>
+        <target>Detour, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.redirect_type.qr_code">
+        <source>QR Code</source>
+        <target>QR code, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.redirect_type.short_url">
+        <source>Short URL</source>
+        <target>Short URL, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.source_host">
+        <source>Source Domain</source>
+        <target>Where it's from (domain)</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.source_path">
+        <source>Source Path</source>
+        <target>Where it's from (path)</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.force_https">
+        <source>SSL Redirect</source>
+        <target>SSL Detour</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.force_https.0">
+        <source>Force SSL Redirect</source>
+        <target>Force SSL Detour</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.keep_query_parameters">
+        <source>GET Parameters</source>
+        <target>GET params</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.keep_query_parameters.0">
+        <source>Keep GET Parameters</source>
+        <target>Keep the GET params</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.respect_query_parameters">
+        <source>GET Parameters (source)</source>
+        <target>GET params (source)</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.respect_query_parameters.0">
+        <source>Respect GET Parameters</source>
+        <target>Respect the GET params</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target">
+        <source>Target</source>
+        <target>Where it goes</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode">
+        <source>Status Code HTTP Header</source>
+        <target>Status code HTTP header, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.301">
+        <source>301 Moved Permanently</source>
+        <target>301 Permanently detoured</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.302">
+        <source>302 Found</source>
+        <target>302 Found it, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.303">
+        <source>303 See Other</source>
+        <target>303 Look somewhere else bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.307">
+        <source>307 Temporary Redirect</source>
+        <target>307 Temporary detour</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.308">
+        <source>308 Permanent Redirect</source>
+        <target>308 Permanent detour</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.keep">
+        <source>Keep HTTP method</source>
+        <target>Keep the HTTP method</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.change">
+        <source>Change HTTP method to GET</source>
+        <target>Switch HTTP method to GET</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.hitcount">
+        <source>Hit count</source>
+        <target>Times hit, no cap</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.lasthiton">
+        <source>Last Hit on</source>
+        <target>Last hit on</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.hitcountState">
+        <source>Hit Counter</source>
+        <target>Hit counter</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.disable_hitcount">
+        <source>Disable Hit Counter</source>
+        <target>Ghost the hit counter</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.disable_hitcount.0">
+        <source>Disable</source>
+        <target>Ghost it, fam</target>
+      </trans-unit>
+      <trans-unit id="tabs.redirectCount">
+        <source>Statistics</source>
+        <target>Stats, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.protected">
+        <source>Protected</source>
+        <target>Protected, no cap</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.protected.description">
+        <source>When enabled, this redirect will be skipped by scheduled cleanup tasks that might delete redirects under certain conditions.</source>
+        <target>When enabled, this detour is safe from scheduled cleanup tasks that might yeet detours under certain conditions, ngl.</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.is_regexp">
+        <source>Is regular expression?</source>
+        <target>Is this a regex?</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.is_regexp.0">
+        <source>Yes</source>
+        <target>Bet!</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.disabled">
+        <source>Disable</source>
+        <target>Ghost it</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.disabled.0">
+        <source>Deactivate redirect</source>
+        <target>Deactivate detour</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.creation_type">
+        <source>Creation Type</source>
+        <target>How it was manifested</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.creation_type.description">
+        <source>Defines how the redirect was created.</source>
+        <target>Defines how the detour was manifested, bestie.</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.creation_type.1">
+        <source>manually created</source>
+        <target>manually manifested</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.creation_type.0">
+        <source>automatically created</source>
+        <target>auto-manifested</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.webhook_type.typo3-redirect-was-hit">
+        <source>... when a redirect has been hit</source>
+        <target>... when a detour gets hit</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.integrity_status">
+        <source>Integrity status</source>
+        <target>Integrity vibes</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.integrity_status.description">
+        <source>Redirects can be checked via the command redirects:checkintegrity.</source>
+        <target>Detours can be vibe checked via redirects:checkintegrity.</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.integrity_status.no_conflict">
+        <source>No conflict</source>
+        <target>No beef, all chill</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.integrity_status.self_reference">
+        <source>Self reference</source>
+        <target>Self reference, delulu</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.integrity_status.invalid_target">
+        <source>Invalid target</source>
+        <target>Sus target, delulu</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.uid">
+        <source>UID</source>
+        <target>The UID</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.createdby">
+        <source>Created by</source>
+        <target>Manifested by</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.short_url">
+        <source>Short URL</source>
+        <target>Lil' URL</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.short_url.description">
+        <source>Enter a Short URL or generate a random one automatically. Once saved, the Short URL cannot be changed.</source>
+        <target>Enter a Short URL or auto-generate a random one. Once saved fr fr, the Short URL can't be changed, bestie.</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.short_url.shortUrlGenerator">
+        <source>Generate Short URL</source>
+        <target>Generate a lil' URL</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

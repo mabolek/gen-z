@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:form/Resources/Private/Language/Modules/form_manager.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Form Manager</source>
+        <target>Form sigma boss</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Manage and organize all forms. Create, edit, duplicate, and delete forms.</source>
+        <target>Manage all forms, fam. Drop fresh ones, glow them up, clone them, or yeet them, no cap.</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Manage forms</source>
+        <target>Manage forms, bestie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

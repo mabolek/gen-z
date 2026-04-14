@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:seo/Resources/Private/Language/db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="pages.tabs.seo"><source>SEO</source><target>SEO game</target></trans-unit>
+      <trans-unit id="pages.palettes.seo"><source>General SEO settings</source><target>General SEO settings, bestie</target></trans-unit>
+      <trans-unit id="pages.seo_title"><source>Title for search engines</source><target>Title for search engines, bestie</target></trans-unit>
+      <trans-unit id="pages.palettes.robots"><source>Robot instructions</source><target>Bot instructions, fam</target></trans-unit>
+      <trans-unit id="pages.no_index"><source>No index</source><target>Don't index this, fam</target></trans-unit>
+      <trans-unit id="pages.no_index_formlabel"><source>Index this page</source><target>Index this page, bestie</target></trans-unit>
+      <trans-unit id="pages.no_follow"><source>No follow</source><target>Don't follow</target></trans-unit>
+      <trans-unit id="pages.no_follow_formlabel"><source>Follow this page</source><target>Follow this page, fam</target></trans-unit>
+      <trans-unit id="pages.palettes.opengraph"><source>Open Graph (Facebook)</source><target>Open Graph (FB vibes)</target></trans-unit>
+      <trans-unit id="pages.og_title"><source>Open Graph Title</source><target>Open Graph title</target></trans-unit>
+      <trans-unit id="pages.og_description"><source>Open Graph Description</source><target>Open Graph description</target></trans-unit>
+      <trans-unit id="pages.og_image"><source>Open Graph Image</source><target>Open Graph image</target></trans-unit>
+      <trans-unit id="pages.palettes.twittercards"><source>X / Twitter Cards</source><target>X / Twitter cards, fam</target></trans-unit>
+      <trans-unit id="pages.twitter_title"><source>X / Twitter Title</source><target>X / Twitter title</target></trans-unit>
+      <trans-unit id="pages.twitter_description"><source>X / Twitter Description</source><target>X / Twitter description</target></trans-unit>
+      <trans-unit id="pages.twitter_image"><source>X / Twitter Image</source><target>X / Twitter image</target></trans-unit>
+      <trans-unit id="pages.twitter_card"><source>Type of card to show</source><target>Card type to peep</target></trans-unit>
+      <trans-unit id="pages.twitter_card.summary"><source>Summary Card</source><target>Summary card</target></trans-unit>
+      <trans-unit id="pages.twitter_card.summary_large_image"><source>Summary Card with a large image</source><target>Summary card with a thicc image</target></trans-unit>
+      <trans-unit id="pages.palettes.canonical"><source>Canonical</source><target>The canonical</target></trans-unit>
+      <trans-unit id="pages.canonical_link"><source>Canonical link</source><target>The canonical link</target></trans-unit>
+      <trans-unit id="pages.canonical_link.description"><source>A canonical URL is the URL of a page that search engines are advised to choose as the most representative from a set of duplicate pages. Often called deduplication, this process helps search engines show only one version of the otherwise duplicate content in its search results. TYPO3 automatically sets this to the most likely URL of the page if not set explicitly - which is most likely the URL of the page itself. If set here, the page will be removed from the XML sitemap.</source><target>A canonical URL is the main character URL that search engines should pick from a set of duplicate pages. It's basically deduplication so search engines only show one version. TYPO3 auto-sets this to the most likely URL if you don't set it explicitly. If you set it here, the page gets yeeted from the XML sitemap.</target></trans-unit>
+      <trans-unit id="pages.tabs.socialmedia"><source>Social media</source><target>Socials, bestie</target></trans-unit>
+      <trans-unit id="pages.palettes.sitemap"><source>Sitemap</source><target>The sitemap</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq"><source>Change frequency</source><target>How often it changes, fam</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.none"><source>None</source><target>Nah fam</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.always"><source>Always</source><target>Always, fr fr</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.hourly"><source>Hourly</source><target>Every hour</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.daily"><source>Daily</source><target>Every day</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.weekly"><source>Weekly</source><target>Every week</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.monthly"><source>Monthly</source><target>Every month</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.yearly"><source>Yearly</source><target>Once a year</target></trans-unit>
+      <trans-unit id="pages.sitemap_changefreq.never"><source>Never</source><target>Never ever</target></trans-unit>
+      <trans-unit id="pages.sitemap_priority"><source>Priority</source><target>The priority</target></trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:form/Resources/Private/Language/Modules/form_editor.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Form Editor</source>
+        <target>Form glow-up studio</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Build and customize forms using the visual form editor. Add fields, configure validations, and set up finishers.</source>
+        <target>Build and glow up forms in the visual editor, bestie. Drop fields, set up vibe checks, and configure finishers, no cap.</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Edit forms</source>
+        <target>Glow up forms</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

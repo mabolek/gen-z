@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/SudoMode.xlf">
+    <header/>
+    <body>
+      <trans-unit id="cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="verify">
+        <source>Verify</source>
+        <target>Sigma Verify</target>
+      </trans-unit>
+      <trans-unit id="password">
+        <source>Password</source>
+        <target>Secret Sauce</target>
+      </trans-unit>
+      <trans-unit id="verifyWithUserPassword">
+        <source>Verify with user password</source>
+        <target>Sigma verify with homie secret sauce</target>
+      </trans-unit>
+      <trans-unit id="verifyWithInstallToolPassword">
+        <source>Verify with Install Tool password</source>
+        <target>Sigma verify with Install Tool secret sauce</target>
+      </trans-unit>
+      <trans-unit id="accessGranted">
+        <source>Access granted</source>
+        <target>W! Access granted, aura +100, welcome bestie!</target>
+      </trans-unit>
+      <trans-unit id="invalidPassword">
+        <source>Invalid password</source>
+        <target>Red flag! Wrong secret sauce, aura -500</target>
+      </trans-unit>
+      <trans-unit id="userPasswordMode">
+        <source>Use user password instead</source>
+        <target>Use homie secret sauce instead</target>
+      </trans-unit>
+      <trans-unit id="installToolPasswordMode">
+        <source>Use Install Tool password instead</source>
+        <target>Use Install Tool secret sauce instead</target>
+      </trans-unit>
+      <trans-unit id="sudoModeUserPasswordExplanation">
+        <source>Authentication is required to perform this action. Please enter your user password to proceed.</source>
+        <target>Sigma action requires gatekeeping bestie. Drop your homie secret sauce to proceed.</target>
+      </trans-unit>
+      <trans-unit id="sudoModeInstallToolPasswordExplanation">
+        <source>Authentication is required to perform this action. Please enter the Install Tool password to proceed.</source>
+        <target>Sigma action requires gatekeeping fam. Drop the Install Tool secret sauce to proceed.</target>
+      </trans-unit>
+      <trans-unit id="verificationFailed">
+        <source>Verification failed</source>
+        <target>Sigma verification failed, aura -500, rip</target>
+      </trans-unit>
+      <trans-unit id="verificationExpired">
+        <source>Confirmation has expired. Please try again.</source>
+        <target>Confirmation expired bestie. Try again.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

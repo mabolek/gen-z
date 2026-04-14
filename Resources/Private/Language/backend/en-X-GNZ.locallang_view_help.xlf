@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_view_help.xlf">
+    <header/>
+    <body>
+      <trans-unit id="details">
+        <source>Details</source>
+        <target>The Deets</target>
+      </trans-unit>
+      <trans-unit id="syntax">
+        <source>Syntax</source>
+        <target>The syntax</target>
+      </trans-unit>
+      <trans-unit id="seeAlso">
+        <source>See also</source>
+        <target>Peep this too</target>
+      </trans-unit>
+      <trans-unit id="goBack">
+        <source>Go back</source>
+        <target>Go back bestie</target>
+      </trans-unit>
+      <trans-unit id="fullDescription">
+        <source>See full description of table</source>
+        <target>Peep the full table description</target>
+      </trans-unit>
+      <trans-unit id="fullDescription_module">
+        <source>See full description of module</source>
+        <target>Peep the full module description</target>
+      </trans-unit>
+      <trans-unit id="goToToc">
+        <source>&lt;&lt; go to Manual Index</source>
+        <target>&lt;&lt; back to Manual Index</target>
+      </trans-unit>
+      <trans-unit id="to_top">
+        <source>To top</source>
+        <target>Back to top</target>
+      </trans-unit>
+      <trans-unit id="TOC">
+        <source>Table Of Contents</source>
+        <target>Table of contents, fam</target>
+      </trans-unit>
+      <trans-unit id="TOC_core">
+        <source>TYPO3 Core Features</source>
+        <target>TYPO3 core features, bestie</target>
+      </trans-unit>
+      <trans-unit id="TOC_modules">
+        <source>Backend Modules</source>
+        <target>Backend modules, fam</target>
+      </trans-unit>
+      <trans-unit id="TOC_tables">
+        <source>Database Tables</source>
+        <target>Database tables, bestie</target>
+      </trans-unit>
+      <trans-unit id="TOC_extensions">
+        <source>Extensions</source>
+        <target>The extensions</target>
+      </trans-unit>
+      <trans-unit id="TOC_glossary">
+        <source>Glossary</source>
+        <target>Glossary (the lingo guide)</target>
+      </trans-unit>
+      <trans-unit id="TOC_other">
+        <source>Other</source>
+        <target>Other stuff</target>
+      </trans-unit>
+      <trans-unit id="close">
+        <source>Close</source>
+        <target>Peace out</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>TYPO3 Inline Help</source>
+        <target>TYPO3 Inline Help, bestie</target>
+      </trans-unit>
+      <trans-unit id="manual_title">
+        <source>TYPO3 Inline User Manual</source>
+        <target>TYPO3 Inline User Manual, fam</target>
+      </trans-unit>
+      <trans-unit id="introduction">
+        <source>Introduction</source>
+        <target>Intro (what's popping)</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>The TYPO3 Inline User Manual is composed from the available help in this TYPO3 Installation (Context Sensitive Help). Here you will find a general description of the TYPO3 Core modules, installation specific Backend Modules and Database Tables that are available based on your login credentials.</source>
+        <target>The TYPO3 Inline User Manual is composed from the available help in this TYPO3 Installation (Context Sensitive Help). Here you'll find a general description of the TYPO3 Core modules, installation-specific Backend Modules and Database Tables available based on your login credentials.</target>
+      </trans-unit>
+      <trans-unit id="full_manual">
+        <source>Full Manual (in one page)</source>
+        <target>Full Manual (all in one page, yolo)</target>
+      </trans-unit>
+      <trans-unit id="full_manual_chapters">
+        <source>Manual Chapters</source>
+        <target>Manual chapters, bestie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

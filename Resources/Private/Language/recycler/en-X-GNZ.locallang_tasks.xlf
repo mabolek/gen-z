@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:recycler/Resources/Private/Language/locallang_tasks.xlf">
+    <header/>
+    <body>
+      <trans-unit id="cleanerTaskTitle"><source>Remove deleted records</source><target>Permanently yeet the yeeted records</target></trans-unit>
+      <trans-unit id="cleanerTaskDescription"><source>Deletes rows from the database which are flagged "deleted"</source><target>Yeets rows from the database that are flagged "deleted", no cap</target></trans-unit>
+      <trans-unit id="cleanerTaskPeriod"><source>Delete entries older than (in days)</source><target>Yeet entries older than (in days)</target></trans-unit>
+      <trans-unit id="cleanerTaskTCA"><source>Tables</source><target>The tables</target></trans-unit>
+      <trans-unit id="cleanerTaskDescriptionTables"><source>Tables: %s</source><target>Tables: %s, fam</target></trans-unit>
+      <trans-unit id="cleanerTaskDescriptionDays"><source>Older than %d day(s)</source><target>Older than %d day(s), bestie</target></trans-unit>
+      <trans-unit id="cleanerTaskErrorPeriod"><source>The period has to be an integer and greater than zero.</source><target>The period gotta be an integer and greater than zero, bestie.</target></trans-unit>
+      <trans-unit id="cleanerTaskErrorTCAempty"><source>You have to select at least one table.</source><target>You gotta pick at least one table, fam.</target></trans-unit>
+      <trans-unit id="cleanerTaskErrorTCANotSet"><source>The table "%s" is not in the TCA.</source><target>The table "%s" ain't in the TCA, bruh.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

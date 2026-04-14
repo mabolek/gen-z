@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/Modules/qrcodes.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>QR Codes</source>
+        <target>QR Codes, bestie</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>QR Codes Administration</source>
+        <target>QR Codes Admin, bestie</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Generate and customize QR codes to provide quick, scannable access to your digital content.</source>
+        <target>Generate and customize QR codes for quick, scannable access to your content. It's giving tech-savvy, no cap.</target>
+      </trans-unit>
+      <trans-unit id="heading_text">
+        <source>QR Code Management</source>
+        <target>QR Code management, fam</target>
+      </trans-unit>
+      <trans-unit id="add_text">
+        <source>Add QR Code</source>
+        <target>Add QR Code, fam</target>
+      </trans-unit>
+      <trans-unit id="not_found_with_filter.message">
+        <source>No QR Code could be found with the current set of filters applied.</source>
+        <target>No QR Code found with these filters, ngl.</target>
+      </trans-unit>
+      <trans-unit id="not_found.title">
+        <source>No QR Codes found</source>
+        <target>No QR Codes found, oof</target>
+      </trans-unit>
+      <trans-unit id="not_found.message">
+        <source>There are currently no QR Codes found in the database.</source>
+        <target>No QR Codes in the database rn. It's giving empty.</target>
+      </trans-unit>
+      <trans-unit id="create">
+        <source>Create new QR Code</source>
+        <target>Manifest new QR Code</target>
+      </trans-unit>
+      <trans-unit id="delete.title">
+        <source>Delete QR Codes</source>
+        <target>Yeet QR Codes</target>
+      </trans-unit>
+      <trans-unit id="delete.message">
+        <source>Delete all marked QR Codes permanently? You cannot undo this action.</source>
+        <target>Permanently yeet all marked QR Codes? No take-backs bestie!</target>
+      </trans-unit>
+      <trans-unit id="download">
+        <source>Download</source>
+        <target>Snag it</target>
+      </trans-unit>
+      <trans-unit id="show">
+        <source>Show QR Code</source>
+        <target>Peep QR Code</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

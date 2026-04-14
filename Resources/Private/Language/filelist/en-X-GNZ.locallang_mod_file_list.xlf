@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:filelist/Resources/Private/Language/locallang_mod_file_list.xlf">
+    <header/>
+    <body>
+      <trans-unit id="clipBoard">
+        <source>Show clipboard</source>
+        <target>Show clipboard, fam</target>
+      </trans-unit>
+      <trans-unit id="clip_paste">
+        <source>Paste in clipboard content</source>
+        <target>Drop that clipboard content in, bestie</target>
+      </trans-unit>
+      <trans-unit id="clip_pasteInto">
+        <source>Paste into: Clipboard content is inserted into this folder</source>
+        <target>Drop into: clipboard content gets yeeted into this folder, fam</target>
+      </trans-unit>
+      <trans-unit id="editMarked">
+        <source>Edit Metadata</source>
+        <target>Glow up metadata</target>
+      </trans-unit>
+      <trans-unit id="editColumns">
+        <source>Edit specific Metadata</source>
+        <target>Glow up specific metadata</target>
+      </trans-unit>
+      <trans-unit id="deleteMarked">
+        <source>Delete marked items</source>
+        <target>Yeet marked items</target>
+      </trans-unit>
+      <trans-unit id="clip_selectMarked">
+        <source>Transfer to clipboard</source>
+        <target>Yeet to clipboard, bestie</target>
+      </trans-unit>
+      <trans-unit id="clip_deleteMarked">
+        <source>Remove from clipboard</source>
+        <target>Yeet from clipboard</target>
+      </trans-unit>
+      <trans-unit id="deleteMarkedWarning">
+        <source>Are you sure you want to delete all marked items from this folder?</source>
+        <target>You fr fr wanna yeet all marked items from this folder, fam?</target>
+      </trans-unit>
+      <trans-unit id="c_name">
+        <source>Name</source>
+        <target>Name, bestie</target>
+      </trans-unit>
+      <trans-unit id="c_size">
+        <source>Size</source>
+        <target>Size, fam</target>
+      </trans-unit>
+      <trans-unit id="c_record_type">
+        <source>Type</source>
+        <target>Type, bestie</target>
+      </trans-unit>
+      <trans-unit id="c_rw">
+        <source>RW</source>
+        <target>Read/Write vibes</target>
+      </trans-unit>
+      <trans-unit id="files">
+        <source>files</source>
+        <target>files, fam</target>
+      </trans-unit>
+      <trans-unit id="temp">
+        <source>Temporary files</source>
+        <target>Temporary files, bestie</target>
+      </trans-unit>
+      <trans-unit id="read">
+        <source>R</source>
+        <target>Read only</target>
+      </trans-unit>
+      <trans-unit id="recycler">
+        <source>Recycler</source>
+        <target>Recycler, fam</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tablabel" x-unused-since="14.0">
+        <source>Listing of files in the directory</source>
+        <target>Listing all the files in this folder, bestie</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tabdescr" x-unused-since="14.0">
+        <source>This is the file administration system in TYPO3.</source>
+        <target>This is the file admin system in TYPO3, fam. Upload, copy, move, and yeet files here, no cap.</target>
+      </trans-unit>
+      <trans-unit id="mlang_tabs_tab" x-unused-since="14.0">
+        <source>Filelist</source>
+        <target>File list, bestie</target>
+      </trans-unit>
+      <trans-unit id="write">
+        <source>W</source>
+        <target>Write only</target>
+      </trans-unit>
+      <trans-unit id="storageNotBrowsableTitle">
+        <source>Access denied.</source>
+        <target>Access denied, bruh.</target>
+      </trans-unit>
+      <trans-unit id="storageNotBrowsableMessage">
+        <source>You are trying to access a folder in a storage that is not browsable.</source>
+        <target>You're trying to access a folder in a storage that's not browsable, no cap.</target>
+      </trans-unit>
+      <trans-unit id="missingFolderPermissionsTitle">
+        <source>Missing folder permissions</source>
+        <target>Missing folder permissions, oof</target>
+      </trans-unit>
+      <trans-unit id="missingFolderPermissionsMessage">
+        <source>You have no access to the folder "%s".</source>
+        <target>You got no access to the folder "%s", bruh.</target>
+      </trans-unit>
+      <trans-unit id="localStorageOfflineTitle">
+        <source>Base folder for local storage missing or not allowed</source>
+        <target>Base folder for local storage is missing or not allowed, oof</target>
+      </trans-unit>
+      <trans-unit id="localStorageOfflineMessage">
+        <source>Verify that the base folder for the storage "%s" exists and is allowed to be accessed.</source>
+        <target>Check that the base folder for storage "%s" exists and is accessible, fam.</target>
+      </trans-unit>
+      <trans-unit id="folderNotFoundTitle">
+        <source>Folder not found.</source>
+        <target>Folder got ghosted.</target>
+      </trans-unit>
+      <trans-unit id="folderNotFoundMessage">
+        <source>The folder "%s" cannot be accessed. Trying to use parent folder(s).</source>
+        <target>The folder "%s" can't be accessed, bruh. Trying to use parent folder(s).</target>
+      </trans-unit>
+      <trans-unit id="translateMetadata">
+        <source>Translate metadata</source>
+        <target>Translate metadata, bestie</target>
+      </trans-unit>
+      <trans-unit id="createMetadataForLanguage">
+        <source>Create metadata of this file for %s</source>
+        <target>Create metadata of this file for %s, fam</target>
+      </trans-unit>
+      <trans-unit id="editMetadataForLanguage">
+        <source>Edit metadata of this file for %s</source>
+        <target>Glow up metadata of this file for %s</target>
+      </trans-unit>
+      <trans-unit id="paramError">
+        <source>Parameter Error</source>
+        <target>Parameter oof, bruh</target>
+      </trans-unit>
+      <trans-unit id="targetNoDir">
+        <source>Target was not a directory!</source>
+        <target>Target was not a directory, bruh!</target>
+      </trans-unit>
+      <trans-unit id="reloadMetadata">
+        <source>Reload Metadata</source>
+        <target>Reload metadata, fam</target>
+      </trans-unit>
+      <trans-unit id="rangeIndicator">
+        <source>Media %1$d - %2$d</source>
+        <target>Media %1$d - %2$d, bestie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

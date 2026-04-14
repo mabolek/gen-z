@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_tsfe.xlf">
+    <header/>
+    <body>
+      <trans-unit id="adminOptions">
+        <source>ADMIN PANEL</source>
+        <target>SIGMA PANEL</target>
+      </trans-unit>
+      <trans-unit id="adminPanelTitle">
+        <source>TYPO3 ADMIN PANEL</source>
+        <target>TYPO3 SIGMA PANEL</target>
+      </trans-unit>
+      <trans-unit id="preview">
+        <source>Preview</source>
+        <target>Sneak peek</target>
+      </trans-unit>
+      <trans-unit id="publish">
+        <source>Publish</source>
+        <target>Drop it</target>
+      </trans-unit>
+      <trans-unit id="publish_levels">
+        <source>Publish levels</source>
+        <target>Drop levels</target>
+      </trans-unit>
+      <trans-unit id="publish_tree">
+        <source>Publish pages</source>
+        <target>Drop pages</target>
+      </trans-unit>
+      <trans-unit id="publish_doit">
+        <source>Publish now</source>
+        <target>Drop it now!</target>
+      </trans-unit>
+      <trans-unit id="tsdebug">
+        <source>TypoScript</source>
+        <target>TypoScript vibes</target>
+      </trans-unit>
+      <trans-unit id="tsdebug_tree">
+        <source>Tree display</source>
+        <target>Tree display vibes</target>
+      </trans-unit>
+      <trans-unit id="tsdebug_LR">
+        <source>Track content rendering</source>
+        <target>Track content rendering fam</target>
+      </trans-unit>
+      <trans-unit id="tsdebug_forceTemplateParsing">
+        <source>Force TS Rendering</source>
+        <target>Force TS Rendering no cap</target>
+      </trans-unit>
+      <trans-unit id="tsdebug_displayTimes">
+        <source>Display all times</source>
+        <target>Show all times</target>
+      </trans-unit>
+      <trans-unit id="tsdebug_displayMessages">
+        <source>Display messages</source>
+        <target>Show messages</target>
+      </trans-unit>
+      <trans-unit id="tsdebug_displayContent">
+        <source>Display content</source>
+        <target>Show content</target>
+      </trans-unit>
+      <trans-unit id="update">
+        <source>Update</source>
+        <target>Update fam</target>
+      </trans-unit>
+      <trans-unit id="p_editRecord">
+        <source>Edit record</source>
+        <target>Glow up record</target>
+      </trans-unit>
+      <trans-unit id="p_moveUp">
+        <source>Move up</source>
+        <target>Slide up</target>
+      </trans-unit>
+      <trans-unit id="p_moveDown">
+        <source>Move down</source>
+        <target>Slide down</target>
+      </trans-unit>
+      <trans-unit id="p_unhide">
+        <source>Un-Hide</source>
+        <target>Un-ghost</target>
+      </trans-unit>
+      <trans-unit id="p_hide">
+        <source>Hide</source>
+        <target>Ghost it</target>
+      </trans-unit>
+      <trans-unit id="p_newSubpage">
+        <source>New subpage</source>
+        <target>Fresh subpage</target>
+      </trans-unit>
+      <trans-unit id="p_newRecordAfter">
+        <source>New record after</source>
+        <target>Fresh record after</target>
+      </trans-unit>
+      <trans-unit id="p_delete">
+        <source>Delete</source>
+        <target>Yeet it</target>
+      </trans-unit>
+      <trans-unit id="p_deleteConfirm">
+        <source>Are you sure you want to delete this record?</source>
+        <target>Fr fr you wanna yeet this record?</target>
+      </trans-unit>
+      <trans-unit id="p_hideConfirm">
+        <source>Hiding a record will make it invisible on the webpage. To edit the hidden record enter the backend or enable the frontend preview. Continue?</source>
+        <target>Ghosting a record makes it invisible on the webpage. To glow up the ghosted record, pull up to the backend or enable frontend preview. Continue?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

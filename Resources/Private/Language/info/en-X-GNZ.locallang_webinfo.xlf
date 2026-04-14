@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:info/Resources/Private/Language/locallang_webinfo.xlf">
+    <header/>
+    <body>
+      <trans-unit id="page_title">
+        <source>Pagetree overview</source>
+        <target>Pagetree overview, fam</target>
+      </trans-unit>
+      <trans-unit id="pages_0">
+        <source>Basic settings</source>
+        <target>Basic settings, bestie</target>
+      </trans-unit>
+      <trans-unit id="pages_2">
+        <source>Cache and Age</source>
+        <target>Cache and age</target>
+      </trans-unit>
+      <trans-unit id="pages_1">
+        <source>Record overview</source>
+        <target>Record overview, bestie</target>
+      </trans-unit>
+      <trans-unit id="pages_layouts">
+        <source>Layouts</source>
+        <target>The layouts</target>
+      </trans-unit>
+      <trans-unit id="actual_backend_layout">
+        <source>Actual backend layout</source>
+        <target>Current backend layout, fr fr</target>
+      </trans-unit>
+      <trans-unit id="lang_title">
+        <source>Localization overview</source>
+        <target>Translation overview</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_editPage">
+        <source>Edit page content</source>
+        <target>Glow up page content</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_editTranslatedPage">
+        <source>Edit translated page content</source>
+        <target>Glow up translated page content</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_viewPage">
+        <source>View page</source>
+        <target>Peep page</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_viewTranslatedPage">
+        <source>View translated page</source>
+        <target>Peep translated page</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_editPageProperties">
+        <source>Edit page properties</source>
+        <target>Glow up page properties</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_editTranslatedPageProperties">
+        <source>Edit translated page properties</source>
+        <target>Glow up translated page properties</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_editAllPageProperties">
+        <source>Edit all page properties</source>
+        <target>Glow up all page properties</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_editAllTranslationedPageProperties">
+        <source>Edit all translated page properties</source>
+        <target>Glow up all translated page properties</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_badThingThereAre">
+        <source>Multiple translated page records exist for this language, but only one is allowed. Please remove the extra records.</source>
+        <target>Caught in 4K: multiple translated page records exist for this language, but only one is allowed. Yeet the extra records, bestie!</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_page">
+        <source>Page</source>
+        <target>The page</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_default">
+        <source>Default</source>
+        <target>Default vibes</target>
+      </trans-unit>
+      <trans-unit id="lang_getlangsta_createNewTranslationHeaders">
+        <source>Create new translation headers</source>
+        <target>Drop new translation headers</target>
+      </trans-unit>
+      <trans-unit id="lang_renderl10n_CEcount">
+        <source>Content Element Count</source>
+        <target>Content element count</target>
+      </trans-unit>
+      <trans-unit id="moduleFunctions.depth">
+        <source>Depth</source>
+        <target>How deep</target>
+      </trans-unit>
+      <trans-unit id="moduleFunctions.type">
+        <source>Type</source>
+        <target>The vibe</target>
+      </trans-unit>
+      <trans-unit id="moduleFunctions.lang">
+        <source>Language</source>
+        <target>The language</target>
+      </trans-unit>
+      <trans-unit id="error.noAccess.title">
+        <source>No access</source>
+        <target>No access, bruh</target>
+      </trans-unit>
+      <trans-unit id="error.noAccess.message">
+        <source>You don't have access to this module.</source>
+        <target>You don't have access to this module, bruh. It's giving gatekept.</target>
+      </trans-unit>
+      <trans-unit id="info.noContent.message">
+        <source>There are no page information available.</source>
+        <target>No page tea available, ngl.</target>
+      </trans-unit>
+      <trans-unit id="info.noPageSelected.message">
+        <source>Please select a page in the page tree.</source>
+        <target>Pick a page in the page tree first, bestie.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_mod_site.xlf">
+    <header/>
+    <body>
+      <trans-unit id="mlang_labels_tablabel">
+        <source>Configuration and management tools for sites</source>
+        <target>Config and management tools for your sites bestie</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tabdescr">
+        <source>This main module holds all optimization for Site Integrators to manage different websites within one TYPO3 installation, templates, TypoScript and routing options.</source>
+        <target>This main module has all the vibes for Site Integrators to manage different websites in one TYPO3 installation, templates, TypoScript and routing options no cap.</target>
+      </trans-unit>
+      <trans-unit id="mlang_tabs_tab">
+        <source>Site Management</source>
+        <target>Site Management</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

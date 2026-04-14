@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:sys_note/Resources/Private/Language/locallang_widget_pages_with_internal_note.xlf">
+    <header/>
+    <body>
+      <trans-unit id="widget.pagesWithInternalNote.title"><source>System Notes</source><target>System notes</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.description"><source>Shows a list of pages with system notes.</source><target>Shows pages that have system notes, fam.</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.all.title"><source>All System Notes</source><target>All system notes</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.all.description"><source>Shows a list of pages with system notes</source><target>Shows pages with system notes</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.default.title"><source>Notes in the category "Default"</source><target>Notes in "Default" category</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.default.description"><source>Shows a list of pages with system notes in the category "Default"</source><target>Shows pages with system notes in the "Default" category</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.todo.title"><source>Notes in the category "ToDo"</source><target>Notes in "ToDo" category</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.todo.description"><source>Shows a list of pages with system notes in the category "ToDo"</source><target>Shows pages with system notes in the "ToDo" category</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.template.title"><source>Notes in the category "Template"</source><target>Notes in "Template" category</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.template.description"><source>Shows a list of pages with system notes in the category "Template"</source><target>Shows pages with system notes in the "Template" category</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.notes.title"><source>Notes in the category "Notes"</source><target>Notes in "Notes" category</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.notes.description"><source>Shows a list of pages with system notes in the category "Notes"</source><target>Shows pages with system notes in the "Notes" category</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.instructions.title"><source>Notes in the category "Instructions"</source><target>Notes in "Instructions" category</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.instructions.description"><source>Shows a list of pages with system notes in the category "Instructions"</source><target>Shows pages with system notes in the "Instructions" category</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.setting.category.label"><source>Category</source><target>The category</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.setting.category.description"><source>Category to be displayed.</source><target>Which category to peep.</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.setting.category.label.all"><source>All</source><target>All of it</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.created"><source>Created</source><target>Dropped</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.subjectmessage"><source>Subject and message</source><target>Subject and message, bestie</target></trans-unit>
+      <trans-unit id="widget.pagesWithInternalNote.goto_page"><source>Go to page</source><target>Slide to page</target></trans-unit>
+    </body>
+  </file>
+</xliff>

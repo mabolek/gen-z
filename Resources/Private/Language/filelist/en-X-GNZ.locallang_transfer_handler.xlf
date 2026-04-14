@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:filelist/Resources/Private/Language/locallang_transfer_handler.xlf">
+    <header/>
+    <body>
+      <trans-unit id="message.transfer_resource.title">
+        <source>Transfer Resource</source>
+        <target>Yeet resource, fam</target>
+      </trans-unit>
+      <trans-unit id="message.transfer_resource.text">
+        <source>Transfer "%s" to "%s"?</source>
+        <target>Yeet "%s" to "%s", bestie?</target>
+      </trans-unit>
+      <trans-unit id="message.transfer_resources.title">
+        <source>Transfer Resources</source>
+        <target>Yeet resources, fam</target>
+      </trans-unit>
+      <trans-unit id="message.transfer_resources.text">
+        <source>Transfer %d resources to "%s"?</source>
+        <target>Yeet %d resources to "%s", bestie?</target>
+      </trans-unit>
+      <trans-unit id="message.button.cancel">
+        <source>Cancel</source>
+        <target>Nvm bestie</target>
+      </trans-unit>
+      <trans-unit id="message.button.copy">
+        <source>Copy</source>
+        <target>Copy, fam</target>
+      </trans-unit>
+      <trans-unit id="message.button.move">
+        <source>Move</source>
+        <target>Yeet it there</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

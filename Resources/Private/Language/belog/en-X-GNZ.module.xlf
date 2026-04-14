@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:belog/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Log</source>
+        <target>Receipts</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Viewing log</source>
+        <target>Caught in 4K: check the receipts</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Allows you access to the full backend changelog in TYPO3.</source>
+        <target>Spill all the tea and stalk the full backend changelog in TYPO3. Everything caught in 4K, no cap, fam.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

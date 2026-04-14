@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:indexed_search/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Indexing</source>
+        <target>Indexing, no cap</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Search indexing control panel</source>
+        <target>Stalk indexing control panel</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Manage settings for the frontend search indexing engine and monitor statistics of indexed pages. Indexing must be enabled in TypoScript Setup.</source>
+        <target>Manage settings for the frontend stalk indexing engine and peep stats of indexed pages. Indexing gotta be enabled in TypoScript Setup, no cap.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

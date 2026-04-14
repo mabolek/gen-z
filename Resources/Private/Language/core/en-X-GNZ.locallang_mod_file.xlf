@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_mod_file.xlf">
+    <header/>
+    <body>
+      <trans-unit id="sys_file_storage.isOffline">
+        <source>offline</source>
+        <target>ghosted</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_basePath">
+        <source>Base path</source>
+        <target>The base path</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_basePath_placeholder">
+        <source>Add storage path here. For example: myPath/folder/</source>
+        <target>Drop storage path here. Like: myPath/folder/</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_baseUri">
+        <source>Base URI</source>
+        <target>The base URI</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_baseUri_placeholder">
+        <source>Use this URI to build the public URL of files, instead of deriving the URI from base path</source>
+        <target>Use this URI to build the public URL of files instead of vibing it from the base path</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_pathType">
+        <source>Path type</source>
+        <target>Path vibe</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_pathType_relative">
+        <source>relative</source>
+        <target>relative, bestie</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_pathType_absolute">
+        <source>absolute</source>
+        <target>absolute, no cap</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.localDriverFlexform_caseSensitive">
+        <source>Uses case sensitive identifiers</source>
+        <target>Uses case sensitive identifiers, fam</target>
+      </trans-unit>
+      <trans-unit id="role_folder_temporary">
+        <source>Temporary files</source>
+        <target>Temp files</target>
+      </trans-unit>
+      <trans-unit id="role_folder_recycler">
+        <source>Recycler</source>
+        <target>Trash can bestie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_tca.xlf">
+    <header/>
+    <body>
+      <trans-unit id="file_mountpoints">
+        <source>File Mounts</source>
+        <target>File Hangouts, bestie</target>
+      </trans-unit>
+      <trans-unit id="file_mountpoints_edit_title">
+        <source>Edit file mount</source>
+        <target>Glow up this file mount</target>
+      </trans-unit>
+      <trans-unit id="file_mountpoints_add_title">
+        <source>Create new file mount</source>
+        <target>Fresh drop: new file mount</target>
+      </trans-unit>
+      <trans-unit id="file_mountpoints_list_title">
+        <source>List file mounts</source>
+        <target>Stalk all file mounts</target>
+      </trans-unit>
+      <trans-unit id="page_tree_entry_points">
+        <source>Page Tree Entry Points</source>
+        <target>Page Tree Spawn Points</target>
+      </trans-unit>
+      <trans-unit id="page_tree_entry_points.description">
+        <source>The group also needs permissions to view the page, see module "Permissions"</source>
+        <target>The squad also needs perms to peep the page, check the "Permissions" module, fam</target>
+      </trans-unit>
+      <trans-unit id="userMods">
+        <source>Allowed modules</source>
+        <target>Allowed modules, no cap</target>
+      </trans-unit>
+      <trans-unit id="availableWidgets">
+        <source>Allowed dashboard widgets</source>
+        <target>Allowed dashboard widgets, bestie</target>
+      </trans-unit>
+      <trans-unit id="mfa_providers">
+        <source>Allowed multi-factor authentication providers</source>
+        <target>Allowed MFA providers (double locked, sheesh)</target>
+      </trans-unit>
+      <trans-unit id="allowed_languages">
+        <source>Limit to languages</source>
+        <target>Only these languages, fam</target>
+      </trans-unit>
+      <trans-unit id="allowed_languages.description">
+        <source>If no language is selected, all languages will be available by default.</source>
+        <target>If you don't pick anything, all languages are vibing by default, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="category_perms">
+        <source>Category Mounts</source>
+        <target>Category Hangouts</target>
+      </trans-unit>
+      <trans-unit id="workspace_perms">
+        <source>Workspace permissions</source>
+        <target>Workspace vibes (permissions)</target>
+      </trans-unit>
+      <trans-unit id="workspace_perms.description">
+        <source>Live workspace permissions are also required to allow management of files/resources</source>
+        <target>Live workspace perms are also needed to manage files and resources, bruh</target>
+      </trans-unit>
+      <trans-unit id="workspace_perms_live">
+        <source>Edit Live (Online)</source>
+        <target>Glow up Live (Online)</target>
+      </trans-unit>
+      <trans-unit id="TSconfig">
+        <source>TSconfig</source>
+        <target>TSconfig vibes</target>
+      </trans-unit>
+      <trans-unit id="tsconfig_includes">
+        <source>Include static TSconfig</source>
+        <target>Include static TSconfig, bestie</target>
+      </trans-unit>
+      <trans-unit id="be_users.username">
+        <source>Username</source>
+        <target>Username (your @)</target>
+      </trans-unit>
+      <trans-unit id="be_users.password">
+        <source>Password</source>
+        <target>Password (keep it lowkey, fam!)</target>
+      </trans-unit>
+      <trans-unit id="be_users.mfa">
+        <source>Multi-factor authentication</source>
+        <target>Double-locked authentication (MFA)</target>
+      </trans-unit>
+      <trans-unit id="be_users.avatar">
+        <source>Avatar</source>
+        <target>Profile pic (show your rizz)</target>
+      </trans-unit>
+      <trans-unit id="be_users.usergroup">
+        <source>Group</source>
+        <target>Squad</target>
+      </trans-unit>
+      <trans-unit id="be_users.usergroup_edit_title">
+        <source>Edit usergroup</source>
+        <target>Glow up this squad</target>
+      </trans-unit>
+      <trans-unit id="be_users.usergroup_add_title">
+        <source>Create new group</source>
+        <target>Fresh drop: new squad</target>
+      </trans-unit>
+      <trans-unit id="be_users.usergroup_list_title">
+        <source>List groups</source>
+        <target>Stalk all squads</target>
+      </trans-unit>
+      <trans-unit id="be_users.admin">
+        <source>Admin (!)</source>
+        <target>Sigma Admin (!)</target>
+      </trans-unit>
+      <trans-unit id="be_users.types.user">
+        <source>User</source>
+        <target>NPC (just lurking)</target>
+      </trans-unit>
+      <trans-unit id="be_users.types.admin">
+        <source>Admin</source>
+        <target>Sigma Admin</target>
+      </trans-unit>
+      <trans-unit id="be_users.options">
+        <source>Mount from groups</source>
+        <target>Inherit hangouts from squads</target>
+      </trans-unit>
+      <trans-unit id="be_users.options_page_tree_entry_points">
+        <source>Page Tree Entry Points</source>
+        <target>Page Tree Spawn Points</target>
+      </trans-unit>
+      <trans-unit id="be_users.options_page_tree_entry_points.description">
+        <source>The user also needs permissions to view the page, see module "Permissions"</source>
+        <target>The homie also needs perms to peep the page, check "Permissions", bruh</target>
+      </trans-unit>
+      <trans-unit id="be_users.options_file_mounts">
+        <source>File Mounts</source>
+        <target>File Hangouts</target>
+      </trans-unit>
+      <trans-unit id="be_users.fileoper_perms">
+        <source>Fileoperation permissions</source>
+        <target>File moves (permissions)</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files">
+        <source>Files</source>
+        <target>The files</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files_read">
+        <source>Files: Read</source>
+        <target>Files: Lurk</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files_write">
+        <source>Files: Write</source>
+        <target>Files: Drop bars</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files_add">
+        <source>Files: Add</source>
+        <target>Files: Add, bestie</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files_rename">
+        <source>Files: Rename</source>
+        <target>Files: Rebrand</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_replace">
+        <source>Files: Replace</source>
+        <target>Files: Swap out</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files_move">
+        <source>Files: Move</source>
+        <target>Files: Slide over</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files_copy">
+        <source>Files: Copy</source>
+        <target>Files: Dupe</target>
+      </trans-unit>
+      <trans-unit id="be_users.fileoper_perms_unzip">
+        <source>Files: Unzip</source>
+        <target>Files: Unpack</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.file_delete">
+        <source>Files: Delete</source>
+        <target>Files: Yeet</target>
+      </trans-unit>
+      <trans-unit id="be_users.fileoper_perms_general">
+        <source>Files: Upload,Copy,Move,Delete,Rename,New,Edit</source>
+        <target>Files: Upload,Dupe,Slide,Yeet,Rebrand,Fresh drop,Glow up</target>
+      </trans-unit>
+      <trans-unit id="be_users.fileoper_perms_diroper_perms">
+        <source>Directory: Move,Delete,Rename,New</source>
+        <target>Directory: Slide,Yeet,Rebrand,Fresh drop</target>
+      </trans-unit>
+      <trans-unit id="be_users.fileoper_perms_diroper_perms_copy">
+        <source>Directory: Copy</source>
+        <target>Directory: Dupe</target>
+      </trans-unit>
+      <trans-unit id="be_users.fileoper_perms_diroper_perms_delete">
+        <source>Directory: Delete recursively (rm -Rf)</source>
+        <target>Directory: Yeet everything, even the children (rm -Rf)</target>
+      </trans-unit>
+      <trans-unit id="be_users.lang">
+        <source>User Interface Language</source>
+        <target>UI Language, fam</target>
+      </trans-unit>
+      <trans-unit id="be_users.languageItemGroups.default">
+        <source>Default</source>
+        <target>Mid (Default)</target>
+      </trans-unit>
+      <trans-unit id="be_users.languageItemGroups.installed">
+        <source>Installed Languages</source>
+        <target>Installed Languages, bestie</target>
+      </trans-unit>
+      <trans-unit id="be_users.languageItemGroups.unavailable">
+        <source>Unavailable Languages</source>
+        <target>Cheugy Languages (unavailable)</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.permissions">
+        <source>Module Permissions</source>
+        <target>Module perms bestie</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.mounts_and_workspaces">
+        <source>Mounts</source>
+        <target>Hangouts</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.options">
+        <source>Options</source>
+        <target>Side Quests</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.extended">
+        <source>Extended</source>
+        <target>Cheugy stuff (Extended)</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.access">
+        <source>Access</source>
+        <target>Access, bestie</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.personal_data">
+        <source>Personal Data</source>
+        <target>Your personal deets</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.permissionRecords">
+        <source>Record Permissions</source>
+        <target>Record perms</target>
+      </trans-unit>
+      <trans-unit id="be_users.palettes.account">
+        <source>Account</source>
+        <target>Your account bestie</target>
+      </trans-unit>
+      <trans-unit id="be_users.palettes.authentication">
+        <source>Authentication</source>
+        <target>Who even are you, bestie</target>
+      </trans-unit>
+      <trans-unit id="be_users.palettes.permissionLanguages">
+        <source>Language permissions</source>
+        <target>Language perms, fam</target>
+      </trans-unit>
+      <trans-unit id="be_users.user_settings">
+        <source>User Settings</source>
+        <target>Your settings, bestie</target>
+      </trans-unit>
+      <trans-unit id="be_groups.title">
+        <source>Title</source>
+        <target>The title</target>
+      </trans-unit>
+      <trans-unit id="be_groups.pagetypes_select">
+        <source>Allowed page types</source>
+        <target>Allowed page types, fam</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tables_modify">
+        <source>Table permissions</source>
+        <target>Table perms</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tables_modify.description">
+        <source>Tables chosen for writing automatically receive read access permissions.</source>
+        <target>Tables you pick for writing automatically get lurk access too, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tables_modify.permissions.none">
+        <source>No Access</source>
+        <target>Gatekept, fam</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tables_modify.permissions.select">
+        <source>Read</source>
+        <target>Lurk</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tables_modify.permissions.modify">
+        <source>Read &amp; Write</source>
+        <target>Lurk &amp; Drop bars</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tables_select">
+        <source>Tables (listing)</source>
+        <target>Tables (the lineup)</target>
+      </trans-unit>
+      <trans-unit id="be_groups.non_exclude_fields">
+        <source>Allowed fields</source>
+        <target>Allowed fields, bruh</target>
+      </trans-unit>
+      <trans-unit id="be_groups.non_exclude_fields.description">
+        <source>Allow fields that are excluded in forms by default for non-admin users. This option refers to the 'exclude' configuration set in TCA (Table Configuration Array).</source>
+        <target>Unlock fields that are ghosted in forms by default for non-sigma homies. This is about the 'exclude' config in TCA, no cap.</target>
+      </trans-unit>
+      <trans-unit id="be_groups.explicit_allowdeny">
+        <source>Explicitly allow field values</source>
+        <target>Explicitly vibe-check field values</target>
+      </trans-unit>
+      <trans-unit id="be_groups.custom_options">
+        <source>Custom module options</source>
+        <target>Custom module side quests</target>
+      </trans-unit>
+      <trans-unit id="be_groups.subgroup">
+        <source>Inherit settings from groups</source>
+        <target>Inherit settings from other squads</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tabs.record_permissions">
+        <source>Record Permissions</source>
+        <target>Record perms</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tabs.module_permissions">
+        <source>Module Permissions</source>
+        <target>Module perms</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tabs.mounts_and_workspaces">
+        <source>Mounts</source>
+        <target>Hangouts</target>
+      </trans-unit>
+      <trans-unit id="be_groups.palettes.authentication">
+        <source>Authentication</source>
+        <target>Who even are you, bestie</target>
+      </trans-unit>
+      <trans-unit id="be_groups.palettes.permissionGeneral">
+        <source>General permissions</source>
+        <target>General perms</target>
+      </trans-unit>
+      <trans-unit id="be_groups.palettes.permissionLanguages">
+        <source>Language permissions</source>
+        <target>Language perms</target>
+      </trans-unit>
+      <trans-unit id="be_groups.palettes.permissionSpecific">
+        <source>Specific permissions</source>
+        <target>Specific perms</target>
+      </trans-unit>
+      <trans-unit id="be_groups.fileoper_perms">
+        <source>Fileoperation permissions</source>
+        <target>File moves (permissions)</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder">
+        <source>Directory</source>
+        <target>Folder</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_read">
+        <source>Directory: Read</source>
+        <target>Directory: Lurk</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_write">
+        <source>Directory: Write</source>
+        <target>Directory: Drop bars</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_add">
+        <source>Directory: Add</source>
+        <target>Directory: Add, bestie</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_rename">
+        <source>Directory: Rename</source>
+        <target>Directory: Rebrand</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_move">
+        <source>Directory: Move</source>
+        <target>Directory: Slide over</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_copy">
+        <source>Directory: Copy</source>
+        <target>Directory: Dupe</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_delete">
+        <source>Directory: Delete</source>
+        <target>Directory: Yeet</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_recursivedelete">
+        <source>Directory: Delete recursively</source>
+        <target>Directory: Yeet the whole thing (everything in it too)</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files">
+        <source>Files</source>
+        <target>The files</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_read">
+        <source>Files: Read</source>
+        <target>Files: Lurk</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_write">
+        <source>Files: Write</source>
+        <target>Files: Drop bars</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_edit">
+        <source>Files: Edit</source>
+        <target>Files: Glow up</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_add">
+        <source>Files: Add</source>
+        <target>Files: Add, bestie</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_rename">
+        <source>Files: Rename</source>
+        <target>Files: Rebrand</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_move">
+        <source>Files: Move</source>
+        <target>Files: Slide over</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_copy">
+        <source>Files: Copy</source>
+        <target>Files: Dupe</target>
+      </trans-unit>
+      <trans-unit id="be_groups.fileoper_perms_unzip">
+        <source>Files: Unzip</source>
+        <target>Files: Unpack</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_delete">
+        <source>Files: Delete</source>
+        <target>Files: Yeet</target>
+      </trans-unit>
+      <trans-unit id="be_groups.fileoper_perms_general">
+        <source>Files: Upload,Copy,Move,Delete,Rename,New,Edit</source>
+        <target>Files: Upload,Dupe,Slide,Yeet,Rebrand,Fresh drop,Glow up</target>
+      </trans-unit>
+      <trans-unit id="be_groups.fileoper_perms_diroper_perms">
+        <source>Directory: Move,Delete,Rename,New</source>
+        <target>Directory: Slide,Yeet,Rebrand,Fresh drop</target>
+      </trans-unit>
+      <trans-unit id="be_groups.fileoper_perms_diroper_perms_copy">
+        <source>Directory: Copy</source>
+        <target>Directory: Dupe</target>
+      </trans-unit>
+      <trans-unit id="be_groups.fileoper_perms_diroper_perms_delete">
+        <source>Directory: Delete recursively (rm -Rf)</source>
+        <target>Directory: Yeet everything, even the children (rm -Rf)</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tabs.options">
+        <source>Options</source>
+        <target>Side Quests</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tabs.extended">
+        <source>Extended</source>
+        <target>Cheugy stuff (Extended)</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.tabs.users">
+        <source>Users</source>
+        <target>The Homies</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.tabs.mountpoints">
+        <source>Mountpoints</source>
+        <target>Hangout Spots</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.tabs.publishing">
+        <source>Publishing</source>
+        <target>Dropping</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.tabs.other">
+        <source>Other</source>
+        <target>Other stuff tbh</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.identifier">
+        <source>Entry point</source>
+        <target>Spawn point</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.title">
+        <source>Label</source>
+        <target>What to call it</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.read_only">
+        <source>Read-only</source>
+        <target>Just lurking, no touching</target>
+      </trans-unit>
+      <trans-unit id="sys_history">
+        <source>System History</source>
+        <target>System Tea (caught in 4K)</target>
+      </trans-unit>
+      <trans-unit id="sys_log">
+        <source>System Log</source>
+        <target>System Tea spill (Log)</target>
+      </trans-unit>
+      <trans-unit id="sys_news">
+        <source>System News</source>
+        <target>System News (hot off the press)</target>
+      </trans-unit>
+      <trans-unit id="sys_news.tabs.access">
+        <source>Access</source>
+        <target>Access, fam</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.adminusers">
+        <source>Owners</source>
+        <target>Owners (the sigmas)</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.members">
+        <source>Members</source>
+        <target>Squad members</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.publish_time">
+        <source>Publish</source>
+        <target>Drop it</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.live_edit">
+        <source>Allow "live" editing of records from tables without versioning</source>
+        <target>Allow live glow ups of records from tables without versioning</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.review_stage_edit">
+        <source>Allow members to edit records in "Review" stage</source>
+        <target>Let the squad glow up records in "Review" stage</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.disable_autocreate">
+        <source>Disable auto-versioning when editing</source>
+        <target>Turn off auto-versioning when glowing up</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.publish_access">
+        <source>Publish access</source>
+        <target>Drop access</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.stagechg_notification">
+        <source>Stage change notification by email</source>
+        <target>DM notification when the stage changes</target>
+      </trans-unit>
+      <trans-unit id="pages">
+        <source>Page</source>
+        <target>The page</target>
+      </trans-unit>
+      <trans-unit id="pages.hidden_toggle">
+        <source>Page visible</source>
+        <target>Page not ghosted</target>
+      </trans-unit>
+      <trans-unit id="pages.hidden_toggle_formlabel">
+        <source>Page visible</source>
+        <target>Page not ghosted</target>
+      </trans-unit>
+      <trans-unit id="pages.nav_hide">
+        <source>Page not enabled in menus</source>
+        <target>Page is ghosted in menus</target>
+      </trans-unit>
+      <trans-unit id="pages.nav_hide_toggle">
+        <source>Page enabled in menus</source>
+        <target>Page is showing up in menus</target>
+      </trans-unit>
+      <trans-unit id="pages.nav_hide_toggle_formlabel">
+        <source>Page enabled in menus</source>
+        <target>Page is showing up in menus</target>
+      </trans-unit>
+      <trans-unit id="doktype.I.0">
+        <source>Standard</source>
+        <target>Mid (Standard)</target>
+      </trans-unit>
+      <trans-unit id="doktype.I.1">
+        <source>SysFolder</source>
+        <target>SysFolder bestie</target>
+      </trans-unit>
+      <trans-unit id="doktype.I.folder">
+        <source>Folder</source>
+        <target>The folder</target>
+      </trans-unit>
+      <trans-unit id="title">
+        <source>Page title</source>
+        <target>Page title, bruh</target>
+      </trans-unit>
+      <trans-unit id="php_tree_stop">
+        <source>Hide child pages in page tree</source>
+        <target>Ghost child pages in page tree</target>
+      </trans-unit>
+      <trans-unit id="is_siteroot">
+        <source>Is root of website</source>
+        <target>Sigma page: the OG root of the website</target>
+      </trans-unit>
+      <trans-unit id="pages.slug">
+        <source>URL Segment</source>
+        <target>URL Segment</target>
+      </trans-unit>
+      <trans-unit id="pages.description">
+        <source>Description for search engines</source>
+        <target>Description for search engines (serve that SEO tea)</target>
+      </trans-unit>
+      <trans-unit id="be_users">
+        <source>Backend user</source>
+        <target>Backend homie</target>
+      </trans-unit>
+      <trans-unit id="be_groups">
+        <source>Backend usergroup</source>
+        <target>Backend squad</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts">
+        <source>File mount</source>
+        <target>File hangout</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage">
+        <source>File Storage</source>
+        <target>File Stash</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.type">
+        <source>Entry point</source>
+        <target>Entry point</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.name">
+        <source>Name</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.hidden">
+        <source>Hide from listings</source>
+        <target>Ghost from listings</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.is_online">
+        <source>Is online?</source>
+        <target>Is online?</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.is_default">
+        <source>Is default storage?</source>
+        <target>Is the mid default stash?</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.is_browsable">
+        <source>Is browsable?</source>
+        <target>Can you scroll through it?</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.is_public">
+        <source>Is publicly available?</source>
+        <target>Publicly available (not ghosted)?</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.is_writable">
+        <source>Is writable?</source>
+        <target>Can you drop bars in it?</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.auto_extract_metadata">
+        <source>Automatically extract metadata after upload</source>
+        <target>Auto-extract metadata after upload, ngl</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.capabilities">
+        <source>Capabilities</source>
+        <target>Skills</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.processingfolder">
+        <source>Folder for manipulated and temporary images etc.</source>
+        <target>Folder for edited and temp images etc.</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.processingfolder.placeholder">
+        <source>_processed_ or 1:/processed_files_storage_x</source>
+        <target>_processed_ or 1:/processed_files_storage_x</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.driver">
+        <source>Driver</source>
+        <target>Driver</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.driver.local">
+        <source>Local Filesystem</source>
+        <target>Local Filesystem</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.configuration">
+        <source>Driver Configuration</source>
+        <target>Driver Config</target>
+      </trans-unit>
+      <trans-unit id="sys_file">
+        <source>File</source>
+        <target>File</target>
+      </trans-unit>
+      <trans-unit id="sys_file.storage">
+        <source>Storage</source>
+        <target>Stash</target>
+      </trans-unit>
+      <trans-unit id="sys_file.identifier">
+        <source>Identifier</source>
+        <target>Identifier</target>
+      </trans-unit>
+      <trans-unit id="sys_file.name">
+        <source>Filename</source>
+        <target>Filename</target>
+      </trans-unit>
+      <trans-unit id="sys_file.title">
+        <source>Title</source>
+        <target>Title</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type">
+        <source>File Type</source>
+        <target>File Type</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type.unknown">
+        <source>Unknown</source>
+        <target>Unknown, sus</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type.text">
+        <source>Text</source>
+        <target>Text</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type.image">
+        <source>Image</source>
+        <target>Image</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type.audio">
+        <source>Audio</source>
+        <target>Audio (beats)</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type.video">
+        <source>Video</source>
+        <target>Video (clips)</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type.software">
+        <source>Software</source>
+        <target>Software</target>
+      </trans-unit>
+      <trans-unit id="sys_file.mime_type">
+        <source>Mime Type</source>
+        <target>MIME Type</target>
+      </trans-unit>
+      <trans-unit id="sys_file.sha1">
+        <source>SHA1</source>
+        <target>SHA1</target>
+      </trans-unit>
+      <trans-unit id="sys_file.size">
+        <source>Size</source>
+        <target>Size</target>
+      </trans-unit>
+      <trans-unit id="sys_file.usage_count">
+        <source>Usage Count</source>
+        <target>How many times it's been used</target>
+      </trans-unit>
+      <trans-unit id="sys_file.description">
+        <source>Description</source>
+        <target>What's the vibe</target>
+      </trans-unit>
+      <trans-unit id="sys_file.alternative">
+        <source>Alternative Text</source>
+        <target>Alt text (accessibility rizz)</target>
+      </trans-unit>
+      <trans-unit id="sys_file.alternative.description">
+        <source>Images must have text alternatives that describe the information or function represented by them. This should only be empty for purely decorative images.</source>
+        <target>Images gotta have alt text that describes what's going on. Only leave it empty for purely decorative images, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="sys_file.missing">
+        <source>Marked as missing</source>
+        <target>Marked as missing (it's ghosting us)</target>
+      </trans-unit>
+      <trans-unit id="sys_file.metadata">
+        <source>Metadata records</source>
+        <target>Metadata records</target>
+      </trans-unit>
+      <trans-unit id="file.width">
+        <source>Width</source>
+        <target>Width</target>
+      </trans-unit>
+      <trans-unit id="file.height">
+        <source>Height</source>
+        <target>Height</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata">
+        <source>File Metadata</source>
+        <target>File Metadata</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference">
+        <source>File Reference</source>
+        <target>File Reference</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.uid_local">
+        <source>File</source>
+        <target>File</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.uid_foreign">
+        <source>Used by content elements</source>
+        <target>Used by content elements</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.tablenames">
+        <source>Table name</source>
+        <target>Table name</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.fieldname">
+        <source>Foreign Field</source>
+        <target>Foreign Field</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.sorting_foreign">
+        <source>Sorting foreign</source>
+        <target>Sorting foreign</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.basicoverlayPalette">
+        <source>File Metadata</source>
+        <target>File Metadata</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.imageoverlayPalette">
+        <source>Image Metadata</source>
+        <target>Image Metadata</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.audioOverlayPalette">
+        <source>Audio Metadata</source>
+        <target>Audio Metadata</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.videoOverlayPalette">
+        <source>Video Metadata</source>
+        <target>Video Metadata</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.title">
+        <source>Title</source>
+        <target>Title</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.description">
+        <source>Description (Caption)</source>
+        <target>What's the vibe (Caption)</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.downloadname">
+        <source>Download Name</source>
+        <target>Download Name</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.alternative">
+        <source>Alternative Text</source>
+        <target>Alt Text</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.link">
+        <source>Link</source>
+        <target>Link</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.crop">
+        <source>Image manipulation</source>
+        <target>Image crop game</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.autoplay">
+        <source>Autoplay</source>
+        <target>Autoplay (it just starts going, no cap)</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection">
+        <source>File collection</source>
+        <target>File collection</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.files">
+        <source>Files</source>
+        <target>Files</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.title">
+        <source>Title</source>
+        <target>Title</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.type">
+        <source>Type</source>
+        <target>Type</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.type.0">
+        <source>Selection of single files</source>
+        <target>Cherry-pick individual files</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.type.1">
+        <source>Files from a selected folder</source>
+        <target>Grab files from a folder</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.type.2">
+        <source>Files from a selected category</source>
+        <target>Grab files from a category</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.storage">
+        <source>File Storage</source>
+        <target>File Stash</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.folder">
+        <source>Folder</source>
+        <target>Folder</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.recursive">
+        <source>Recursive</source>
+        <target>Recursive (everything under it too)</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.category">
+        <source>Category</source>
+        <target>Category</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace">
+        <source>Workspace</source>
+        <target>Workspace</target>
+      </trans-unit>
+      <trans-unit id="editlock">
+        <source>Restrict editing by non-Admins</source>
+        <target>Only sigmas can glow up this</target>
+      </trans-unit>
+      <trans-unit id="sys_category">
+        <source>Category</source>
+        <target>Category</target>
+      </trans-unit>
+      <trans-unit id="sys_category.title">
+        <source>Title</source>
+        <target>Title</target>
+      </trans-unit>
+      <trans-unit id="sys_category.parent">
+        <source>Parent</source>
+        <target>Parent</target>
+      </trans-unit>
+      <trans-unit id="sys_category.items">
+        <source>Items</source>
+        <target>Items</target>
+      </trans-unit>
+      <trans-unit id="sys_category.categories">
+        <source>Categories</source>
+        <target>Categories</target>
+      </trans-unit>
+      <trans-unit id="sys_category.tabs.category">
+        <source>Categories</source>
+        <target>Categories</target>
+      </trans-unit>
+      <trans-unit id="sys_category.tabs.items">
+        <source>Items</source>
+        <target>Items</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

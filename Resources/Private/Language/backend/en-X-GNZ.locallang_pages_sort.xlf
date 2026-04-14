@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_pages_sort.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Sort sub pages</source>
+        <target>Sort sub pages, fam</target>
+      </trans-unit>
+      <trans-unit id="currentPageOrder">
+        <source>Current page order</source>
+        <target>Current page lineup</target>
+      </trans-unit>
+      <trans-unit id="changeOrder">
+        <source>Sort these pages by</source>
+        <target>Sort these pages by, bestie</target>
+      </trans-unit>
+      <trans-unit id="changeOrderConfirm">
+        <source>You're about to change the order of the above pages. Are you sure you want to continue?</source>
+        <target>You're about to switch up the order of these pages. You sure bestie?</target>
+      </trans-unit>
+      <trans-unit id="fieldTitle">
+        <source>Page title</source>
+        <target>Page title, fam</target>
+      </trans-unit>
+      <trans-unit id="fieldSubtitle">
+        <source>Subtitle</source>
+        <target>The subtitle</target>
+      </trans-unit>
+      <trans-unit id="fieldNavitle">
+        <source>Navigation title</source>
+        <target>Nav title</target>
+      </trans-unit>
+      <trans-unit id="fieldCrdate">
+        <source>Create-time</source>
+        <target>When it dropped</target>
+      </trans-unit>
+      <trans-unit id="fieldTstamp">
+        <source>Change-time</source>
+        <target>Last glow up</target>
+      </trans-unit>
+      <trans-unit id="changeOrderByTitle">
+        <source>Page title</source>
+        <target>Page title, bestie</target>
+      </trans-unit>
+      <trans-unit id="changeOrderBySubtitle">
+        <source>Subtitle</source>
+        <target>The subtitle</target>
+      </trans-unit>
+      <trans-unit id="changeOrderByNavtitle">
+        <source>Navigation title</source>
+        <target>Nav title</target>
+      </trans-unit>
+      <trans-unit id="changeOrderByTstamp">
+        <source>Change-time</source>
+        <target>Last glow up</target>
+      </trans-unit>
+      <trans-unit id="changeOrderByCreate">
+        <source>Create-time</source>
+        <target>When it dropped</target>
+      </trans-unit>
+      <trans-unit id="changeOrderReverse">
+        <source>Reverse current order</source>
+        <target>Reverse current order (Uno reverse card)</target>
+      </trans-unit>
+      <trans-unit id="hasInvisiblePage.title">
+        <source>Invisible subpages</source>
+        <target>Ghosted subpages</target>
+      </trans-unit>
+      <trans-unit id="hasInvisiblePage.message">
+        <source>Some subpages are not visible because of access restrictions. These hidden pages are excluded from sorting.</source>
+        <target>Some subpages are ghosted because of access restrictions. These ghosted pages are excluded from sorting.</target>
+      </trans-unit>
+      <trans-unit id="noSubpages.title">
+        <source>No subpages</source>
+        <target>No subpages, oof</target>
+      </trans-unit>
+      <trans-unit id="noSubpages.message">
+        <source>Please select a page with subpages.</source>
+        <target>Pick a page with subpages bestie.</target>
+      </trans-unit>
+      <trans-unit id="notAvailableInWorkspace.title">
+        <source>Not implemented</source>
+        <target>Not implemented yet fam</target>
+      </trans-unit>
+      <trans-unit id="notAvailableInWorkspace.message">
+        <source>This function is not available in the current draft workspace; please switch back to the LIVE workspace.</source>
+        <target>This function isn't available in the draft workspace bestie. Switch back to the LIVE workspace.</target>
+      </trans-unit>
+      <trans-unit id="noEditPermissions">
+        <source>No edit permissions on this sub page. This page can not be re-sorted among others.</source>
+        <target>No glow up permissions on this sub page. Can't re-sort it, no rizz.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

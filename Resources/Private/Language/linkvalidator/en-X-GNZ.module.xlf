@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:linkvalidator/Resources/Private/Language/module.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Check Links</source>
+        <target>Vibe Check Links</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Validate links to external URLs and internal resources</source>
+        <target>Vibe check links to external URLs and internal resources, no cap</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Identify broken or unreachable external URLs and internal resources.</source>
+        <target>Catch down bad or ghosted external URLs and internal resources in 4K, bestie!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

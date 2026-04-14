@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:linkvalidator/Resources/Private/Language/Module/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="linkvalidator">
+        <source>LinkValidator</source>
+        <target>LinkValidator, bestie</target>
+      </trans-unit>
+      <trans-unit id="overview.headline">
+        <source>Link check</source>
+        <target>Link vibe check</target>
+      </trans-unit>
+      <trans-unit id="overview.headlineWithPageTitle">
+        <source>Link check of page "%s"</source>
+        <target>Link vibe check of page "%s"</target>
+      </trans-unit>
+      <trans-unit id="hooks.db">
+        <source>Internal Links</source>
+        <target>Internal Links, fr fr</target>
+      </trans-unit>
+      <trans-unit id="hooks.file">
+        <source>File Links</source>
+        <target>File Links, bestie</target>
+      </trans-unit>
+      <trans-unit id="hooks.external">
+        <source>External Links</source>
+        <target>External Links, no cap</target>
+      </trans-unit>
+      <trans-unit id="filter.depth">
+        <source>Depth</source>
+        <target>How deep</target>
+      </trans-unit>
+      <trans-unit id="label_refresh">
+        <source>Refresh display</source>
+        <target>Refresh the vibe</target>
+      </trans-unit>
+      <trans-unit id="label_update">
+        <source>Check links</source>
+        <target>Vibe check links</target>
+      </trans-unit>
+      <trans-unit id="list.check.headline">
+        <source>Configuration</source>
+        <target>Config, no cap</target>
+      </trans-unit>
+      <trans-unit id="list.header">
+        <source>Listing of broken links</source>
+        <target>All the down bad links, caught in 4K</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.errorMessage">
+        <source>Error message</source>
+        <target>Oof message</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.field">
+        <source>Field</source>
+        <target>The field</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.lastCheck">
+        <source>Last check</source>
+        <target>Last vibe check</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.linkTarget">
+        <source>Link target</source>
+        <target>Where the link goes</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.linkText">
+        <source>Link text</source>
+        <target>The link text</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.linkType">
+        <source>Link type</source>
+        <target>The link vibe</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.page">
+        <source>Located on page / folder</source>
+        <target>Lives on page / folder</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.parentPage">
+        <source>Parent page / folder</source>
+        <target>Parent page / folder, fam</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.record">
+        <source>Record</source>
+        <target>The record</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.table">
+        <source>Table</source>
+        <target>The table</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.title">
+        <source>Title</source>
+        <target>The title</target>
+      </trans-unit>
+      <trans-unit id="list.tableHead.uid">
+        <source>Uid</source>
+        <target>The Uid</target>
+      </trans-unit>
+      <trans-unit id="list.tableFoot.record">
+        <source>Records</source>
+        <target>Records, bestie</target>
+      </trans-unit>
+      <trans-unit id="list.tableFoot.records">
+        <source>Records</source>
+        <target>Records, fam</target>
+      </trans-unit>
+      <trans-unit id="list.edit">
+        <source>Edit record containing this broken link</source>
+        <target>Glow up the record with this down bad link</target>
+      </trans-unit>
+      <trans-unit id="list.editField">
+        <source>Edit only the field containing this broken link</source>
+        <target>Glow up only the field with this down bad link</target>
+      </trans-unit>
+      <trans-unit id="list.report.btn.info.title">
+        <source>Display information</source>
+        <target>Spill the tea</target>
+      </trans-unit>
+      <trans-unit id="list.report.linkText.noValue">
+        <source>[No value]</source>
+        <target>[No value, ngl]</target>
+      </trans-unit>
+      <trans-unit id="list.report.pagedeleted">
+        <source>Page '###title###' (id=###uid###) is deleted.</source>
+        <target>Page '###title###' (id=###uid###) got yeeted.</target>
+      </trans-unit>
+      <trans-unit id="list.report.pagenotvisible">
+        <source>Page '###title###' (id=###uid###) is not visible.</source>
+        <target>Page '###title###' (id=###uid###) is ghosted (not visible).</target>
+      </trans-unit>
+      <trans-unit id="list.report.pagenotexisting">
+        <source>Page (id=###uid###) does not exist.</source>
+        <target>Page (id=###uid###) straight up doesn't exist, bruh.</target>
+      </trans-unit>
+      <trans-unit id="list.report.contentmoved">
+        <source>Record '###title###' (id=###uid###) is not located on page ###wrongpage###, but on page ###rightpage###.</source>
+        <target>Record '###title###' (id=###uid###) ain't on page ###wrongpage###, it's on page ###rightpage###. Sus, fr fr!</target>
+      </trans-unit>
+      <trans-unit id="list.report.contentdeleted">
+        <source>Record '###title###' (id=###uid###) is deleted.</source>
+        <target>Record '###title###' (id=###uid###) got yeeted.</target>
+      </trans-unit>
+      <trans-unit id="list.report.contentnotvisible">
+        <source>Record '###title###' (id=###uid###) is not visible.</source>
+        <target>Record '###title###' (id=###uid###) is ghosted.</target>
+      </trans-unit>
+      <trans-unit id="list.report.contentnotexisting">
+        <source>Record (id=###uid###) does not exist.</source>
+        <target>Record (id=###uid###) doesn't exist, bruh.</target>
+      </trans-unit>
+      <trans-unit id="list.report.noinformation">
+        <source>No information about the error is available.</source>
+        <target>No tea about this oof is available, ngl.</target>
+      </trans-unit>
+      <trans-unit id="list.report.redirectloop">
+        <source>A redirect loop occurred. (%s: %s)</source>
+        <target>Bruh, a detour loop happened. (%s: %s) It's giving NPC energy.</target>
+      </trans-unit>
+      <trans-unit id="list.report.tooManyRedirects">
+        <source>Too many redirects.</source>
+        <target>Too many detours, bruh. Pick a lane.</target>
+      </trans-unit>
+      <trans-unit id="list.report.filenotexisting">
+        <source>File doesn't exist.</source>
+        <target>File doesn't exist. It ghosted us, fam!</target>
+      </trans-unit>
+      <trans-unit id="linkcheck.error.external.generic">
+        <source>External link is broken.</source>
+        <target>External link is down bad, oof.</target>
+      </trans-unit>
+      <trans-unit id="list.report.couldnotresolvehost">
+        <source>Could not resolve host. The given remote host was not resolved.</source>
+        <target>Could not resolve host. The server is ghosting us, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="list.report.errornetworkdata">
+        <source>Failure with receiving network data.</source>
+        <target>L with receiving network data. Big oof.</target>
+      </trans-unit>
+      <trans-unit id="list.report.otherhttpcode">
+        <source>An error occurred (%s): "%s".</source>
+        <target>Oof occurred (%s): "%s".</target>
+      </trans-unit>
+      <trans-unit id="list.report.httpexception">
+        <source>Exception: %s</source>
+        <target>Exception: %s, bruh</target>
+      </trans-unit>
+      <trans-unit id="list.report.networkexception">
+        <source>Network error / invalid domain</source>
+        <target>Network oof / sus domain</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.httpstatuscode.300">
+        <source>Multiple Choices (300).</source>
+        <target>Multiple Choices (300). It's giving indecisive NPC energy.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.httpstatuscode.305">
+        <source>Use proxy (305).</source>
+        <target>Use proxy (305), bestie.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.redirectPermanently">
+        <source>URL permanently redirects to another URL (%d).</source>
+        <target>URL permanently detours to another URL (%d), no cap.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.redirectTemporary">
+        <source>URL temporarily redirects to another URL (%d).</source>
+        <target>URL temporarily detours to another URL (%d), ngl.</target>
+      </trans-unit>
+      <trans-unit id="list.report.pageforbidden403">
+        <source>Accessing this address is not allowed (403).</source>
+        <target>No rizz to access this address (403). Access denied, fam.</target>
+      </trans-unit>
+      <trans-unit id="list.report.pagenotfound404">
+        <source>The requested URL was not found (404).</source>
+        <target>The requested URL was not found (404). It ghosted us.</target>
+      </trans-unit>
+      <trans-unit id="list.report.internalerror500">
+        <source>Internal Server Error (500)</source>
+        <target>Internal Server Oof (500) - the server is NOT slaying rn</target>
+      </trans-unit>
+      <trans-unit id="list.report.externalerror">
+        <source>External Link returned HTTP error code (%s).</source>
+        <target>External Link returned HTTP oof code (%s).</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.1">
+        <source>Unsupported protocol.</source>
+        <target>Unsupported protocol, that's mid.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.2">
+        <source>Initialization failed.</source>
+        <target>Initialization took an L.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.3">
+        <source>The URL was not properly formatted.</source>
+        <target>The URL was not properly formatted, bestie.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.4">
+        <source>Feature not supported.</source>
+        <target>Feature not supported, that's mid.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.5">
+        <source>Couldn't resolve proxy.</source>
+        <target>Couldn't resolve proxy, oof.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.6">
+        <source>Couldn't resolve host.</source>
+        <target>Couldn't resolve host, big oof.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.7">
+        <source>Failed to connect to host or proxy.</source>
+        <target>Failed to connect to host or proxy. Connection took an L.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.8">
+        <source>The remote server sent data that could not be parsed.</source>
+        <target>The server sent data that could not be parsed. It's giving unhinged.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.9">
+        <source>Access denied.</source>
+        <target>Access denied, no rizz.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.16">
+        <source>Generic HTTP/2 error.</source>
+        <target>Generic HTTP/2 oof.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.18">
+        <source>A file transfer was shorter or larger than expected.</source>
+        <target>File transfer was shorter or larger than expected. Sus, no cap.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.28">
+        <source>Timeout: The remote server possibly took too long to answer.</source>
+        <target>Timeout: The server took too long to answer. Chill, server, we don't have all day bestie!</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.35">
+        <source>Problem with SSl / TLS handshake.</source>
+        <target>Problem with SSL/TLS handshake. Zero rizz on this connection, bestie.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.47">
+        <source>Too many redirects.</source>
+        <target>Too many detours, bruh.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.55">
+        <source>General network error. Send failed.</source>
+        <target>General network oof. Send took an L.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.56">
+        <source>General network error. Receive failed.</source>
+        <target>General network oof. Receive took an L.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.60">
+        <source>The remote server's SSL certificate was deemed not OK.</source>
+        <target>The server's SSL certificate is lowkey sus.</target>
+      </trans-unit>
+      <trans-unit id="list.report.error.libcurl.63">
+        <source>Maximum file size exceeded.</source>
+        <target>Maximum file size exceeded. Too thicc!</target>
+      </trans-unit>
+      <trans-unit id="list.msg.ok">
+        <source>Ok</source>
+        <target>Slay!</target>
+      </trans-unit>
+      <trans-unit id="list.msg.lastRun">
+        <source>%1$s %2$s</source>
+        <target>%1$s %2$s, fam</target>
+      </trans-unit>
+      <trans-unit id="list.no.broken.links.title">
+        <source>No broken links found</source>
+        <target>No down bad links found, W!</target>
+      </trans-unit>
+      <trans-unit id="list.no.broken.links">
+        <source>There are no broken links for the selected link type restriction.</source>
+        <target>No down bad links for the selected link type filter. All green flags, slay!</target>
+      </trans-unit>
+      <trans-unit id="no.access.title">
+        <source>No access</source>
+        <target>No access, fam</target>
+      </trans-unit>
+      <trans-unit id="no.access">
+        <source>You do not have access to these listings.</source>
+        <target>You don't have the rizz to access these listings, bestie.</target>
+      </trans-unit>
+      <trans-unit id="label_update-link-list">
+        <source>Checking links, please stand by.</source>
+        <target>Vibe checking links, hold on bestie.</target>
+      </trans-unit>
+      <trans-unit id="label_refresh-link-list">
+        <source>Refreshing link list, please stand by.</source>
+        <target>Refreshing the link list, hold on fam.</target>
+      </trans-unit>
+      <trans-unit id="needs-recheck">
+        <source>Needs recheck</source>
+        <target>Needs another vibe check</target>
+      </trans-unit>
+      <trans-unit id="info.noPageSelected.message">
+        <source>Please select a page in the page tree.</source>
+        <target>Pick a page from the page tree first, bestie.</target>
+      </trans-unit>
+      <trans-unit id="report.modal.info.title">
+        <source>Broken link</source>
+        <target>Down bad link</target>
+      </trans-unit>
+      <trans-unit id="report.modal.info.title.withLinkText">
+        <source>Broken link: "%s"</source>
+        <target>Down bad link: "%s"</target>
+      </trans-unit>
+      <trans-unit id="report.modal.info.headline.link">
+        <source>Link properties</source>
+        <target>Link properties, no cap</target>
+      </trans-unit>
+      <trans-unit id="report.modal.info.headline.record">
+        <source>Record information</source>
+        <target>Record info, bestie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

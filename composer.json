@@ -1,0 +1,19 @@
+{
+    "name": "bmack/gen-z",
+    "type": "typo3-cms-extension",
+    "description": "No cap! Registers 'Gen Z Speak' as a backend language and translates all TYPO3 labels into American Gen-Z internet slang. It's giving productivity!",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "typo3/cms-core": "^14.0"
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "gen_z"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Bmack\\GenZ\\": "Classes/"
+        }
+    }
+}

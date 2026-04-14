@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/Modules/short_urls.xlf">
+    <header/>
+    <body>
+      <trans-unit id="title">
+        <source>Short URLs</source>
+        <target>Short URLs, bestie</target>
+      </trans-unit>
+      <trans-unit id="short_description">
+        <source>Short URLs Administration</source>
+        <target>Short URLs Admin, fam</target>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>Create and manage Short URLs that redirect to longer links for easier sharing and tracking.</source>
+        <target>Manifest and manage Short URLs that detour to longer links for easy sharing and tracking, slay!</target>
+      </trans-unit>
+      <trans-unit id="heading_text">
+        <source>Short URL Management</source>
+        <target>Short URL management, fam</target>
+      </trans-unit>
+      <trans-unit id="add_text">
+        <source>Add Short URL</source>
+        <target>Add Short URL, bestie</target>
+      </trans-unit>
+      <trans-unit id="not_found_with_filter.message">
+        <source>No Short URL could be found with the current set of filters applied.</source>
+        <target>No Short URL found with these filters, ngl.</target>
+      </trans-unit>
+      <trans-unit id="not_found.title">
+        <source>No Short URLs found</source>
+        <target>No Short URLs found, oof</target>
+      </trans-unit>
+      <trans-unit id="not_found.message">
+        <source>There are currently no Short URLs found in the database.</source>
+        <target>No Short URLs in the database rn, ngl.</target>
+      </trans-unit>
+      <trans-unit id="create">
+        <source>Create new Short URL</source>
+        <target>Manifest new Short URL</target>
+      </trans-unit>
+      <trans-unit id="delete.title">
+        <source>Delete Short URLs</source>
+        <target>Yeet Short URLs</target>
+      </trans-unit>
+      <trans-unit id="delete.message">
+        <source>Delete all marked Short URLs permanently? You cannot undo this action.</source>
+        <target>Permanently yeet all marked Short URLs? No take-backs fam!</target>
+      </trans-unit>
+      <trans-unit id="show">
+        <source>Show Short URL</source>
+        <target>Peep Short URL</target>
+      </trans-unit>
+      <trans-unit id="generate_short_url">
+        <source>Generate Short URL</source>
+        <target>Generate Short URL, bestie</target>
+      </trans-unit>
+      <trans-unit id="validation.duplicate_short_url">
+        <source>This Short URL already exists. Please choose a different source host or source path.</source>
+        <target>This Short URL already exists. Pick a different source host or source path, bestie.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

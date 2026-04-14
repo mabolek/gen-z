@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:core/Resources/Private/Language/fileMessages.xlf">
+    <header/>
+    <body>
+      <trans-unit id="FileUtility.CannotCopyFolderIntoTargetFolderBecauseTheTargetFolderIsAlreadyWithinTheFolderToBeCopied">
+        <source>Folder "%s" cannot be copied because the destination already contains a folder or file named "%s".</source>
+        <target>Bruh folder "%s" can't be yoinked cuz the destination already has something named "%s" living rent free there.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.CannotMoveFolderIntoTargetFolderBecauseTheTargetFolderIsAlreadyWithinTheFolderToBeMoved">
+        <source>Folder "%s" cannot be moved to "%s" because source and destination are identical.</source>
+        <target>Fam you can't slide folder "%s" to "%s" cuz source and destination are literally the same, delulu.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.CouldNotAccessAllNecessaryResources">
+        <source>The operation could not be completed because one or more required resources are not accessible (source "%s" or destination "%s").</source>
+        <target>Oof this flopped cuz one or more resources are gatekeeping us (source "%s" or destination "%s").</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.CouldNotDeleteDirectory">
+        <source>Folder "%s" could not be deleted. It must be empty, as recursive deletion is not enabled.</source>
+        <target>Folder "%s" could not be yeeted. It gotta be empty fam, recursive yeeting isn't on.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.CouldNotDeleteDirectory1">
+        <source>Could not delete directory "%s"! There might be a problem with write permissions.</source>
+        <target>Could not yeet folder "%s"! Might be a permissions issue bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.CouldNotDeleteFile">
+        <source>File "%s" cannot not be deleted due to insufficent write permissions.</source>
+        <target>File "%s" can't be yeeted, you're getting gatekept on write permissions fam.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DestinationExistedAlready">
+        <source>The name "%s" is already in use.</source>
+        <target>The name "%s" is already taken bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DestinationPathWasNotWithinYourMountpoints">
+        <source>Destination path "%s" is not accessible</source>
+        <target>Destination path "%s" is gatekeeping you</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DestinationWasNotADirectory">
+        <source>Destination "%s" is not a folder.</source>
+        <target>Destination "%s" isn't even a folder bruh.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DirectoryCopiedTo">
+        <source>Folder "%s" copied to "%s".</source>
+        <target>Folder "%s" yoinked to "%s", slay!</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DirectoryCreatedIn">
+        <source>Folder "%s" created in "%s".</source>
+        <target>Folder "%s" dropped in "%s", W!</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DirectoryMovedTo">
+        <source>Folder "%s" moved to "%s".</source>
+        <target>Folder "%s" slid over to "%s".</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DirectoryNotCreated">
+        <source>Folder "%s" cannot be created in "%s" due to insufficent write permissions.</source>
+        <target>Folder "%s" can't be created in "%s", gatekept on write permissions fam.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DirectoryRenamedFromTo">
+        <source>Folder renamed from "%s" to "%s".</source>
+        <target>Folder glow up from "%s" to "%s".</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DirectoryRenamedFromToCharReplaced">
+        <source>Folder renamed from "%s" to "%s", with unsupported characters replaced.</source>
+        <target>Folder glow up from "%s" to "%s", sus characters got replaced.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DirectoryRenamedSameName">
+        <source>Folder "%s" already has this name. No changes were made.</source>
+        <target>Folder "%s" already goes by that name bestie. No changes.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DirectoryWasNotCopiedTo">
+        <source>Folder "%s" cannot be copied to "%s" due to insufficent write permissions.</source>
+        <target>Folder "%s" can't be yoinked to "%s", write permissions gatekeeping.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DirectoryWasNotMovedTo">
+        <source>Folder "%s" cannot be moved to "%s" due to insufficent write permissions.</source>
+        <target>Folder "%s" can't slide over to "%s", write permissions gatekeeping.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.DirectoryWasNotRenamed">
+        <source>Folder "%s" cannot be renamed in "%s" due to insufficent write permissions.</source>
+        <target>Folder "%s" can't get a glow up in "%s", write permissions gatekeeping.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.ExtensionOfFileNameIsNotAllowedIn">
+        <source>The file extension of "%s" is not permitted in "%s".</source>
+        <target>The file extension of "%s" is not allowed in "%s", gatekept.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.ExtensionOfFileNameOrWasNotAllowed">
+        <source>The file name %s or the extension %s is not allowed.</source>
+        <target>The filename %s or the extension %s is gatekept fam.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.ExtensionOfFileWasNotAllowed">
+        <source>The file extension of "%s" is not permitted.</source>
+        <target>The file extension of "%s" is gatekept bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileAlreadyExistsInFolder">
+        <source>A file with the same name "%s" already exists in "%s".</source>
+        <target>A file named "%s" is already living rent free in "%s".</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileCopiedTo">
+        <source>File "%s" copied to "%s".</source>
+        <target>File "%s" yoinked to "%s".</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileCreated">
+        <source>File "%s" created.</source>
+        <target>File "%s" just dropped, W!</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileNameSanitized">
+        <source>File renamed from "%s" to "%s", with unsupported characters replaced.</source>
+        <target>File glow up from "%s" to "%s", sus characters got replaced.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileExistedAlreadyIn">
+        <source>A file with the same name already exists in "%s"</source>
+        <target>A file with that name already exists in "%s" fam</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileExtensionIsNotATextfileFormat">
+        <source>File extension "%s" is not a supported text file format. Supported formats: %s.</source>
+        <target>File extension "%s" isn't a supported text format ngl. Supported: %s.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileExtensionIsNotzip">
+        <source>File extension is not "zip".</source>
+        <target>File extension isn't "zip" bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileMovedTo">
+        <source>File "%s" moved to "%s".</source>
+        <target>File "%s" slid over to "%s".</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileNameWasNotAllowed">
+        <source>The file name %s is not allowed.</source>
+        <target>The filename %s is gatekept fam.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileOrDestinationWasNotWithinYourMountpoints">
+        <source>File "%s" or destination "%s" was not within your mountpoints!</source>
+        <target>File "%s" or destination "%s" is outside your turf fam!</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileOrDirectoryExistedAlready">
+        <source>File or directory "%s" already exists.</source>
+        <target>File or folder "%s" already exists bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileRenamedFromTo">
+        <source>File renamed from "%s" to "%s".</source>
+        <target>File glow up from "%s" to "%s".</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileRenamedSameName">
+        <source>File "%s" already has this name. No changes were made.</source>
+        <target>File "%s" already goes by that name. No changes bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileSavedTo">
+        <source>File saved to "%s".</source>
+        <target>File saved fr fr to "%s".</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileWasNotCopiedTo">
+        <source>File "%s" cannot be copied to "%s" due to insufficent write permissions.</source>
+        <target>File "%s" can't be yoinked to "%s", write permissions gatekeeping.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileWasNotCreated">
+        <source>File "%s" cannot be created in "%s" due to insufficent write permissions.</source>
+        <target>File "%s" can't be dropped in "%s", write permissions gatekeeping.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileWasNotRenamed">
+        <source>File "%s" cannot be renamed in "%s" due to insufficent write permissions.</source>
+        <target>File "%s" can't get a glow up in "%s", write permissions gatekeeping.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileWasNotSaved">
+        <source>File "%s" cannot be saved due to insufficent write permissions.</source>
+        <target>File "%s" can't be saved fr, write permissions gatekeeping.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileWasNotSaved2">
+        <source>File "%s" was not saved! File extension rejected!</source>
+        <target>File "%s" was NOT saved! File extension got ratio'd!</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.NoFileWasUploaded">
+        <source>No file was uploaded.</source>
+        <target>No file was dropped bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.NoFileWasUploadedForReplacing">
+        <source>No file was uploaded for replacement.</source>
+        <target>No file was dropped for replacement fam.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.NoNameForNewFolderGiven">
+        <source>No name was provided for the new folder.</source>
+        <target>You forgot to name the new folder bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.NoUniqueFilenameAvailableIn">
+        <source>No unique filename could be generated in "%s".</source>
+        <target>Couldn't generate a unique filename in "%s" ngl.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.ReplacingFileTo">
+        <source>File "%s" was replaced with "%s".</source>
+        <target>File "%s" got swapped with "%s".</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.TargetAlreadyExists">
+        <source>Target "%s" already exists.</source>
+        <target>Target "%s" already exists fam.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.TargetWasNotAFile">
+        <source>Target "%s" was not a file.</source>
+        <target>Target "%s" wasn't even a file bruh.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.TargetWasNotWithinYourMountpoints">
+        <source>Destination file or folder "%s" was not accessible.</source>
+        <target>Destination file or folder "%s" is gatekeeping you.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.TheFileDidNotExist">
+        <source>The file "%s" did not exist or is no longer available.</source>
+        <target>The file "%s" doesn't exist or ghosted us.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.TheFunctionToCopyAFileBetweenStoragesIsNotYetImplemented">
+        <source>Copying files between storages is not yet available.</source>
+        <target>Yoinking files between storages isn't a thing yet bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.TheFunctionToCopyAFolderBetweenStoragesIsNotYetImplemented">
+        <source>Copying folders between storages is not yet available.</source>
+        <target>Yoinking folders between storages isn't a thing yet bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.TheFunctionToMoveAFileBetweenStoragesIsNotYetImplemented">
+        <source>Moving files between storages is not yet available.</source>
+        <target>Sliding files between storages isn't a thing yet fam.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.TheFunctionToMoveAFolderBetweenStoragesIsNotYetImplemented">
+        <source>Moving folders between storages is not yet available.</source>
+        <target>Sliding folders between storages isn't a thing yet fam.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.TheUploadHasFailedNoUploadedFileFound">
+        <source>No file was found for the upload.</source>
+        <target>No file found for upload, oof.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.TheUploadedFileExceedsTheSize-limit">
+        <source>The uploaded file "%s" exceeds the maximum allowed file size.</source>
+        <target>The dropped file "%s" is way too thicc (exceeds max file size).</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.UnzippingFileIn">
+        <source>Unzipping file "%s" in "%s".</source>
+        <target>Unzipping file "%s" in "%s".</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.UploadedFileCouldNotBeMoved">
+        <source>Uploaded file could not be moved in "%s" due to insufficent write permissions.</source>
+        <target>Dropped file couldn't slide over in "%s", write permissions gatekeeping.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.UploadingFileTo">
+        <source>File "%s" uploaded to "%s".</source>
+        <target>File "%s" dropped into "%s".</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToAccessTheDirectory">
+        <source>Access to this folder is not permitted.</source>
+        <target>Access to this folder? Gatekept bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToAccessTheFile">
+        <source>Access to this file is not permitted.</source>
+        <target>Access to this file? Gatekept fam.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToCopyDirectories">
+        <source>Copying directories is not permitted.</source>
+        <target>Yoinking folders is gatekept.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToCopyFiles">
+        <source>Copying files is not permitted.</source>
+        <target>Yoinking files is gatekept.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.InvalidFolderName">
+        <source>The folder name "%s" is not valid.</source>
+        <target>The folder name "%s" is not valid bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToCreateDirectories">
+        <source>Creating folders is not permitted.</source>
+        <target>Dropping folders is gatekept.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToCreateFiles">
+        <source>Creating files is not permitted.</source>
+        <target>Dropping files is gatekept.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToEditFiles">
+        <source>Editing files is not permitted.</source>
+        <target>Glowing up files is gatekept.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToMoveDirectories">
+        <source>Moving folders is not permitted.</source>
+        <target>Sliding folders is gatekept.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToMoveFiles">
+        <source>Moving files is not permitted.</source>
+        <target>Sliding files is gatekept.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToOverride">
+        <source>Overwriting "%s" is not permitted.</source>
+        <target>Overwriting "%s" is gatekept.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToRenameDirectories">
+        <source>Renaming folders is not permitted.</source>
+        <target>Giving folders a glow up is gatekept.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToRenameFiles">
+        <source>Renaming files is not permitted.</source>
+        <target>Giving files a glow up is gatekept.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToUnzipFiles">
+        <source>You are not allowed to unzip files.</source>
+        <target>Unzipping files? Gatekept bestie.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouAreNotAllowedToUploadFiles">
+        <source>Uploading files is not permitted.</source>
+        <target>Dropping files is gatekept.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.YouDontHaveFullAccessToTheDestinationDirectory">
+        <source>Full access to the destination folder "%s" is not available.</source>
+        <target>Full access to destination folder "%s" is not available fam.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.MimeTypeNotAllowedForFileExtensionWithExpectation">
+        <source>The MIME type "%s" is not allowed for files with the extension "%s". Expected: %s.</source>
+        <target>The MIME type "%s" is gatekept for files with extension "%s". Expected: %s.</target>
+      </trans-unit>
+      <trans-unit id="FileUtility.FileExtensionIsNotAllowed">
+        <source>File extension "%s" is not allowed here.</source>
+        <target>File extension "%s" is gatekept here bestie.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

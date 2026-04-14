@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_login.xlf">
+    <header/>
+    <body>
+      <trans-unit id="labels.submitLogout">
+        <source>Log Out</source>
+        <target>Peace out bestie</target>
+      </trans-unit>
+      <trans-unit id="labels.whatIsOpenId">
+        <source>What is OpenId?</source>
+        <target>What is OpenId tho?</target>
+      </trans-unit>
+      <trans-unit id="availableInterfaces">
+        <source>Backend,Front End,Traditional Backend</source>
+        <target>Backend,Front End,OG Backend</target>
+      </trans-unit>
+      <trans-unit id="headline">
+        <source>Login to the TYPO3 CMS Backend on ###SITENAME###</source>
+        <target>Slide into the TYPO3 CMS Backend on ###SITENAME### - it's giving productivity!</target>
+      </trans-unit>
+      <trans-unit id="info.about">
+        <source>This is the backend login of TYPO3. You need username and password to access this administration interface. If you are a visitor of ###SITENAME###, please visit the public website: ###SITELINK###</source>
+        <target>This is the backend login of TYPO3 bestie. You need a gamertag and secret sauce to access this admin interface. If you're just a visitor of ###SITENAME###, pull up to the public website: ###SITELINK###</target>
+      </trans-unit>
+      <trans-unit id="info.reset">
+        <source>Reset this form</source>
+        <target>Reset this form, bet!</target>
+      </trans-unit>
+      <trans-unit id="info.cookies_and_js">
+        <source>(Note: Cookies and JavaScript must be enabled!)</source>
+        <target>(Heads up: Cookies and JavaScript gotta be enabled, no cap!)</target>
+      </trans-unit>
+      <trans-unit id="clear">
+        <source>Clear this field!</source>
+        <target>Yeet this field!</target>
+      </trans-unit>
+      <trans-unit id="warning.incompatibleBrowserHeadline">
+        <source>Unsupported Browser</source>
+        <target>Red flag: Your browser is lowkey cringe</target>
+      </trans-unit>
+      <trans-unit id="warning.incompatibleBrowser">
+        <source>You are using an unsupported browser version.</source>
+        <target>Your browser version is not supported fam. Update it bestie.</target>
+      </trans-unit>
+      <trans-unit id="warning.incompatibleBrowserInternetExplorer">
+        <source>Please install &lt;a href="http://www.microsoft.com/internetexplorer/" target="_blank" rel="noreferrer" /&gt;a more modern browser version&lt;/a&gt;.</source>
+        <target>Please install &lt;a href="http://www.microsoft.com/internetexplorer/" target="_blank" rel="noreferrer" /&gt;a browser that actually slays&lt;/a&gt;.</target>
+      </trans-unit>
+      <trans-unit id="newsheadline">
+        <source>Important Messages</source>
+        <target>Important Messages fr fr</target>
+      </trans-unit>
+      <trans-unit id="error.login">
+        <source>Your login attempt did not succeed. Make sure to spell your username and password correctly, including upper/lowercase characters.</source>
+        <target>Aura -500! Login failed bestie. Make sure your gamertag and secret sauce are spelled right, including upper/lowercase.</target>
+      </trans-unit>
+      <trans-unit id="error.cookies_ignore">
+        <source>Ignore!</source>
+        <target>Idc, no cap!</target>
+      </trans-unit>
+      <trans-unit id="error.furtherInformation">
+        <source>For more information or further help click here</source>
+        <target>For more info or SOS fam click here</target>
+      </trans-unit>
+      <trans-unit id="warranty.by">
+        <source>Warranty is supplied by %s; %sdetails about licenses.%s</source>
+        <target>Your warranty hookup is %s; %sdeets about licenses.%s</target>
+      </trans-unit>
+      <trans-unit id="no.warranty">
+        <source>TYPO3 CMS comes with ABSOLUTELY NO WARRANTY; %sdetails about licenses.%s</source>
+        <target>TYPO3 CMS comes with ABSOLUTELY NO WARRANTY no cap; %sdetails about licenses.%s</target>
+      </trans-unit>
+      <trans-unit id="typo3.cms">
+        <source>TYPO3 CMS</source>
+        <target>TYPO3 CMS (the GOAT)</target>
+      </trans-unit>
+      <trans-unit id="typo3.altText">
+        <source>TYPO3 CMS logo</source>
+        <target>TYPO3 CMS logo (the brand, bestie)</target>
+      </trans-unit>
+      <trans-unit id="version.short">
+        <source>ver.</source>
+        <target>v.</target>
+      </trans-unit>
+      <trans-unit id="copyright">
+        <source>Copyright</source>
+        <target>Who owns this</target>
+      </trans-unit>
+      <trans-unit id="extension.copyright">
+        <source>Extensions are copyright of their respective owners.</source>
+        <target>Extensions are copyright of their respective owners. Respect the OGs!</target>
+      </trans-unit>
+      <trans-unit id="extension.trademark">
+        <source>TYPO3 is a registered %strademark%s.</source>
+        <target>TYPO3 is a registered %strademark%s no cap.</target>
+      </trans-unit>
+      <trans-unit id="details.link">
+        <source>Go to %s for details.</source>
+        <target>Pull up to %s for the deets.</target>
+      </trans-unit>
+      <trans-unit id="free.software">
+        <source>This is free software, and you are welcome to redistribute it under certain conditions; %sdetails about licenses.%s</source>
+        <target>This is free software bestie, and you're welcome to redistribute it under certain conditions; %sdetails about licenses.%s</target>
+      </trans-unit>
+      <trans-unit id="free_software_and_warranty">
+        <source>TYPO3 CMS comes with ABSOLUTELY NO WARRANTY. This is free software, and you are welcome to redistribute it under certain conditions, see %sdetails about licenses.%s</source>
+        <target>TYPO3 CMS comes with ABSOLUTELY NO WARRANTY fam. This is free software, and you're welcome to redistribute it under certain conditions, see %sdetails about licenses.%s</target>
+      </trans-unit>
+      <trans-unit id="free_software_and_custom_warranty">
+        <source>Warranty is supplied by %s. This is free software, and you are welcome to redistribute it under certain conditions, see %sdetails about licenses.%s</source>
+        <target>Warranty is supplied by %s. This is free software bestie, and you're welcome to redistribute it under certain conditions, see %sdetails about licenses.%s</target>
+      </trans-unit>
+      <trans-unit id="keep.notice">
+        <source>Obstructing the appearance of this notice is prohibited by law.</source>
+        <target>Ghosting this notice is literally illegal, no cap. It's the law.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

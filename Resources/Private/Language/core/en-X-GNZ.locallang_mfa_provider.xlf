@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_mfa_provider.xlf">
+    <header/>
+    <body>
+      <trans-unit id="totp.title">
+        <source>Time-based one-time password</source>
+        <target>Time-based one-time secret sauce (TOTP)</target>
+      </trans-unit>
+      <trans-unit id="totp.description">
+        <source>This provider allows to authenticate with a single-use passcode which is based on the current time.
+					Each code is only valid for 30 seconds. You need an OTP application or device, supporting such tokens.</source>
+        <target>This provider lets you authenticate with a single-use code based on the current time.
+					Each code only vibes for 30 seconds. You need an OTP app or device that supports these tokens bestie.</target>
+      </trans-unit>
+      <trans-unit id="totp.setupInstructions">
+        <source>The time-based one-time password provider enables you to strengthen your accounts' security by requiring a six-digit code on every login.
+					This provider is based on a shared secret, which will be exchanged between your OTP application (or device) and TYPO3. Each code takes the current time into account and is only valid for 30 seconds.
+
+					Setting up:
+					1. Scan the QR-code or directly enter the shared secret in your application or device
+					2. Add a specific name for this provider (optional)
+					3. Enter the generated six-digit code in the corresponding field
+					4. Submit the form to activate the provider
+
+					Note: In case your application supports otpauth:// URLs, you can retrieve the URL by clicking on the info button next to the shared secret.</source>
+        <target>The time-based one-time secret sauce provider makes your account more secure by requiring a six-digit code every time you slide in.
+					Based on a shared secret between your OTP app and TYPO3. Each code only vibes for 30 seconds.
+
+					Setting up:
+					1. Scan the QR code or enter the shared secret directly in your app
+					2. Drop a custom name for this provider (optional)
+					3. Enter the generated six-digit code
+					4. Submit the form to activate the provider
+
+					Note: If your app supports otpauth:// URLs, you can snag the URL by clicking the info button next to the shared secret.</target>
+      </trans-unit>
+      <trans-unit id="recoveryCodes.title">
+        <source>Recovery codes</source>
+        <target>Recovery codes (backup plan bestie)</target>
+      </trans-unit>
+      <trans-unit id="recoveryCodes.description">
+        <source>This provider allows to authenticate with a set of single-use passcodes, in case you lost your
+					primary MFA credentials, or just have no access to them temporarily.</source>
+        <target>This provider lets you authenticate with single-use codes if you lost your main MFA stuff or just can't get to it rn.</target>
+      </trans-unit>
+      <trans-unit id="recoveryCodes.setupInstructions">
+        <source>Recovery codes are random eight-digit codes which can be used to authenticate, in case your lost your main authentication credentials. Each code is only valid once.
+					As soon as all recovery codes are exhausted, you're required to generate a new set. Therefore, periodically check the amount of remaining codes in the Edit / Change view of the provider.
+
+					Setting up:
+					1. Copy the recovery codes and store them at a safe place
+					2. Add a specific name for this provider (optional)
+					3. Submit the form to activate the provider - see below note
+
+					Note: Since the recovery codes are being encrypted and stored securely, this process can take some time.</source>
+        <target>Recovery codes are random eight-digit codes you can use to authenticate if you lost your main creds. Each code is one-and-done.
+					When all codes are used up you gotta generate fresh ones. Keep checking how many you have left bestie.
+
+					Setting up:
+					1. Yoink the recovery codes and store them somewhere safe
+					2. Drop a custom name for this provider (optional)
+					3. Submit the form to activate the provider
+
+					Note: Since the codes get encrypted and stored securely, this might take a sec.</target>
+      </trans-unit>
+      <trans-unit id="totpInputLabel">
+        <source>Enter the generated six-digit code</source>
+        <target>Drop the generated six-digit code here</target>
+      </trans-unit>
+      <trans-unit id="totpInputHelp">
+        <source>This code should now be displayed on your device or in your application.</source>
+        <target>This code should be showing on your device or app rn.</target>
+      </trans-unit>
+      <trans-unit id="locked">
+        <source>The maximum attempts for this provider are exceeded. Please use another provider or contact your administrator.</source>
+        <target>Too many attempts fam, you're locked out. Use another provider or hit up your Sigma Admin.</target>
+      </trans-unit>
+      <trans-unit id="edit.table.head">
+        <source>Provider information</source>
+        <target>Provider deets</target>
+      </trans-unit>
+      <trans-unit id="edit.table.name">
+        <source>Name</source>
+        <target>The name</target>
+      </trans-unit>
+      <trans-unit id="edit.table.nameInputPlaceholder">
+        <source>Enter a name</source>
+        <target>Drop a name here</target>
+      </trans-unit>
+      <trans-unit id="edit.table.recoveryCodesLeft">
+        <source>Recovery codes left</source>
+        <target>Recovery codes still vibing</target>
+      </trans-unit>
+      <trans-unit id="edit.table.lastUsed">
+        <source>Last used</source>
+        <target>Last used, ngl</target>
+      </trans-unit>
+      <trans-unit id="edit.table.lastUsed.default">
+        <source>Never</source>
+        <target>Never fr fr</target>
+      </trans-unit>
+      <trans-unit id="edit.table.lastUpdated">
+        <source>Last updated</source>
+        <target>Last glowed up</target>
+      </trans-unit>
+      <trans-unit id="edit.regenerate">
+        <source>Regenerate recovery codes</source>
+        <target>Get fresh recovery codes</target>
+      </trans-unit>
+      <trans-unit id="edit.regenerate.description">
+        <source>
+					If you lost your recovery codes or just want to get fresh ones, you can
+					regenerate them by selecting the checkbox below. You've currently %d codes left.
+                </source>
+        <target>
+					If you lost your recovery codes or just want fresh ones, you can
+					regenerate them with the checkbox below bestie. You got %d codes left rn.
+                </target>
+      </trans-unit>
+      <trans-unit id="edit.regenerate.inputLabel">
+        <source>Regenerate recovery codes</source>
+        <target>Get fresh recovery codes, bestie</target>
+      </trans-unit>
+      <trans-unit id="setup.step.1">
+        <source>Step 1</source>
+        <target>Step 1, fam</target>
+      </trans-unit>
+      <trans-unit id="setup.step.1a">
+        <source>Step 1a</source>
+        <target>Step 1a, bestie</target>
+      </trans-unit>
+      <trans-unit id="setup.step.1b">
+        <source>Step 1b</source>
+        <target>Step 1b, ngl</target>
+      </trans-unit>
+      <trans-unit id="setup.step.2">
+        <source>Step 2</source>
+        <target>Step 2, fam</target>
+      </trans-unit>
+      <trans-unit id="setup.step.3">
+        <source>Step 3</source>
+        <target>Step 3, let's go</target>
+      </trans-unit>
+      <trans-unit id="setup.qrCode.label">
+        <source>Scan the displayed QR code</source>
+        <target>Scan the QR code bestie</target>
+      </trans-unit>
+      <trans-unit id="setup.qrCode.help">
+        <source>Scan this code with your OTP application (e.g. Google Authenticator).</source>
+        <target>Scan this code with your OTP app (like Google Authenticator).</target>
+      </trans-unit>
+      <trans-unit id="setup.secret.label">
+        <source>Copy the shared secret</source>
+        <target>Yoink the shared secret</target>
+      </trans-unit>
+      <trans-unit id="setup.secret.help">
+        <source>You can also enter the shared secret manually in your OTP application or device.</source>
+        <target>You can also manually enter the shared secret in your OTP app bestie.</target>
+      </trans-unit>
+      <trans-unit id="setup.name.label">
+        <source>Enter a name (optional)</source>
+        <target>Drop a name (optional)</target>
+      </trans-unit>
+      <trans-unit id="setup.name.help">
+        <source>Specify a custom name for this provider.</source>
+        <target>Give this provider a custom name bestie.</target>
+      </trans-unit>
+      <trans-unit id="setup.recoveryCodes.InputLabel">
+        <source>Recovery codes</source>
+        <target>Recovery codes, bestie</target>
+      </trans-unit>
+      <trans-unit id="setup.recoveryCodes.InputHelp">
+        <source>Copy these codes and store them at a safe place.</source>
+        <target>Yoink these codes and store them somewhere safe fr fr.</target>
+      </trans-unit>
+      <trans-unit id="setup.recoveryCodes.reloadTitle">
+        <source>Reload recovery codes</source>
+        <target>Refresh recovery codes</target>
+      </trans-unit>
+      <trans-unit id="setup.recoveryCodes.reloadLabel">
+        <source>Reload</source>
+        <target>Refresh</target>
+      </trans-unit>
+      <trans-unit id="setup.recoveryCodes.noActiveProviders.title">
+        <source>Setup not possible</source>
+        <target>Setup not possible, L</target>
+      </trans-unit>
+      <trans-unit id="setup.recoveryCodes.noActiveProviders.message">
+        <source>Recovery codes are only meant as a fallback if you lose access to your main multi-factor authentication credentials. Therefore, please activate a comprehensive MFA provider first.</source>
+        <target>Recovery codes are just a backup plan if you lose access to your main MFA creds. Activate a real MFA provider first bestie.</target>
+      </trans-unit>
+      <trans-unit id="setup.totpAuthUrlButton.title">
+        <source>Show authentication URL</source>
+        <target>Peep the authentication URL</target>
+      </trans-unit>
+      <trans-unit id="setup.totpAuthUrlModal.title">
+        <source>Authentication URL</source>
+        <target>Authentication URL, bestie</target>
+      </trans-unit>
+      <trans-unit id="setup.totpAuthUrlModal.description">
+        <source>In case you are not able to scan the QR code, but your OTP application supports
+					authentication URLs next to, or instead of plain shared secrets, you can copy and
+					paste the URL shown below. The URL contains some information like the issuer (this site)
+					and your email address or username. Most OTP applications will display this information
+					next to the generated codes.
+                </source>
+        <target>If you can't scan the QR code but your OTP app supports
+					authentication URLs instead of plain shared secrets, you can yoink and
+					paste the URL below. The URL has info like the issuer (this site)
+					and your email or gamertag. Most OTP apps show this info
+					next to the generated codes bestie.
+                </target>
+      </trans-unit>
+      <trans-unit id="setup.totpAuthUrlModal.ok">
+        <source>OK</source>
+        <target>Slay!</target>
+      </trans-unit>
+      <trans-unit id="auth.totp.inputLabel">
+        <source>Enter the six-digit code</source>
+        <target>Drop the six-digit code</target>
+      </trans-unit>
+      <trans-unit id="auth.recoveryCodes.inputLabel">
+        <source>Enter an eight-digit recovery code</source>
+        <target>Drop an eight-digit recovery code</target>
+      </trans-unit>
+      <trans-unit id="unlock.recoveryCodes.title">
+        <source>Your recovery codes were automatically updated!</source>
+        <target>Your recovery codes just got auto-updated!</target>
+      </trans-unit>
+      <trans-unit id="unlock.recoveryCodes.message">
+        <source>Please copy and store them at a safe place: %s</source>
+        <target>Yoink and store them somewhere safe bestie: %s</target>
+      </trans-unit>
+      <trans-unit id="update.recoveryCodes.title">
+        <source>Recovery codes successfully regenerated</source>
+        <target>Recovery codes regenerated, slay!</target>
+      </trans-unit>
+      <trans-unit id="update.recoveryCodes.message">
+        <source>Please copy and store them at a safe place: %s</source>
+        <target>Yoink and store them somewhere safe bestie: %s</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

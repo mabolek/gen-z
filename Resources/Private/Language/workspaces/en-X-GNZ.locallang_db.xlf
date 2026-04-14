@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:workspaces/Resources/Private/Language/locallang_db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="sys_workspace"><source>Workspace</source><target>The workspace</target></trans-unit>
+      <trans-unit id="sys_workspace.custom_stages"><source>Custom stages</source><target>Custom stages, fam</target></trans-unit>
+      <trans-unit id="sys_workspace_stage.responsible_persons"><source>Responsible persons</source><target>Responsible fam</target></trans-unit>
+      <trans-unit id="sys_workspace_stage.default_mailcomment"><source>Default mail comment</source><target>Default mail comment, bestie</target></trans-unit>
+      <trans-unit id="sys_workspace_stage.parentid"><source>UID of parent record</source><target>UID of the parent record</target></trans-unit>
+      <trans-unit id="sys_workspace_stage"><source>Workspace Stage</source><target>Workspace stage</target></trans-unit>
+      <trans-unit id="tabs.notification_settings"><source>Notification settings</source><target>Notification settings, bestie</target></trans-unit>
+      <trans-unit id="tabs.general"><source>General</source><target>General, fam</target></trans-unit>
+      <trans-unit id="tabs.internal_stages"><source>Internal Stages</source><target>Internal stages</target></trans-unit>
+      <trans-unit id="tabs.custom_stages"><source>Custom Stages</source><target>Custom stages</target></trans-unit>
+      <trans-unit id="tabs.publish_access"><source>Publishing / Access</source><target>Drop it live / Access</target></trans-unit>
+      <trans-unit id="sys_workspace_stage.notification_defaults"><source>Default notification recipients</source><target>Default notification recipients, fam</target></trans-unit>
+      <trans-unit id="sys_workspace_stage.allow_notificaton_settings"><source>Allow notification settings during stage change</source><target>Allow notification settings during stage change, bestie</target></trans-unit>
+      <trans-unit id="sys_workspace.palette.stage.edit"><source>Stage "editing"</source><target>Stage "glowing up"</target></trans-unit>
+      <trans-unit id="sys_workspace.palette.stage.publish"><source>Stage "ready to publish"</source><target>Stage "ready to drop it live"</target></trans-unit>
+      <trans-unit id="sys_workspace.palette.stage.execute"><source>Stage "publishing execute"</source><target>Stage "dropping it live"</target></trans-unit>
+      <trans-unit id="sys_workspace.settingsDialog"><source>Notification dialog settings</source><target>Notification dialog settings, bestie</target></trans-unit>
+      <trans-unit id="sys_workspace.settingsDialog.showDialog"><source>Show Dialog</source><target>Show dialog</target></trans-unit>
+      <trans-unit id="sys_workspace.settingsDialog.changeablePreselection"><source>Allow to change pre-selection of recipients</source><target>Allow changing pre-selected recipients, bro</target></trans-unit>
+      <trans-unit id="sys_workspace.preselection"><source>Pre-select recipients</source><target>Pre-select recipients, fam</target></trans-unit>
+      <trans-unit id="sys_workspace.preselection.owners"><source>Owners</source><target>The owners</target></trans-unit>
+      <trans-unit id="sys_workspace.preselection.members"><source>Members</source><target>The squad members</target></trans-unit>
+      <trans-unit id="sys_workspace.preselection.editors"><source>Unused, no functionality attached</source><target>Unused, literally an NPC</target></trans-unit>
+      <trans-unit id="sys_workspace.preselection.responsiblePersons"><source>Responsible Persons</source><target>Responsible fam</target></trans-unit>
+      <trans-unit id="sys_workspace.adminusers"><source>Owners</source><target>The owners, bestie</target></trans-unit>
+      <trans-unit id="sys_workspace.members"><source>Members</source><target>Squad members</target></trans-unit>
+      <trans-unit id="sys_workspace.publish_time"><source>Auto-publish changes on (requires scheduler task)</source><target>Auto-drop changes live on (requires scheduler task)</target></trans-unit>
+      <trans-unit id="sys_workspace.unpublish_time"><source>Un-Publish changes on (requires scheduler task)</source><target>Un-drop changes on (requires scheduler task)</target></trans-unit>
+      <trans-unit id="sys_workspace.live_edit"><source>Allow "live" editing of records from tables without versioning</source><target>Allow "live" glowing up of records from tables without versioning</target></trans-unit>
+      <trans-unit id="sys_workspace.publish_access"><source>Publish access</source><target>Drop-it-live access</target></trans-unit>
+      <trans-unit id="sys_workspace.publish_access.1"><source>Publish only content in publish stage</source><target>Only drop content live that's in the publish stage</target></trans-unit>
+      <trans-unit id="sys_workspace.publish_access.2"><source>Restrict publishing to workspace owners</source><target>Only workspace owners can drop it live</target></trans-unit>
+      <trans-unit id="sys_workspace.publish_access.3"><source>Hide "Entire workspace" action drop down</source><target>Ghost the "Entire workspace" action dropdown</target></trans-unit>
+      <trans-unit id="sys_workspace.stagechg_notification"><source>Send notifications upon state changes</source><target>Send notifications when states change</target></trans-unit>
+      <trans-unit id="sys_workspace.stagechg_notification.description"><source>This workspace-level setting determines if notifications are triggered when records transition to other stages or are published. Individual stages can have their own notification preferences.</source><target>This workspace-level setting determines if notifications get triggered when records slide to other stages or get dropped live. Individual stages can have their own notification preferences.</target></trans-unit>
+      <trans-unit id="sys_workspace.previewlink_lifetime"><source>Lifetime in hours on how long a preview link will be valid</source><target>How many hours a peep link stays valid</target></trans-unit>
+      <trans-unit id="tabs.users"><source>Users</source><target>The homies</target></trans-unit>
+      <trans-unit id="tabs.mountpoints"><source>Mountpoints</source><target>Hangout spots</target></trans-unit>
+    </body>
+  </file>
+</xliff>

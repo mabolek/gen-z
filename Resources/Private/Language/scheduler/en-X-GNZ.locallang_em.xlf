@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:scheduler/Resources/Private/Language/locallang_em.xlf">
+    <header/>
+    <body>
+      <trans-unit id="scheduler.config.maxLifetime">
+        <source>Maximum lifetime: Set the maximum runtime (in minutes) for a scheduler task. Tasks still running after this time are removed from the execution list but are not stopped.</source>
+        <target>Max grind time: Set the maximum runtime (in minutes) for a scheduler task, bestie. Tasks still vibing after this time get yeeted from the execution list but aren't stopped. No cap, the grind has limits fr fr.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

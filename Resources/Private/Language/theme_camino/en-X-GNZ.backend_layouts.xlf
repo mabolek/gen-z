@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:theme_camino/Resources/Private/Language/backend_layouts.xlf">
+    <header/>
+    <body>
+      <trans-unit id="backend_layout.colPos.0.name"><source>Content area</source><target>Content area, bestie</target></trans-unit>
+      <trans-unit id="backend_layout.colPos.1.name"><source>Sidebar</source><target>The sidebar</target></trans-unit>
+      <trans-unit id="backend_layout.colPos.2.name"><source>Hero area</source><target>Hero zone</target></trans-unit>
+      <trans-unit id="backend_layout.colPos.10.name"><source>Footer: Meta navigation</source><target>Footer: Meta nav</target></trans-unit>
+      <trans-unit id="backend_layout.colPos.11.name"><source>Footer: Column 1 (Logo)</source><target>Footer: Col 1 (Logo)</target></trans-unit>
+      <trans-unit id="backend_layout.colPos.12.name"><source>Footer: Column 2 (Menu)</source><target>Footer: Col 2 (Menu)</target></trans-unit>
+      <trans-unit id="backend_layout.colPos.13.name"><source>Footer: Column 3 (Menu)</source><target>Footer: Col 3 (Menu)</target></trans-unit>
+      <trans-unit id="backend_layout.colPos.14.name"><source>Footer: Column 4 (Menu)</source><target>Footer: Col 4 (Menu)</target></trans-unit>
+      <trans-unit id="backend_layout.camino_startpage.title"><source>Camino: Start page</source><target>Camino: Start page, bestie</target></trans-unit>
+      <trans-unit id="backend_layout.camino_contentpage.title"><source>Camino: Content page (full-width)</source><target>Camino: Full-width page, no cap</target></trans-unit>
+      <trans-unit id="backend_layout.camino_contentpage_sidebar.title"><source>Camino: Content page (with sidebar)</source><target>Camino: Page with sidebar vibes</target></trans-unit>
+    </body>
+  </file>
+</xliff>

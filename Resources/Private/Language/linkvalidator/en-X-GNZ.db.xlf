@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:linkvalidator/Resources/Private/Language/db.xlf">
+    <header/>
+    <body>
+      <trans-unit id="mod_linkvalidator">
+        <source>LinkValidator</source>
+        <target>LinkValidator, bestie</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.name">
+        <source>LinkValidator</source>
+        <target>LinkValidator, no cap</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.description">
+        <source>Search for broken links and store the result into the temporary table tx_linkvalidator_link in order to ease up the backend module.</source>
+        <target>Stalk for down bad links and yeet the results into the temp table tx_linkvalidator_link so the backend module can vibe, ngl.</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.page">
+        <source>Start page (uid)</source>
+        <target>Start page (uid), fr fr</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.depth">
+        <source>Depth</source>
+        <target>How deep</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.languages">
+        <source>Languages to search for broken links (Leave empty for all languages).</source>
+        <target>Languages to stalk for down bad links (leave empty for all languages), no cap.</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.conf">
+        <source>Overwrite TSconfig</source>
+        <target>Overwrite TSconfig, bestie</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.email">
+        <source>Send email report to</source>
+        <target>Send tea report to, fr fr</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.emailOnBrokenLinkOnly">
+        <source>Send email on new broken links only</source>
+        <target>Only spill tea on new down bad links</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.emailTemplateName">
+        <source>Email template name (without the extension)</source>
+        <target>Email template name (without the extension), no cap</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.invalidEmail">
+        <source>Invalid email format</source>
+        <target>Oof, sus email format</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.invalidPage">
+        <source>Invalid page uid, please enter a valid page uid</source>
+        <target>Sus page uid, pls enter a valid one bestie, no cap</target>
+      </trans-unit>
+      <trans-unit id="tasks.validate.invalidDepth">
+        <source>There is no depth set, please set it to one of the offered values</source>
+        <target>No depth set fam, pick one of the offered values rn</target>
+      </trans-unit>
+      <trans-unit id="tasks.notice.useDefaultTemplate">
+        <source>
+						The templateName was automatically set to the default because either the field in the task
+						configuration is empty or no file is found for the given name. Please note that both a .html and
+						.txt file must exist under the configured templatePath.
+                </source>
+        <target>
+						The templateName got auto-set to default cuz either the field in the task
+						config is empty or no file was found for that name, ngl. Both a .html and
+						.txt file gotta exist under the configured templatePath, no cap.
+                </target>
+      </trans-unit>
+      <trans-unit id="tasks.error.emptyToEmail">
+        <source>There must be at least one recipient defined</source>
+        <target>Bruh, you need at least one recipient defined</target>
+      </trans-unit>
+      <trans-unit id="tasks.error.invalidToEmail">
+        <source>Invalid format of one or more of the recipient email addresses</source>
+        <target>Oof, one or more recipient email addresses are sus format</target>
+      </trans-unit>
+      <trans-unit id="tasks.error.invalidFromEmail">
+        <source>Invalid format of the email address in the from header</source>
+        <target>Oof, the from header email address format is sus</target>
+      </trans-unit>
+      <trans-unit id="tasks.error.invalidPageUid">
+        <source>The given page id %d is invalid</source>
+        <target>Bruh, page id %d is sus and invalid</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.title">
+        <source>TYPO3 LinkValidator report</source>
+        <target>TYPO3 LinkValidator tea report</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.overview">
+        <source>Overview of broken links</source>
+        <target>Overview of down bad links</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.overview.all">
+        <source>Total broken links: %s (last report: %s)</source>
+        <target>Total down bad links: %s (last tea report: %s), oof</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.overview.internal">
+        <source>Internal links: %s (last report: %s)</source>
+        <target>Internal links: %s (last tea report: %s)</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.overview.external">
+        <source>External links: %s (last report: %s)</source>
+        <target>External links: %s (last tea report: %s)</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.overview.file">
+        <source>File / Media links: %s (last report: %s)</source>
+        <target>File / Media links: %s (last tea report: %s)</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.listing">
+        <source>Listing of broken links</source>
+        <target>All the down bad links, caught in 4K</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.listing.pageExplanation">
+        <source>If record type is "Page", the page id is the parent page.</source>
+        <target>If record type is "Page", the page id is the parent page, just so you know bestie.</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.listing.hoverExpalantion">
+        <source>Hover over an element to see more information e.g. the record title.</source>
+        <target>Hover over an element to peep more info like the record title, ngl.</target>
+      </trans-unit>
+      <trans-unit id="tasks.email.listing.explanation">
+        <source>Explanation: Record | Language | Page | Record type | Target | Link type</source>
+        <target>The tea: Record | Language | Page | Record type | Target | Link type</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.record">
+        <source>Record</source>
+        <target>The record</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.language">
+        <source>Language</source>
+        <target>The language</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.page">
+        <source>Page</source>
+        <target>The page</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.recordType">
+        <source>Record type</source>
+        <target>Record vibe</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.target">
+        <source>Target</source>
+        <target>Where it goes</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.type">
+        <source>Type</source>
+        <target>The vibe</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.type.db">
+        <source>Internal</source>
+        <target>Internal, fam</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.type.external">
+        <source>External</source>
+        <target>External, no cap</target>
+      </trans-unit>
+      <trans-unit id="task.email.brokenLinks.type.file">
+        <source>File / Media</source>
+        <target>File / Media, bestie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

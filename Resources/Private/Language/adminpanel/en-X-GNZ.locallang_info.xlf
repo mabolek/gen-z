@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:adminpanel/Resources/Private/Language/locallang_info.xlf">
+    <header/>
+    <body>
+      <trans-unit id="module.label">
+        <source>Info</source>
+        <target>The tea</target>
+      </trans-unit>
+      <trans-unit id="module.shortinfoLoadAndMemory">
+        <source>(Load Time: %1$u ms, Memory: %2$s)</source>
+        <target>(Load time: %1$u ms, Memory: %2$s)</target>
+      </trans-unit>
+      <trans-unit id="imagesOnPage">
+        <source>Images on this page</source>
+        <target>Pics on this page, fam</target>
+      </trans-unit>
+      <trans-unit id="imagesSize">
+        <source>Total image file sizes</source>
+        <target>Total pic file sizes, sheesh</target>
+      </trans-unit>
+      <trans-unit id="DocumentSize">
+        <source>Document size</source>
+        <target>Doc size, bestie</target>
+      </trans-unit>
+      <trans-unit id="pageUid">
+        <source>Page Uid</source>
+        <target>Page UID, fam</target>
+      </trans-unit>
+      <trans-unit id="pageType">
+        <source>Page type</source>
+        <target>Page type, ngl</target>
+      </trans-unit>
+      <trans-unit id="groupList">
+        <source>Frontenduser group combination</source>
+        <target>Frontend homie squad combo</target>
+      </trans-unit>
+      <trans-unit id="noCache">
+        <source>Page cached</source>
+        <target>Page stashed</target>
+      </trans-unit>
+      <trans-unit id="noCache_yes">
+        <source>Yes</source>
+        <target>Bet!</target>
+      </trans-unit>
+      <trans-unit id="noCache_no">
+        <source>No</source>
+        <target>Nah fam</target>
+      </trans-unit>
+      <trans-unit id="countUserInt">
+        <source>Count of USER_INT objects</source>
+        <target>Count of USER_INT objects, bestie</target>
+      </trans-unit>
+      <trans-unit id="feuserName">
+        <source>Name of logged in FE-User</source>
+        <target>Name of the FE homie who slid in</target>
+      </trans-unit>
+      <trans-unit id="feuserId">
+        <source>Id of logged in FE-User</source>
+        <target>ID of the FE homie who slid in</target>
+      </trans-unit>
+      <trans-unit id="totalParsetime">
+        <source>Total parsetime</source>
+        <target>Total parsetime, sheesh</target>
+      </trans-unit>
+      <trans-unit id="noUserInt">
+        <source>There are no USER_INT objects on this page.</source>
+        <target>Zero USER_INT objects on this page. Clean vibes!</target>
+      </trans-unit>
+      <trans-unit id="key">
+        <source>Key</source>
+        <target>Key, bestie</target>
+      </trans-unit>
+      <trans-unit id="value">
+        <source>Value</source>
+        <target>Value</target>
+      </trans-unit>
+      <trans-unit id="sub.general.label">
+        <source>General</source>
+        <target>General vibes</target>
+      </trans-unit>
+      <trans-unit id="sub.php.label">
+        <source>PHP</source>
+        <target>PHP</target>
+      </trans-unit>
+      <trans-unit id="sub.request.label">
+        <source>REQUEST</source>
+        <target>REQUEST, fam</target>
+      </trans-unit>
+      <trans-unit id="sub.userint.label">
+        <source>USER_INT</source>
+        <target>USER_INT, bestie</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

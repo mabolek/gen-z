@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:adminpanel/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="settings.label">
+        <source>Settings</source>
+        <target>Settings, bestie</target>
+      </trans-unit>
+      <trans-unit id="settings.updateButtonLabel">
+        <source>Update Settings</source>
+        <target>Save settings fr fr</target>
+      </trans-unit>
+      <trans-unit id="settings.openBackendUrlLabel">
+        <source>Open page in backend</source>
+        <target>Pull up page in backend, fam</target>
+      </trans-unit>
+      <trans-unit id="button.close">
+        <source>Close</source>
+        <target>Dip out</target>
+      </trans-unit>
+      <trans-unit id="button.view">
+        <source>View</source>
+        <target>Peep it</target>
+      </trans-unit>
+      <trans-unit id="button.clearAll">
+        <source>Clear all</source>
+        <target>Yeet it all</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

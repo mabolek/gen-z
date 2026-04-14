@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:install/Resources/Private/Language/Report/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="environment.status.title">
+        <source>System environment check</source>
+        <target>System vibe check</target>
+      </trans-unit>
+      <trans-unit id="environment.status.value">
+        <source>%1$s Test(s)</source>
+        <target>%1$s test(s)</target>
+      </trans-unit>
+      <trans-unit id="environment.status.message.error">
+        <source>The system environment check returned errors. Those errors will affect the functionality and stability of your TYPO3 CMS instance. Please check the install tool "System environment" for all details.</source>
+        <target>The system vibe check returned oofs. These oofs will affect the functionality and stability of your TYPO3 instance, no cap. Please check the install tool "Setup vibes" for all the tea.</target>
+      </trans-unit>
+      <trans-unit id="environment.status.message.warning">
+        <source>The system environment check returned warnings. Those warnings might have a negative effect on the functionality and stability of your TYPO3 CMS instance. Please check the install tool "System environment" for all details.</source>
+        <target>The system vibe check returned red flags. These red flags might lowkey mess with your TYPO3 instance. Check the install tool "Setup vibes" for all the tea, bestie.</target>
+      </trans-unit>
+      <trans-unit id="environment.status.message.notice">
+        <source>The system environment check returned notices. Those should not affect the functionality and stability of your TYPO3 CMS instance. Please check the install tool "System environment" for all details.</source>
+        <target>The system vibe check returned some tea. It shouldn't affect your TYPO3 instance tho, no cap. Check the install tool "Setup vibes" for details.</target>
+      </trans-unit>
+      <trans-unit id="environment.status.message.ok">
+        <source/>
+        <target/>
+      </trans-unit>
+      <trans-unit id="environment.status.message.info">
+        <source/>
+        <target/>
+      </trans-unit>
+      <trans-unit id="status_fileSystem">
+        <source>File System</source>
+        <target>File system</target>
+      </trans-unit>
+      <trans-unit id="status_writable">
+        <source>Writable</source>
+        <target>Writable, bestie</target>
+      </trans-unit>
+      <trans-unit id="status_missingDirectory">
+        <source>Required directory missing</source>
+        <target>Required directory is MIA, oof!</target>
+      </trans-unit>
+      <trans-unit id="status_nonExistingDirectory">
+        <source>Directory not existing</source>
+        <target>Directory doesn't exist, bruh</target>
+      </trans-unit>
+      <trans-unit id="status_recommendedWritableDirectory">
+        <source>Directory should be writable</source>
+        <target>Directory should be writable, ngl</target>
+      </trans-unit>
+      <trans-unit id="status_requiredWritableDirectory">
+        <source>Directory not writable</source>
+        <target>Directory not writable, oof</target>
+      </trans-unit>
+      <trans-unit id="status_directoryDoesNotExist">
+        <source>%s does not exist.</source>
+        <target>%s doesn't exist, bruh.</target>
+      </trans-unit>
+      <trans-unit id="status_directoryDoesNotExistCouldNotCreate">
+        <source>%s does not exist and could not be created.</source>
+        <target>%s doesn't exist and couldn't be created. Big L.</target>
+      </trans-unit>
+      <trans-unit id="status_directoryShouldAlsoBeWritable">
+        <source>Also note that it should be writable, if it did exist.</source>
+        <target>Also it should be writable if it did exist, ngl.</target>
+      </trans-unit>
+      <trans-unit id="status_directoryShouldBeWritable">
+        <source>%s should be writable.</source>
+        <target>%s should be writable, bestie.</target>
+      </trans-unit>
+      <trans-unit id="status_directoryMustBeWritable">
+        <source>%s must be writable.</source>
+        <target>%s MUST be writable, fr fr!</target>
+      </trans-unit>
+      <trans-unit id="status_remainingUpdates">
+        <source>Remaining updates</source>
+        <target>Remaining updates, bestie</target>
+      </trans-unit>
+      <trans-unit id="status_remoteFetchException">
+        <source>Could not fetch version matrix of TYPO3. Maybe this instance is blocked by a firewall?</source>
+        <target>Couldn't fetch the TYPO3 version matrix. Maybe this instance is getting gatekept by a firewall? Sus, ngl.</target>
+      </trans-unit>
+      <trans-unit id="status_isDevelopmentVersion">
+        <source>This version of TYPO3 seems to be a development version. Thus no update information exists.</source>
+        <target>This TYPO3 version seems to be a dev version. No update tea exists, ngl.</target>
+      </trans-unit>
+      <trans-unit id="status_patchLevelNotFoundInReleaseMatrix">
+        <source>It seems that this TYPO3 version has never been released. Thus no update information exists.</source>
+        <target>This TYPO3 version was apparently never released. No update tea exists, sheesh.</target>
+      </trans-unit>
+      <trans-unit id="status_newVersionSecurityRelevant">
+        <source>There is a new version of TYPO3 available, updating is security relevant. Please update to version %s.</source>
+        <target>New TYPO3 version dropped and the update is security relevant! Please level up to version %s ASAP, fr fr!</target>
+      </trans-unit>
+      <trans-unit id="status_newVersion">
+        <source>There is a new version of TYPO3 available. You can update to version %s.</source>
+        <target>New TYPO3 version just dropped! You can level up to version %s.</target>
+      </trans-unit>
+      <trans-unit id="status_elts_information">
+        <source>The currently installed TYPO3 version %s doesn't receive any community-driven updates anymore, consider subscribing to Extended Long Term Support (ELTS) releases. Get more information at %s.</source>
+        <target>TYPO3 version %s doesn't get community updates anymore, bestie. Consider getting Extended Long Term Support (ELTS). More tea at %s.</target>
+      </trans-unit>
+      <trans-unit id="status_elts_download">
+        <source>Please visit %s to download the release in your ELTS area.</source>
+        <target>Hit up %s to grab the release in your ELTS area, no cap.</target>
+      </trans-unit>
+      <trans-unit id="status_elts_subscribe">
+        <source>The currently installed TYPO3 version %s doesn't receive any community-driven updates anymore, consider subscribing to Extended Long Term Support (ELTS) releases. Get more information at %s.</source>
+        <target>TYPO3 version %s doesn't get community updates anymore. Check out ELTS at %s, fr fr.</target>
+      </trans-unit>
+      <trans-unit id="status_versionOutdated">
+        <source>The TYPO3 version you're using is not supported anymore. You should update to a supported version.</source>
+        <target>Your TYPO3 version is mid and not supported anymore. Level up to a supported version, bestie!</target>
+      </trans-unit>
+      <trans-unit id="status_noAutomaticCheck">
+        <source>Automatic update checking failed, please check for updates manually.</source>
+        <target>Automatic update vibe check failed. Please check for updates manually, bruh.</target>
+      </trans-unit>
+      <trans-unit id="status_uptodate">
+        <source>Your TYPO3 version is up-to-date.</source>
+        <target>Your TYPO3 version is up-to-date. W!</target>
+      </trans-unit>
+      <trans-unit id="status_installTool">
+        <source>Install Tool</source>
+        <target>The Install Tool</target>
+      </trans-unit>
+      <trans-unit id="status_enabledPermanently">
+        <source>Enabled permanently</source>
+        <target>Enabled permanently, no cap</target>
+      </trans-unit>
+      <trans-unit id="status_enabledTemporarily">
+        <source>Enabled temporarily</source>
+        <target>Enabled for now, bestie</target>
+      </trans-unit>
+      <trans-unit id="status_installEnabledTemporarily">
+        <source>The Install Tool is temporarily enabled. Delete the file "%s" when you have finished setting up TYPO3. If not used the Install Tool will be disabled automatically in %s minutes.</source>
+        <target>The Install Tool is temporarily enabled. Yeet the file "%s" when you're done setting up TYPO3. If not used, it'll auto-ghost itself in %s minutes.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

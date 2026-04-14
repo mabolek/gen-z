@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:backend/Resources/Private/Language/Modules/user_settings.xlf">
+    <header/>
+    <body>
+      <trans-unit id="short_description"><source>Personal profile settings</source><target>Personal profile settings (your drip)</target></trans-unit>
+      <trans-unit id="description"><source>This module allows you to customize your backend user profile. Here you can change your active system language, name and email address. You may also configure other general features in the system.</source><target>This module lets you customize your backend homie profile bestie. Change your system language, name and email address. You can also configure other general features in the system.</target></trans-unit>
+      <trans-unit id="title"><source>User Settings</source><target>Homie Settings</target></trans-unit>
+    </body>
+  </file>
+</xliff>

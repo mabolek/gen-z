@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:form/Resources/Private/Language/locallang.xlf">
+    <header/>
+    <body>
+      <trans-unit id="element.ImageUpload.properties.SummaryPage.altText">
+        <source>Uploaded image</source>
+        <target>Uploaded pic, bestie</target>
+      </trans-unit>
+      <trans-unit id="element.DatePicker.properties.timeSelectorHourLabel">
+        <source>Hour</source>
+        <target>Hour, fam</target>
+      </trans-unit>
+      <trans-unit id="element.DatePicker.properties.timeSelectorMinuteLabel">
+        <source>Minute</source>
+        <target>Minute, bestie</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221560910">
+        <source>This field is mandatory.</source>
+        <target>This field is non-negotiable, bestie!</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221560718">
+        <source>This field is mandatory.</source>
+        <target>You gotta fill this out, no cap!</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1347992400">
+        <source>This field is mandatory.</source>
+        <target>Non-negotiable field, fam! Do it!</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1347992453">
+        <source>This field is mandatory.</source>
+        <target>Can't skip this one, fr fr!</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1238087674">
+        <source>You must enter a valid date.</source>
+        <target>Drop a valid date, fam.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221551320">
+        <source>You can only enter letters or digits.</source>
+        <target>Letters or digits only, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221565786">
+        <source>You can only enter non formatted text without any markup (e.g without XML tags).</source>
+        <target>Plain text only, no markup (like no XML tags), fam.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1238110957">
+        <source>You can only enter non formatted text without any markup (e.g without XML tags).</source>
+        <target>Only unformatted text allowed, no tags or anything, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1269883975">
+        <source>You can only enter non formatted text without any markup (e.g without XML tags).</source>
+        <target>No markup here, fam. Plain text only.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1428504122">
+        <source>Your text must be a minimum of %s characters in length and no longer than %s.</source>
+        <target>Your text gotta be at least %s and no more than %s characters, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1238108068">
+        <source>You must enter text which is longer than %s characters.</source>
+        <target>Your text gotta be longer than %s characters, fam.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1238108069">
+        <source>You must enter text which is no longer than %s characters.</source>
+        <target>Your text can't be longer than %s characters, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221559976">
+        <source>You must enter a valid email address.</source>
+        <target>Drop a valid email, fam!</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221560494">
+        <source>You must enter a valid number.</source>
+        <target>That's gotta be a valid number, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221560288">
+        <source>You must enter a valid floating point number.</source>
+        <target>Drop a valid decimal number, fam.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221563685">
+        <source>You must enter a valid number.</source>
+        <target>Needs to be a number, no cap.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221561046">
+        <source>You must enter a valid number between %s and %s.</source>
+        <target>Drop a number between %s and %s, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1221565130">
+        <source>You must enter a valid value. Please refer to the description of this field.</source>
+        <target>Drop a valid value. Check the field description, fam.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1475002976">
+        <source>You must enter a countable subject.</source>
+        <target>Drop something countable, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1475002994">
+        <source>You must select between %s to %s elements.</source>
+        <target>Pick between %s and %s elements, fam.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1471708997">
+        <source>You must enter an instance of \TYPO3\CMS\Extbase\Domain\Model\FileReference or \TYPO3\CMS\Core\Resource\File.</source>
+        <target>You gotta drop an instance of \TYPO3\CMS\Extbase\Domain\Model\FileReference or \TYPO3\CMS\Core\Resource\File, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1471708998">
+        <source>You entered an incorrect media type, "%s" is not allowed for this file. Please refer to the description of this field.</source>
+        <target>Wrong media type, bruh! "%s" is not allowed here. Check the field description, fam.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1613126216">
+        <source>The file extension provided "%s" does not match to expected media types. Please refer to the description of this field.</source>
+        <target>The file extension "%s" doesn't match the expected media types. Check the field description, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1476396435">
+        <source>You must NOT fill this field.</source>
+        <target>Don't touch this field, fam!</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1505303626">
+        <source>You must enter an instance of \TYPO3\CMS\Extbase\Domain\Model\FileReference or \TYPO3\CMS\Core\Resource\File.</source>
+        <target>You gotta drop an instance of \TYPO3\CMS\Extbase\Domain\Model\FileReference or \TYPO3\CMS\Core\Resource\File, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1505305752">
+        <source>You must select a file that is larger than %s in size.</source>
+        <target>The file gotta be larger than %s, fam.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1505305753">
+        <source>You must select a file that is no larger than %s.</source>
+        <target>The file can't be larger than %s, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1521293685">
+        <source>You must enter an instance of \DateTime.</source>
+        <target>You gotta drop an instance of \DateTime, fam.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1521293686">
+        <source>You must select a date before %s.</source>
+        <target>Pick a date before %s, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1521293687">
+        <source>You must select a date after %s.</source>
+        <target>Pick a date after %s, fam.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1748345955">
+        <source>This field cannot be validated due to a configuration error. Please contact the website owner.</source>
+        <target>This field can't be vibe checked due to a config error. Hit up the website owner, bestie.</target>
+      </trans-unit>
+      <trans-unit id="validation.error.1556283177">
+        <source>Password does not match confirmation</source>
+        <target>Password doesn't match the confirmation, bruh</target>
+      </trans-unit>
+      <trans-unit id="form_new_wizard_title">
+        <source>Form</source>
+        <target>Form, fam</target>
+      </trans-unit>
+      <trans-unit id="form_new_wizard_description">
+        <source>A form that allows website users to submit messages.</source>
+        <target>A form that lets website users send it, bestie.</target>
+      </trans-unit>
+      <trans-unit id="upload.error.150530345">
+        <source>Maximum file size exceeded.</source>
+        <target>Max file size exceeded, oof!</target>
+      </trans-unit>
+      <trans-unit id="upload.error.150530346">
+        <source>Upload failed. The file was only partially uploaded, please try again.</source>
+        <target>Upload failed, bruh. File only partially uploaded, try again.</target>
+      </trans-unit>
+      <trans-unit id="upload.error.150530347">
+        <source>No file was uploaded.</source>
+        <target>No file was uploaded, bestie.</target>
+      </trans-unit>
+      <trans-unit id="upload.error.150530348">
+        <source>Upload failed.</source>
+        <target>Upload failed, oof.</target>
+      </trans-unit>
+      <trans-unit id="upload.remove">
+        <source>Remove</source>
+        <target>Yeet</target>
+      </trans-unit>
+      <trans-unit id="form.configuration.module.provider">
+        <source>Form: YAML Configuration</source>
+        <target>Form: YAML config, fam</target>
+      </trans-unit>
+      <trans-unit id="form.finisher.error">
+        <source>Your form could not be submitted due to a technical issue. It might be a temporary issue, but can also be related to your input.</source>
+        <target>Your form couldn't be sent due to a technical oof. Might be temporary, but could also be your input, ngl.</target>
+      </trans-unit>
+      <trans-unit id="pagination.previous">
+        <source>Previous</source>
+        <target>Back it up</target>
+      </trans-unit>
+      <trans-unit id="pagination.next">
+        <source>Next</source>
+        <target>Let's go</target>
+      </trans-unit>
+      <trans-unit id="pagination.first">
+        <source>First</source>
+        <target>OG page</target>
+      </trans-unit>
+      <trans-unit id="pagination.last">
+        <source>Last</source>
+        <target>Final boss</target>
+      </trans-unit>
+      <trans-unit id="pagination.forms">
+        <source>Forms</source>
+        <target>Forms, bestie</target>
+      </trans-unit>
+      <trans-unit id="pagination.page">
+        <source>Page</source>
+        <target>Page, fam</target>
+      </trans-unit>
+      <trans-unit id="pagination.refresh">
+        <source>Refresh</source>
+        <target>Refresh the vibes</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:adminpanel/Resources/Private/Language/locallang_cache.xlf">
+    <header/>
+    <body>
+      <trans-unit id="module.label">
+        <source>Cache</source>
+        <target>Stash</target>
+      </trans-unit>
+      <trans-unit id="cache.no_cache">
+        <source>No caching</source>
+        <target>No stashing, ngl</target>
+      </trans-unit>
+      <trans-unit id="cache.clear_current">
+        <source>Clear cache of current page</source>
+        <target>Yeet the stash on this page</target>
+      </trans-unit>
+      <trans-unit id="cache.clear_pages">
+        <source>Clear frontend cache</source>
+        <target>Yeet the frontend stash</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

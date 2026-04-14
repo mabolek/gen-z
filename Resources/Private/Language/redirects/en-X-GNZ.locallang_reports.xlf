@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-X-GNZ" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/locallang_reports.xlf">
+    <header/>
+    <body>
+      <trans-unit id="statusProvider">
+        <source>Redirects</source>
+        <target>Detours</target>
+      </trans-unit>
+      <trans-unit id="status.conflictingRedirects">
+        <source>Conflicting Redirects</source>
+        <target>Detours beefing with each other</target>
+      </trans-unit>
+      <trans-unit id="status.conflictingRedirects.none">
+        <source>None</source>
+        <target>None</target>
+      </trans-unit>
+      <trans-unit id="status.conflictingRedirects.count">
+        <source>%1$s conflicting redirects</source>
+        <target>%1$s detours that are beefing</target>
+      </trans-unit>
+      <trans-unit id="status.conflictingRedirects.message">
+        <source>These redirects cause a conflict as there are pages that are still accessible with the same URL.</source>
+        <target>These detours are beefing because there are pages still accessible with the same URL. Red flag, ngl!</target>
+      </trans-unit>
+      <trans-unit id="status.checkIntegrityResultState">
+        <source>Redirects integrity check</source>
+        <target>Detours integrity vibes check</target>
+      </trans-unit>
+      <trans-unit id="status.checkIntegrityResultState.title">
+        <source>List of conflicting redirects may not be up to date</source>
+        <target>List of beefing detours might not be up to date</target>
+      </trans-unit>
+      <trans-unit id="status.checkIntegrityResultState.message">
+        <source>Regularly run the console command redirects:checkintegrity.</source>
+        <target>Run the console command redirects:checkintegrity on the regular, bestie.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
