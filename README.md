@@ -9,7 +9,21 @@ The TYPO3 backend is professional, functional and... boring. Where's the rizz?
 Where's the aura? Why does it say "Delete" instead of "Yeet"? Why "Cancel" instead
 of "Nvm bestie"? And why does it say "Disabled" when "Ghosted" hits so much harder?
 
-This extension fixes that problem once and for all. Fr fr.
+## The Solution
+
+> If it doesn’t speak Gen Z, it doesn’t speak everyone.
+>
+> — Jaxon, born 2009
+
+Digital spaces shape who feels seen, heard, and empowered—and language is at the
+core of that experience. Integrating Gen-Z language into TYPO3 isn’t about trends or
+aesthetics; it’s about accessibility and inclusivity. Younger users engage with
+technology through evolving linguistic norms that reflect identity, culture, and
+community. When platforms ignore these shifts, they risk alienating a generation that
+already navigates barriers to participation. By embracing contemporary language, TYPO3
+can create a more welcoming environment, reduce friction in communication, and ensure
+that its tools remain relevant and equitable for all users—not just those fluent in
+traditional or legacy forms of expression.
 
 ## What it does
 
